@@ -1,0 +1,67 @@
+- title: "Con il sostegno di:"
+  format: "m4"
+  subitems:
+    - text: Istituto FIRC di Oncologia Molecolare
+      img: IFOM.png
+      link: https://www.ifom.eu/it/
+      fb: https://www.facebook.com/ifomyouscientist/
+      linkedin: https://www.linkedin.com/company/ifom/
+    - text: SDI The power of automation
+      img: logo_sdi.svg
+      link: http://www.sdiautomazione.com/index.html
+      linkedin: https://www.linkedin.com/company/s-d-i-automazione-industriale/
+    - text: GNR - Analytical Instruments Group
+      img: GNR.jpg
+      link: http://www.gnr.it/
+      linkedin: https://www.linkedin.com/company/gnrsrl/
+    - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
+      img: INSTM.jpg
+      link: http://www.instm.it/
+    - text: Università degli Studi di Pavia - Dipartimento di Fisica
+      img: logo_dip_banner.png
+      link: http://fisica.unipv.it/
+    - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
+      img: logo_101caffe.jpg
+      link: https://www.101caffe.it/
+      fb: https://www.facebook.com/101Caffe/
+      linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
+
+- title: "Con il patrocinio di:"
+  format: "m3"
+  subitems:
+    - text: Comune di Pavia
+      img: logo_comune_PV_bianco.png
+      link: http://www.comune.pv.it/
+      fb: https://www.facebook.com/comunePV/
+    - text: Università degli Studi di Pavia
+      img: logo_unipv_noscritta.jpg
+      link: http://www.unipv.eu/
+      fb: https://www.facebook.com/universitapavia/
+    - text: EDISU Pavia - Ente per il diritto allo studio universitario
+      img: logo_EDISU_bianco.svg
+      link: http://www.edisu.pv.it/
+    - text: Comune di Milano
+      img: comune_milano.png
+      link: https://www.comune.milano.it/
+      fb: https://www.facebook.com/comunemilano/
+    - text: Università degli Studi di Milano
+      img: logo_unimi.svg
+      link: http://www.unimi.it/
+    - text: Laboratorio Energia Nucleare Applicata (L.E.N.A.)
+      img: logo_lena.jpg
+      link: http://lena.unipv.it/
+    - text: Fondazione CNAO
+      img: CNAO.jpg
+      link: https://www.fondazionecnao.it/it/
+      fb: https://www.facebook.com/FondazioneCnao/
+    - text: Istituto Europeo di Oncologia (IEO)
+      img: IEO_duerighe.jpg
+      link: https://www.ieo.it/
+      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
+    - text: Istituto Nazionale di Fisica Nucleare (INFN)
+      img: logo_INFN.jpg
+      link: http://home.infn.it/it/
+      fb: https://www.facebook.com/IstitutoFisicaNucleare/
+    - text: Cluster Lombardo - Scienze della vita
+      img: logo_cluster-lombardo.jpg
+      link: http://www.lombardialifesciences.it/en/

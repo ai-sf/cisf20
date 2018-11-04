@@ -1,0 +1,32 @@
+- nome: "Prof. Stefano Forte"
+  id: forte
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/forte.jpg"
+  title: "TODO"
+  bio: "Stefano Forte è Professore Ordinario di Fisica Teorica presso l'Università degli Studi di Milano. <br>
+Dopo la laurea presso l'Università di Torino, consegue il dottorato al MIT. Prosegue la sua carrierapresso il Saclay nuclear research center, e quindi come fellow al CERN. Dal 1990 al 2002 lavora a Torino e Roma per INFN. Da gennaio 2003 è professore ordinario di fisica teorica all'Università degli Studi di Milano. <br>
+La sua ricerca è focalizzata sulla teoria delle interazioni forti (perturbative QCD), attualmente di grande interesse perché alla base della fisica di LHC, in particolare nello studio delle propietà del bosone di Higgs. Come portavoce della collaborazione NNPDF ha perseguito un nuovo approccio per la determinazione delle distribuzioni partoniche (PDF), che hanno svelato la struttura del nucleo. <br>
+Nel 2017 è stato insignito dell'ERC advanced grant che, per più di cinque anni, supporterà il progetto N3PDF, il cui scopo è di applicare l'intelligenza artificiale alla PDF determination, ed estendere e migliorare le attuali tecniche di risommazione della QCD."
+  abstract: "TODO"
+  link:
+
+- nome: "Dott. Fabio Pezzoli"
+  id: pezzoli
+  uni: "Università degli Studi di Milano Bicocca"
+  img: "/img/speakers/pezzoli.jpg"
+  title: "TODO"
+  bio: "Fabio Pezzoli è ricercatore presso il Dipartimento di Scienza dei Materiali dell'Università di Milano-Bicocca. <br>
+Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente consegue il dottorato di ricerca in nanostrutture e nanotecnologie. Durante il dottorato, svolge un periodo di ricerca presso la Johannes Kepler Universität di Linz. Lavora poi come Post-Doc presso il Max-Planck-Institut für Festkörperforschung di Stoccarda e il Leibniz-Institut für Festkörperund Werkstoffforschung Dresden. <br>
+Attualmente conduce la sua attività come ricercatore presso il Dipartimento di Scienza dei Materiali dell'Università di Milano-Bicocca e presso il centro interuniversitario L-NESS di Como. Tra giugno e luglio 2014 effettua un soggiorno di ricerca presso l'Institut National des Sciences Appliquées, INSA Toulouse. Nel 2017 e nel 2018 è co-organizzatore di simposi sui fenomeni spin dipendenti in semiconduttori, materiali bidimensionali e isolanti topologici al Fall Meeting del capitolo europeo della Materials Research Society. È attualmente membro del comitato editoriale di Communications Physics, una rivista ad accesso aperto del gruppo Nature Research."
+  abstract: "TODO"
+  link:
+
+- nome: "Dott. Gabriella Greison"
+  id: greison
+  img: "/img/speakers/greison.jpg"
+  title: "TODO"
+  bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br> Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
+  abstract: "TODO"
+  link:
+
+#per link, sottolineature, ecc, usare direttamente tag HTML es. <br>

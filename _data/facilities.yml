@@ -1,0 +1,56 @@
+intro: "Le visite mirano a dare ai partecipanti la possibilità di visitare centri di ricerca di grande rilievo, che costituiscono eccellenze all’interno del panorama nazionale ed internazionale. Le apparecchiature impiegate in questi laboratori sono un notevole esempio di come la fisica possa essere applicata alla medicina e in particolare alla cura dei tumori."
+
+pavia:
+  - img: img/lena.jpg
+    title: Laboratorio Energia Nucleare Applicata (L.E.N.A)
+    descr: Il Laboratorio Energia Nucleare Applicata LENA è un “Centro Servizi Interdipartimentale” dell’Università degli Studi di Pavia che gestisce un reattore nucleare di ricerca, un ciclotrone per la produzione di radioisotopi e altre sorgenti di radiazioni ionizzanti mettendole a disposizione di ricercatori dell’Ateneo pavese e di altri utenti, pubblici e privati, per lo svolgimento di attività di ricerca applicata, di didattica e di servizio. Il Centro svolge direttamente attività di ricerca e di formazione ed eroga servizi ai privati incoraggiando il trasferimento dei risultati della ricerca nel campo delle tecnologie nucleari al sistema produttivo.
+    site: http://lena.unipv.it
+    id: lena
+    map: https://goo.gl/maps/6D3Q61L8LsA2
+
+  - img: img/cnao_acc.jpg
+    slideshow:
+      - slide: img/cnao_centro.jpg
+      - slide: img/cnao_acc.jpg
+      - slide: img/cnao_tratt.jpg
+    title: Centro Nazionale di Adroterapia Oncologica (CNAO)
+    descr: "Il Centro Nazionale di Adroterapia Oncologica è nato con lo scopo di curare i tumori mediante l’impiego di protoni e di ioni carbonio, particelle appartenenti alla categoria degli adroni. La Fondazione CNAO è anche un Centro di Ricerca e Sviluppo le cui attività spaziano dalla ricerca clinica alla ricerca radiobiologica, a quella traslazionale con l’obiettivo di fornire un continuo miglioramento nella capacità di cura."
+    site: https://www.fondazionecnao.it/
+    id: cnao
+    map: https://goo.gl/maps/1t1iNQmZ8ez
+
+milano:
+  - img: img/ifom.jpeg
+    title: Istituto FIRC di Oncologia Molecolare (IFOM)
+    descr: Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
+    site: https://www.ifom.eu/it/
+    id: ifom
+    map: https://goo.gl/maps/THTmYTmDNGn
+
+  - img: img/IEO_duerighe.jpg
+    title: Istituto Europeo di Oncologia (IEO)
+    descr: L'Istituto Europeo di Oncologia (IEO), voluto da Umberto Veronesi, è stato inaugurato nel maggio 1994. Nel 1996 ha assunto il ruolo di Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS). Si tratta di un 'comprehensive cancer centre' a finalità 'non profit' ed è impegnato in tre settori (Clinica, Ricerca e Formazione). Alcuni dei valori a cui si ispira l'Istituto sono l'approccio multidisciplinare agli aspetti clinici e lo sviluppo della ricerca sperimentale con rapido trasferimento ai pazienti.
+    site: https://www.ieo.it/
+    id: ieo
+    map: https://goo.gl/maps/DQjG2MS3zsG2
+
+  - img: img/hsr.jpg
+    title: IRCCS Ospedale San Raffaele
+    descr: L'Ospedale San Raffaele è stato inaugurato nel 1971 e riconosciuto Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) nel 1972. Si tratta di una struttura clinico-scientifica- universitaria di rilievo internazionale ed è un Centro di Emergenza ad Alta Specialità (EAS). Nell’ambito della Ricerca, dal 2001 l’IRCCS Ospedale San Raffaele è riconosciuto dal Ministero della Salute come Istituto di Ricovero e Cura a Carattere Scientifico per la specialità di Medicina Molecolare.
+    site: http://research.hsr.it/en/index.html
+    id: sanraffaele
+    map: https://goo.gl/maps/Kk17kXqKVP62
+
+  - img: img/niguarda.png
+    title: ASST Grande Ospedale Metropolitano Niguarda
+    descr: L'ospedale Niguarda è nato del 1939. Attualmente è sede di tutte le specialità cliniche e chirurgiche sia per l’adulto sia per il bambino. Si tratta di uno dei maggiori Centri di Trapianti in Italia ed è centro di riferimento nazionale per le malattie rare. Ha una Banca di Tessuti e un Centro Grandi Ustionati; è sede del centro antiveleni e del quartier generale del 112 di Milano e provincia. Al Niguarda viene svolta attività di ricerca in collaborazione con Università e centri di ricerca internazionali.
+    site: http://www.ospedaleniguarda.it/
+    id: niguarda
+    map: https://goo.gl/maps/1jdEgqcJtH82
+
+  - img: img/INT.jpg
+    title: Fondazione IRCCS Istituto Nazionale dei Tumori (INT)
+    descr: La Fondazione IRCCS Istituto Nazionale dei Tumori (abbreviato come INT) è un ospedale pubblico milanese dedicato esclusivamente alla cura del cancro, sia dal punto di vista clinico, sia della ricerca. Al giorno d'oggi, rappresenta il più grande centro oncologico in Lombardia, oltre che la sede dell'ufficio di coordinamento della Rete oncologica lombarda (R.O.L.).
+    site: http://www.istitutotumori.mi.it/
+    id: int
+    map: https://goo.gl/maps/tQZpfpEg7nJ2

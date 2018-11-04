@@ -1,0 +1,28 @@
+# Site settings
+title: "CISF 2019"
+description: "Conferenza Italiana degli Studenti di Fisica 2019"
+#url: "http://ai-sf.it/cisf19/"
+url: "http://ai-sf.it/cxmwla3no1/"
+destination: ../site/
+locale: "it"
+
+# Build settings
+markdown: kramdown
+future: true
+permalink: /blog/:year/:month/:day/:title/
+destination: _site
+
+
+#facebook
+fb_admins:
+fb_appid:
+
+#Collections
+collections:
+  events:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+gems:
+ - jekyll-redirect-from
+ - jekyll-sitemap

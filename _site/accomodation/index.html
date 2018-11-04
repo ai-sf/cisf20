@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>CISF 2019 - Accomodation</title>
+
+<!-- Standard html meta tags -->
+    <meta name="description" content="  {% for item in site.data.accomodation.science %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}          {% endif %}                 ..." />
+    <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
+
+<!-- og -->
+    <meta property="og:title" content="Accomodation">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:4000/accomodation/">
+
+<meta property="og:description" content="  {% for item in site.data.accomodation.science %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}          {% endif %}                 ...">
+<meta property="og:site_name" content="CISF 2019">
+<meta property="og:locale" content="it">
+
+<meta property="fb:admins" content=""> <!-- editable in config.yml -->
+<meta property="fb:app_id" content="">
+
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="Accomodation" />
+<meta name="twitter:description"    content="  {% for item in site.data.accomodation.science %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}          {% endif %}                 ..."/>
+<!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
+
+
+
+
+
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+</head>
+
+  <body>
+    
+
+    
+    <ul id="dropdown-" class="dropdown-content">
+      <!-- <li><a href="http://localhost:4000/">Attività</a></li> -->
+      
+      <li><a href="http://localhost:4000/facilities">Visite</a></li>
+      
+      <li><a href="http://localhost:4000/speakers">Conferenze</a></li>
+      
+      <li><a href="http://localhost:4000/serate">Eventi serali</a></li>
+      
+      <li><a href="http://localhost:4000/alloggi">Alloggi</a></li>
+      
+    </ul>
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<nav class="custom1" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">CISF 2019</a>
+
+        <ul class="right hide-on-med-and-down">
+          
+          
+          <li>
+            <a class="dropdown-button" href="http://localhost:4000/" data-activates="dropdown-">Attività<i class="material-icons right">arrow_drop_down</i></a>
+          </li>
+          
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/programme"
+                   
+                   >
+                    
+                        Programma
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Registrazione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/staff"
+                   
+                   >
+                    
+                        Comitato organizzatore
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/sponsors"
+                   
+                   >
+                    
+                        Supporter
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://www.ai-sf.it" target="_blank"
+                   
+                   >
+                    
+                        AISF
+                    
+                </a>
+            </li>
+            
+        
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="width:80%" data="http://localhost:4000/img/logo.png">Your browser does not support PNG</object></a></li>
+            
+                
+                <li class="no-padding">
+                <ul class="collapsible collapsible-accordion">
+                  <li>
+                      <a class="collapsible-header">Attività</a>
+                    <div class="collapsible-body">
+                      <ul>
+                      <!--  <li><a href="http://localhost:4000/">Attività</a></li> -->
+                    
+                        <li><a href="http://localhost:4000/facilities">Visite</a></li>
+                    
+                        <li><a href="http://localhost:4000/speakers">Conferenze</a></li>
+                    
+                        <li><a href="http://localhost:4000/serate">Eventi serali</a></li>
+                    
+                        <li><a href="http://localhost:4000/alloggi">Alloggi</a></li>
+                    
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+                </li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/programme"
+                   
+                   >
+                  
+                  Programma
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Registrazione
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/staff"
+                   
+                   >
+                  
+                  Comitato organizzatore
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/sponsors"
+                   
+                   >
+                  
+                  Supporter
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://www.ai-sf.it" target="_blank"
+                   
+                   >
+                  
+                  AISF
+                  
+                </a></li>
+                
+            
+        </ul>
+    </div>
+</nav>
+
+        <div class="container">
+    <div class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">Accomodation</h1>
+      </header>
+
+      <article class="post-content">
+        <div class="section">
+  
+</div>
+
+
+      </article>
+
+    </div>
+</div>
+
+    <footer class="page-footer custom1">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 m6 s12">
+        <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
+        <p class="grey-text text-lighten-4" style="text-align:justify">L'Associazione Italiana Studenti di Fisica (AISF), organizzazione con finalità educative e senza fine di lucro, riunisce molti studenti di fisica italiani. <br> Conta più di 1000 membri e 17 Comitati Locali; fondata nel 2014, è un Comitato Nazionale dell'International Association of Physics Students (IAPS).</p>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Contact <i class="material-icons">mail_outline</i></h5>
+        <!-- <i class="material-icons">mail_outline</i> -->
+        <ul>
+        
+          <li>Comitato Esecutivo AISF</li>
+      	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">esecutivo@ai-sf.it</a></li>
+        
+          <li>AISF UniMi</li>
+      	  <li><a class="white-text" href="mailto:luca.teruzzi@ai-sf.it">luca.teruzzi@ai-sf.it</a></li>
+        
+          <li>AISF Milano Bicocca</li>
+      	  <li><a class="white-text" href="mailto:giulia.marcucci@ai-sf.it">giulia.marcucci@ai-sf.it</a></li>
+        
+        </ul>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Connect  <img src="http://localhost:4000/img/logo_FB.svg" height=30px></h5>
+        <ul>
+          
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/AISF_logo_white_nobkg.png" width=150px></a>
+          </li>
+	        
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/aisfunimi/" target="_blank"><img src="http://localhost:4000/img/logo_AISF_UNIMI.svg" width=150px></a>
+          </li>
+	        
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/AISFMilanoBICOCCA/" target="_blank"><img src="http://localhost:4000/img/logo_AISF_UNIMIB.png" width=150px></a>
+          </li>
+	        
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container">
+      Built with Jekyll and materializecss by
+      
+        <a class="white-text text-accent-3" href="mailto:">Luca Colombo Gomez</a>
+        
+        and
+        
+      
+        <a class="white-text text-accent-3" href="mailto:paoloandrea.wetzl@studenti.unimi.it">Paolo Wetzl</a>
+        
+        .
+        
+      
+    </div>
+  </div>
+</footer>
+
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://localhost:4000/js/bin/materialize.min.js"></script>
+<script src="http://localhost:4000/js/init.js"></script>
+
+<script> // Slider
+  $(document).ready(function(){
+  $('.slider').slider({full_width: false});
+  });
+</script>
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  $('.collapsible').collapsible();
+</script>
+<script>
+  $(document).ready(function(){
+  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+  $('.modal-trigger').leanModal();
+  });
+</script>
+<script>
+  $(document).ready(function(){
+      $('.carousel').carousel();
+  });
+</script>
+
+<script src="http://localhost:4000/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="http://localhost:4000/js/jssor.slider-22.2.16.mini.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            var jssor_1_options = {
+              $AutoPlay: true,
+              $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$
+              },
+              $ThumbnailNavigatorOptions: {
+                $Class: $JssorThumbnailNavigator$,
+                $Cols: 9,
+                $SpacingX: 3,
+                $SpacingY: 3,
+                $Align: 260
+              }
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*responsive code begin*/
+            /*remove responsive code if you don't want the slider scales while window resizing*/
+            /*function ScaleSlider() {
+                var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+                if (refSize) {
+                    refSize = Math.min(refSize, 1024);
+                    jssor_1_slider.$ScaleWidth(refSize);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+           /* ScaleSlider();
+            $(window).bind("load", ScaleSlider);
+            $(window).bind("resize", ScaleSlider);
+            $(window).bind("orientationchange", ScaleSlider);
+            /*responsive code end*/
+        });
+    </script>
+    <style>
+        /* jssor slider arrow navigator skin 02 css */
+        /*
+        .jssora02l                  (normal)
+        .jssora02r                  (normal)
+        .jssora02l:hover            (normal mouseover)
+        .jssora02r:hover            (normal mouseover)
+        .jssora02l.jssora02ldn      (mousedown)
+        .jssora02r.jssora02rdn      (mousedown)
+        .jssora02l.jssora02lds      (disabled)
+        .jssora02r.jssora02rds      (disabled)
+        */
+        .jssora02l, .jssora02r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 55px;
+            height: 55px;
+            cursor: pointer;
+            background: url('img/a02.png') no-repeat;
+            overflow: hidden;
+        }
+        .jssora02l { background-position: -3px -33px; }
+        .jssora02r { background-position: -63px -33px; }
+        .jssora02l:hover { background-position: -123px -33px; }
+        .jssora02r:hover { background-position: -183px -33px; }
+        .jssora02l.jssora02ldn { background-position: -3px -33px; }
+        .jssora02r.jssora02rdn { background-position: -63px -33px; }
+        .jssora02l.jssora02lds { background-position: -3px -33px; opacity: .3; pointer-events: none; }
+        .jssora02r.jssora02rds { background-position: -63px -33px; opacity: .3; pointer-events: none; }
+        /* jssor slider thumbnail navigator skin 03 css *//*.jssort03 .p            (normal).jssort03 .p:hover      (normal mouseover).jssort03 .pav          (active).jssort03 .pdn          (mousedown)*/.jssort03 .p {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;}.jssort03 .t {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort03 .w, .jssort03 .pav:hover .w {    position: absolute;    width: 60px;    height: 30px;    border: white 1px dashed;    box-sizing: content-box;}.jssort03 .pdn .w, .jssort03 .pav .w {    border-style: solid;}.jssort03 .c {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;    background-color: #000;    filter: alpha(opacity=45);    opacity: .45;    transition: opacity .6s;    -moz-transition: opacity .6s;    -webkit-transition: opacity .6s;    -o-transition: opacity .6s;}.jssort03 .p:hover .c, .jssort03 .pav .c {    filter: alpha(opacity=0);    opacity: 0;}.jssort03 .p:hover .c {    transition: none;    -moz-transition: none;    -webkit-transition: none;    -o-transition: none;}* html .jssort03 .w {    width /**/: 62px;    height /**/: 32px;}
+    </style>
+
+</html>

@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>CISF 2019 - Registrazione all'evento</title>
+
+<!-- Standard html meta tags -->
+    <meta name="description" content="  Informazioni generali  {{ site.data.registration.deadlines.info }}    {% for item in site.data.registration.deadlines.specs %}          {{ item.text }}    ..." />
+    <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
+
+<!-- og -->
+    <meta property="og:title" content="Registrazione all'evento">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:4000/registration/">
+
+<meta property="og:description" content="  Informazioni generali  {{ site.data.registration.deadlines.info }}    {% for item in site.data.registration.deadlines.specs %}          {{ item.text }}    ...">
+<meta property="og:site_name" content="CISF 2019">
+<meta property="og:locale" content="it">
+
+<meta property="fb:admins" content=""> <!-- editable in config.yml -->
+<meta property="fb:app_id" content="">
+
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="Registrazione all'evento" />
+<meta name="twitter:description"    content="  Informazioni generali  {{ site.data.registration.deadlines.info }}    {% for item in site.data.registration.deadlines.specs %}          {{ item.text }}    ..."/>
+<!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
+
+
+
+
+
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+</head>
+
+  <body>
+    
+
+    
+    <ul id="dropdown-" class="dropdown-content">
+      <!-- <li><a href="http://localhost:4000/">Attività</a></li> -->
+      
+      <li><a href="http://localhost:4000/facilities">Visite</a></li>
+      
+      <li><a href="http://localhost:4000/speakers">Conferenze</a></li>
+      
+      <li><a href="http://localhost:4000/serate">Eventi serali</a></li>
+      
+      <li><a href="http://localhost:4000/alloggi">Alloggi</a></li>
+      
+    </ul>
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<nav class="custom1" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">CISF 2019</a>
+
+        <ul class="right hide-on-med-and-down">
+          
+          
+          <li>
+            <a class="dropdown-button" href="http://localhost:4000/" data-activates="dropdown-">Attività<i class="material-icons right">arrow_drop_down</i></a>
+          </li>
+          
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/programme"
+                   
+                   >
+                    
+                        Programma
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Registrazione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/staff"
+                   
+                   >
+                    
+                        Comitato organizzatore
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://localhost:4000/sponsors"
+                   
+                   >
+                    
+                        Supporter
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a
+                   
+                      href="http://www.ai-sf.it" target="_blank"
+                   
+                   >
+                    
+                        AISF
+                    
+                </a>
+            </li>
+            
+        
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="width:80%" data="http://localhost:4000/img/logo.png">Your browser does not support PNG</object></a></li>
+            
+                
+                <li class="no-padding">
+                <ul class="collapsible collapsible-accordion">
+                  <li>
+                      <a class="collapsible-header">Attività</a>
+                    <div class="collapsible-body">
+                      <ul>
+                      <!--  <li><a href="http://localhost:4000/">Attività</a></li> -->
+                    
+                        <li><a href="http://localhost:4000/facilities">Visite</a></li>
+                    
+                        <li><a href="http://localhost:4000/speakers">Conferenze</a></li>
+                    
+                        <li><a href="http://localhost:4000/serate">Eventi serali</a></li>
+                    
+                        <li><a href="http://localhost:4000/alloggi">Alloggi</a></li>
+                    
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+                </li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/programme"
+                   
+                   >
+                  
+                  Programma
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Registrazione
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/staff"
+                   
+                   >
+                  
+                  Comitato organizzatore
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://localhost:4000/sponsors"
+                   
+                   >
+                  
+                  Supporter
+                  
+                </a></li>
+                
+            
+                
+                <li><a
+                   
+                      href="http://www.ai-sf.it" target="_blank"
+                   
+                   >
+                  
+                  AISF
+                  
+                </a></li>
+                
+            
+        </ul>
+    </div>
+</nav>
+
+        <div class="container">
+    <div class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">Registrazione all'evento</h1>
+      </header>
+
+      <article class="post-content">
+        <div class="section">
+  <h2>Informazioni generali</h2>
+  <p><i class='fa fa-exclamation-triangle' aria-hidden='true'></i> Estensione della deadline: le registrazioni sono aperte dalle ore 12:00 (mezzogiorno) di lunedì 29 gennaio fino alle ore 12:00 (mezzogiorno) di <font style='text-decoration:line-through;'>lunedì 12 febbraio</font> <b>venerdì 16 febbraio</b> (non saranno concesse ulteriori proroghe).</p>
+  <ul class="collection">
+  
+    <li
+      class="collection-item black-text">
+      Sono disponibili <b>54 posti</b> in totale per l'evento: 40 con alloggio in Pavia (quota 100 euro) e 14 senza alloggio (quota 40 euro). 14 posti saranno riservati ai membri dei Comitati Locali di Pavia e Milano (7 per ognuno). In particolare, verrà data loro la precedenza per l’assegnazione dei posti con o senza alloggio. Dopo la collocazione dei 14 studenti di Pavia e Milano, i rimanenti 40 posti verranno distribuiti tra i rimanenti richiedenti. Per informazioni ulteriori su cosa sia compreso nelle quote vedere la pagina <a href='../programme'>Programma</a>.
+    </li>
+    
+  
+    <li
+      class="collection-item black-text">
+      Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese). In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei partecipanti. I documenti vengono raccolti già in fase di registrazione in modo da velocizzare i controlli: verranno inoltrati al L.E.N.A. solo i documenti di coloro che saranno ammessi all’evento e dei primi esclusi che potranno essere ripescati in caso di defezioni.
+    </li>
+    
+  
+    <li
+      class="collection-item black-text">
+      La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di BiPLE in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un seminario costituirà titolo preferenziale.
+    </li>
+    
+  
+    <li
+      class="collection-item black-text">
+      Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento.
+    </li>
+    
+  
+    <li
+      class="collection-item black-text">
+      Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite e verrà pianificato il calendario delle sezioni Talk Studenti in base ai contributi pervenuti.
+    </li>
+    
+  
+</ul>
+  <p>Per procedere con la registrazione, cliccare sul seguente link. </p>
+  </div>
+
+<!-- <div class="section">
+  <h2>Informazioni generali</h2>
+  <p>
+    
+  </p>
+</div> -->
+
+
+
+
+<div class="row center">
+    <a href="https://form.jotformeu.com/80102095226345" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Registrazione</a><br>
+  </div>
+
+
+
+
+<div class="section">
+  <h2>Terms and conditions</h2>
+  <p>Please read carefully and take note of the following:<p>
+  <ul class="collection">
+  
+    <li class="collection-item black-text">
+      All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of IAPS to check your IAPS membership.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Bio-medical Physics Lombard Event.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      You accept the IAPS Code of Conduct.
+      
+        <span class="badge white-text"><a 
+           href="http://localhost:4000/files/IAPS_Code_of_Conduct.pdf" target='_blank'
+        >PDF</a></span>
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee.
+      
+    </li>
+    
+  
+    <li class="collection-item black-text">
+      The present terms and conditions are governed by the laws of the Republic of Italy.
+      
+    </li>
+    
+  
+  </ul>
+</div>
+</div>
+
+      </article>
+
+    </div>
+</div>
+
+    <footer class="page-footer custom1">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 m6 s12">
+        <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
+        <p class="grey-text text-lighten-4" style="text-align:justify">L'Associazione Italiana Studenti di Fisica (AISF), organizzazione con finalità educative e senza fine di lucro, riunisce molti studenti di fisica italiani. <br> Conta più di 1000 membri e 17 Comitati Locali; fondata nel 2014, è un Comitato Nazionale dell'International Association of Physics Students (IAPS).</p>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Contact <i class="material-icons">mail_outline</i></h5>
+        <!-- <i class="material-icons">mail_outline</i> -->
+        <ul>
+        
+          <li>Comitato Esecutivo AISF</li>
+      	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">esecutivo@ai-sf.it</a></li>
+        
+          <li>AISF UniMi</li>
+      	  <li><a class="white-text" href="mailto:luca.teruzzi@ai-sf.it">luca.teruzzi@ai-sf.it</a></li>
+        
+          <li>AISF Milano Bicocca</li>
+      	  <li><a class="white-text" href="mailto:giulia.marcucci@ai-sf.it">giulia.marcucci@ai-sf.it</a></li>
+        
+        </ul>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Connect  <img src="http://localhost:4000/img/logo_FB.svg" height=30px></h5>
+        <ul>
+          
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/AISF_logo_white_nobkg.png" width=150px></a>
+          </li>
+	        
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/aisfunimi/" target="_blank"><img src="http://localhost:4000/img/logo_AISF_UNIMI.svg" width=150px></a>
+          </li>
+	        
+	        <li>
+            <a class="white-text" href="https://www.facebook.com/AISFMilanoBICOCCA/" target="_blank"><img src="http://localhost:4000/img/logo_AISF_UNIMIB.png" width=150px></a>
+          </li>
+	        
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container">
+      Built with Jekyll and materializecss by
+      
+        <a class="white-text text-accent-3" href="mailto:">Luca Colombo Gomez</a>
+        
+        and
+        
+      
+        <a class="white-text text-accent-3" href="mailto:paoloandrea.wetzl@studenti.unimi.it">Paolo Wetzl</a>
+        
+        .
+        
+      
+    </div>
+  </div>
+</footer>
+
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://localhost:4000/js/bin/materialize.min.js"></script>
+<script src="http://localhost:4000/js/init.js"></script>
+
+<script> // Slider
+  $(document).ready(function(){
+  $('.slider').slider({full_width: false});
+  });
+</script>
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  $('.collapsible').collapsible();
+</script>
+<script>
+  $(document).ready(function(){
+  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+  $('.modal-trigger').leanModal();
+  });
+</script>
+<script>
+  $(document).ready(function(){
+      $('.carousel').carousel();
+  });
+</script>
+
+<script src="http://localhost:4000/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="http://localhost:4000/js/jssor.slider-22.2.16.mini.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            var jssor_1_options = {
+              $AutoPlay: true,
+              $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$
+              },
+              $ThumbnailNavigatorOptions: {
+                $Class: $JssorThumbnailNavigator$,
+                $Cols: 9,
+                $SpacingX: 3,
+                $SpacingY: 3,
+                $Align: 260
+              }
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*responsive code begin*/
+            /*remove responsive code if you don't want the slider scales while window resizing*/
+            /*function ScaleSlider() {
+                var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+                if (refSize) {
+                    refSize = Math.min(refSize, 1024);
+                    jssor_1_slider.$ScaleWidth(refSize);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+           /* ScaleSlider();
+            $(window).bind("load", ScaleSlider);
+            $(window).bind("resize", ScaleSlider);
+            $(window).bind("orientationchange", ScaleSlider);
+            /*responsive code end*/
+        });
+    </script>
+    <style>
+        /* jssor slider arrow navigator skin 02 css */
+        /*
+        .jssora02l                  (normal)
+        .jssora02r                  (normal)
+        .jssora02l:hover            (normal mouseover)
+        .jssora02r:hover            (normal mouseover)
+        .jssora02l.jssora02ldn      (mousedown)
+        .jssora02r.jssora02rdn      (mousedown)
+        .jssora02l.jssora02lds      (disabled)
+        .jssora02r.jssora02rds      (disabled)
+        */
+        .jssora02l, .jssora02r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 55px;
+            height: 55px;
+            cursor: pointer;
+            background: url('img/a02.png') no-repeat;
+            overflow: hidden;
+        }
+        .jssora02l { background-position: -3px -33px; }
+        .jssora02r { background-position: -63px -33px; }
+        .jssora02l:hover { background-position: -123px -33px; }
+        .jssora02r:hover { background-position: -183px -33px; }
+        .jssora02l.jssora02ldn { background-position: -3px -33px; }
+        .jssora02r.jssora02rdn { background-position: -63px -33px; }
+        .jssora02l.jssora02lds { background-position: -3px -33px; opacity: .3; pointer-events: none; }
+        .jssora02r.jssora02rds { background-position: -63px -33px; opacity: .3; pointer-events: none; }
+        /* jssor slider thumbnail navigator skin 03 css *//*.jssort03 .p            (normal).jssort03 .p:hover      (normal mouseover).jssort03 .pav          (active).jssort03 .pdn          (mousedown)*/.jssort03 .p {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;}.jssort03 .t {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort03 .w, .jssort03 .pav:hover .w {    position: absolute;    width: 60px;    height: 30px;    border: white 1px dashed;    box-sizing: content-box;}.jssort03 .pdn .w, .jssort03 .pav .w {    border-style: solid;}.jssort03 .c {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;    background-color: #000;    filter: alpha(opacity=45);    opacity: .45;    transition: opacity .6s;    -moz-transition: opacity .6s;    -webkit-transition: opacity .6s;    -o-transition: opacity .6s;}.jssort03 .p:hover .c, .jssort03 .pav .c {    filter: alpha(opacity=0);    opacity: 0;}.jssort03 .p:hover .c {    transition: none;    -moz-transition: none;    -webkit-transition: none;    -o-transition: none;}* html .jssort03 .w {    width /**/: 62px;    height /**/: 32px;}
+    </style>
+
+</html>

@@ -1,0 +1,32 @@
+posters?: false
+
+deadlines:
+  info: "<i class='fa fa-exclamation-triangle' aria-hidden='true'></i> Estensione della deadline: le registrazioni sono aperte dalle ore 12:00 (mezzogiorno) di lunedì 29 gennaio fino alle ore 12:00 (mezzogiorno) di <font style='text-decoration:line-through;'>lunedì 12 febbraio</font> <b>venerdì 16 febbraio</b> (non saranno concesse ulteriori proroghe)."
+  specs:
+    - text: "Sono disponibili <b>54 posti</b> in totale per l'evento: 40 con alloggio in Pavia (quota 100 euro) e 14 senza alloggio (quota 40 euro). 14 posti saranno riservati ai membri dei Comitati Locali di Pavia e Milano (7 per ognuno). In particolare, verrà data loro la precedenza per l’assegnazione dei posti con o senza alloggio. Dopo la collocazione dei 14 studenti di Pavia e Milano, i rimanenti 40 posti verranno distribuiti tra i rimanenti richiedenti. Per informazioni ulteriori su cosa sia compreso nelle quote vedere la pagina <a href='../programme'>Programma</a>."
+    - text: "Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese). In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei partecipanti. I documenti vengono raccolti già in fase di registrazione in modo da velocizzare i controlli: verranno inoltrati al L.E.N.A. solo i documenti di coloro che saranno ammessi all’evento e dei primi esclusi che potranno essere ripescati in caso di defezioni."
+    - text: "La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di BiPLE in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un seminario costituirà titolo preferenziale."
+    - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
+    - text: "Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite e verrà pianificato il calendario delle sezioni Talk Studenti in base ai contributi pervenuti."
+  lastinfo: "Per procedere con la registrazione, cliccare sul seguente link. "
+
+terms:
+  info: "Please read carefully and take note of the following:"
+  specs:
+    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of IAPS to check your IAPS membership."
+      url: "#!"
+    - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
+      url: "#!"
+    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Bio-medical Physics Lombard Event."
+      url: "#!"
+    - text: "You accept the IAPS Code of Conduct."
+      url: "files/IAPS_Code_of_Conduct.pdf"
+      button: "PDF"
+    - text: "By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct."
+      url: "#!"
+    - text: "You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
+      url: "#!"
+    - text: "You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee."
+      url: "#!"
+    - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
+      url: "#!"
