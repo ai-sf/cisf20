@@ -28,39 +28,9 @@
   uni: "Università degli Studi di Milano"
   ruolo: "Responsabile sito web"
 
-- nome: "Nicolò Valle"
-  img: "img/staff/valle.jpg"
-  studio: "Dottorato"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Graphic Designer"
-
 - nome: "Luca Teruzzi, Luca Tagliabue, Luca Gomez"
   img: "img/staff/luchi.jpg"
   studio: "Laurea Triennale e Magistrale"
   uni: "Università degli Studi di Milano"
   ruolo: "Responsabili Seminari e Visite"
   double: yes
-
-- nome: "Martina Moiraghi"
-  img: "img/staff/moiraghi.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Milano"
-  ruolo: "Responsabile Visite"
-
-- nome: "Giulia Scaffino"
-  img: "img/staff/scaffino.jpg"
-  studio: "Laurea Magistrale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Responsabile Seminari"
-
-- nome: "Lia Rapella"
-  img: "img/staff/rapella.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Supporto alle attività"
-
-- nome: "Leopoldo Poggiali"
-  img: "img/staff/poggiali.jpg"
-  studio: "Dottorato"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Supporto alle attività"

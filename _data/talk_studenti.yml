@@ -9,15 +9,3 @@
 - name: "Caputo Francesca, Università di Pisa"
   title: "L’utilizzo del codice Monte Carlo FLUKA in ambito adroterapico."
   abstract: "Per la pianificazione dei trattamenti radioterapici e non, il codice Monte Carlo risulta essere un buono strumento capace di simulare l’interazione della radiazione ionizzante o di particelle cariche con la materia. In questo talk vorrei presentare i principi fisici dell’adroterapia e il contributo di FLUKA , terminando con la riproduzione di un esempio di applicazione di FLUKA per una simulazione di interesse radioprotezionistico."
-
-- name: "Piai Anna, Università di Trieste"
-  title: "Progetto SYRMA CT: ricostruzioni in phase retrival e misura del coefficiente di attenuazione lineare"
-  abstract: "SYRMA CT è un progetto di Breast Computed Tomography in vivo con luce di sincrotrone. L’alta coerenza della sorgente permette l’implementazione di tecniche di fase: informazioni di fase e assorbimento sono disaccoppiate con un apposito algoritmo di ricostruzione (PhR). Sono evidenziate le potenzialità della tecnica: vengono proposte un’analisi semiquantitativa della qualità delle immagini ottenute con e senza PhR, per diversi tessuti e uno studio quantitativo per la determinazione del coefficiente di attenuazione lineare."
-
-- name: "Picella Sergio, Università di Bari"
-  title: "FET a semiconduttore organico e gate elettrolitico: applicazioni alla biosensoristica"
-  abstract: "In parallelo con la nascita delle tecnologie che hanno permesso lo sviluppo dell’elettronica, a partire dagli anni ’60 è stata indagata la possibilità di impiego di FET per la biosensoristica. Sarà presentata la tecnologia degli EGOFET (Electrolyte Gated Organic Field Effect Transistor) che permette oggi di realizzare biosensori implementabili su strutture biocompatibili per analisi in situ & in vivo grazie al basso punto di lavoro, con elevata sensibilità e selettività (fino ai 50pM)."
-
-- name: "Vultaggio Salvatore, Università di Trento"
-  title: "What is Life?"
-  abstract: "L’idea di creare un modello matematico-fisico del DNA e della sua dinamica è uno degli ambiti più importanti della ricerca biofisica. In questo talk si vuole dare una introduzione alle idee fondamentali nella formulazione di questi modelli."
