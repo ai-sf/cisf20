@@ -30,16 +30,16 @@ Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechni
   abstract: "TBA"
   link:
 
-- nome: "Prof. Giovanni Onida"
-  id: onida
-  img: "/img/speakers/square_crop/onida.jpg"
-  title: "TBA"
-  bio: "Giovanni Onida è Professore ordinario di Struttura della Materia e direttore del Dipartimento di Fisica dell'Università degli Studi di Milano. <br>
-Consegue la laurea in Fisica a Pavia nel 1987 ed il dottorato nel 1991 presso l'Università degli Studi di Milano. Prosegue quindi la sua ricerca come postdoc presso l'Università di Parigi XI e ai laboratori IBM di Zurigo. Tra il 1993 e il 1994 lavora presso l'Ecole Polytechnique (Francia) per poi diventare ricercatore nell'ambito di Struttura della Materia all'Università di Roma Tor Vergata. Dal 2001 al 2016 è professore associato, quindi ordinario, di Struttura della Materia presso l'Università degli Studi di Milano. Dal 2017 dirige il Dipartimento di Fisica della stessa Università.
-La sua attività di ricerca si concentra sui seguenti temi: proprietà ottiche e vibrazionali dei solidi, superfici e clusters, principi primi nel calcolo della struttura e delle proprietà elettroniche, con particolare interesse per gli stati eccitati. <br>
-Ha partecipato a diversi progetti MIUR (COFIN 1997, 1999, 2002, 2005 and 2007, negli ultimi tre in qualità di responsabile scientifico del gruppo di ricerca) ed è stato il responsabile scientifico di due progetti dell'INFM (Istituto Nazionale di Fisica della Materia): PRA e PAIS."
-  abstract: "TBA"
-  link:
+#- nome: "Prof. Giovanni Onida"
+#  id: onida
+#  img: "/img/speakers/square_crop/onida.jpg"
+#  title: "TBA"
+#  bio: "Giovanni Onida è Professore ordinario di Struttura della Materia e direttore del Dipartimento di Fisica dell'Università degli Studi di Milano. <br>
+#Consegue la laurea in Fisica a Pavia nel 1987 ed il dottorato nel 1991 presso l'Università degli Studi di Milano. Prosegue quindi la sua ricerca come postdoc presso l'Università di Parigi XI e ai laboratori IBM di Zurigo. Tra il 1993 e il 1994 lavora presso l'Ecole Polytechnique (Francia) per poi diventare ricercatore nell'ambito di Struttura della Materia all'Università di Roma Tor Vergata. Dal 2001 al 2016 è professore associato, quindi ordinario, di Struttura della Materia presso l'Università degli Studi di Milano. Dal 2017 dirige il Dipartimento di Fisica della stessa Università.
+#La sua attività di ricerca si concentra sui seguenti temi: proprietà ottiche e vibrazionali dei solidi, superfici e clusters, principi primi nel calcolo della struttura e delle proprietà elettroniche, con particolare interesse per gli stati eccitati. <br>
+#Ha partecipato a diversi progetti MIUR (COFIN 1997, 1999, 2002, 2005 and 2007, negli ultimi tre in qualità di responsabile scientifico del gruppo di ricerca) ed è stato il responsabile scientifico di due progetti dell'INFM (Istituto Nazionale di Fisica della Materia): PRA e PAIS."
+#  abstract: "TBA"
+#  link:
 
 - nome: "Prof. Lucio Rossi"
   id: rossi
@@ -80,3 +80,5 @@ Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per 
   link:
 
 #per link, sottolineature, ecc, usare direttamente tag HTML es. <br>
+
+#TODO: bio Caccianiga o altro speaker alla serata al planetario

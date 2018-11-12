@@ -3,9 +3,9 @@ banner: img/biple.png
 
 chi: "<b>54</b> studenti dei corsi di laurea <b>Triennale</b> o <b>Magistrale</b> o del <b>Dottorato di ricerca</b> in Fisica che siano regolarmente iscritti all'AISF per l'anno accademico 2018/2019."
 
-cosa: "Cerimonia di apertura: pomeriggio di martedì <b>20 marzo</b>. Cerimonia di chiusura: mattina di sabato <b>24 marzo 2018</b>."
+cosa: "Cerimonia di apertura: pomeriggio di mercoledì <b>6 marzo</b>. Cerimonia di chiusura: primo pomeriggio di domenica <b>10 marzo 2019</b>."
 
-quando: "Sedi principali dell'evento sono il Dipartimento di Fisica dell'Università degli Studi di <b>Pavia</b> e il Dipartimento di Fisica dell'Università degli Studi di <b>Milano</b>."
+quando: "Sedi principali dell'evento sono il Dipartimento di Fisica dell'Università degli Studi di <b>Milano</b> e il Dipartimento di Fisica dell'Università degli Studi di <b>Milano Bicocca</b>."
 
 
 slideshow:
@@ -17,3 +17,6 @@ slideshow:
     title:
 
 paragraph: "L'evento, nella sua prima edizione, organizzato dai comitati locali di Pavia e Milano dell'Associazione Italiana Studenti di Fisica (AISF), vuole valorizzare le attività di ricerca svolte in territorio lombardo nell'ambito della Fisica Medica e Biosanitaria: nei cinque giorni dell'evento, i partecipanti avranno modo di assistere a seminari tenuti da esperti ricercatori locali e visitare strutture di eccellenza all’interno del panorama nazionale ed internazionale, come CNAO e LENA (Pavia) o IFOM e IEO e diverse strutture ospedaliere (Milano). Inoltre studenti e dottorandi avranno la possibilità di esporre i propri lavori di tesi e di ricerca."
+
+#TODO:
+#aggiornare il contenuto alla CISF

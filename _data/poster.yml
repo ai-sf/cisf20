@@ -1,11 +1,3 @@
-- name: "Sofia Barbieri"
-  uni: "Università degli Studi di Pavia"
-  poster: "Track-structure simulation of gamma-H2AX foci and comparison with experimental results <br> PERSEO: PErsonal Radiation Shielding for intErplanetary missiOns"
-
-- name: "Francesca Brero"
-  uni: "Università degli Studi di Pavia"
-  poster: "Effects of coating on transversal and longitudinal Nuclear Magnetic Resonance relaxivity"
-
-- name: "Mario Carante"
-  uni: "INFN Pavia"
-  poster: "Tutti i protoni sono uguali ma alcuni sono più uguali degli altri"
+#- name: "Sofia Barbieri"
+#  uni: "Università degli Studi di Pavia"
+#  poster: "Track-structure simulation of gamma-H2AX foci and comparison with experimental results <br> PERSEO: PErsonal Radiation Shielding for intErplanetary missiOns"

@@ -1,3 +1,9 @@
+- nome: "Luca Teruzzi"
+  img: "img/staff/teru.jpg"
+  studio: "Laurea Magistrale"
+  uni: "Università degli Studi di Milano"
+  ruolo: "Coordinatore organizzazione"
+
 - nome: "Federico Andrea Sabattoli"
   img: "img/staff/sabattoli.jpg"
   studio: "Dottorato"
@@ -17,7 +23,7 @@
   ruolo: "Tesoriere e Resp. Sponsor"
 
 - nome: "Linda Bianchini"
-  img: "img/staff/bianchini.jpg"
+  img: "img/staff/linda_cropped.jpg"
   studio: "Dottorato"
   uni: "Università degli Studi di Milano"
   ruolo: "Coordinatrice scientifica"
