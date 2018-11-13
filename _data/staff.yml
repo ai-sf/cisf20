@@ -34,6 +34,12 @@
   uni: "Università degli Studi di Milano"
   ruolo: "Responsabile sito web"
 
+- nome: "Paolo Wetzl"
+  img: "img/staff/paolo.png"
+  studio: "Laurea Magistrale"
+  uni: "Università degli Studi di Padova"
+  ruolo: "Responsabile sito web"
+
 - nome: "Luca Teruzzi, Luca Tagliabue, Luca Gomez"
   img: "img/staff/luchi.jpg"
   studio: "Laurea Triennale e Magistrale"

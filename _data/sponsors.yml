@@ -1,27 +1,40 @@
 - title: "Con il sostegno di:"
   format: "m4"
   subitems:
-    - text: Istituto FIRC di Oncologia Molecolare
-      img: IFOM.png
-      link: https://www.ifom.eu/it/
-      fb: https://www.facebook.com/ifomyouscientist/
-      linkedin: https://www.linkedin.com/company/ifom/
-    - text: SDI The power of automation
-      img: logo_sdi.svg
-      link: http://www.sdiautomazione.com/index.html
-      linkedin: https://www.linkedin.com/company/s-d-i-automazione-industriale/
+    - text: Accenture
+      img: 
+      link: https://accenture.it
+      fb: https://it-it.facebook.com/AccentureinItalia/
+      linkedin: https://it.linkedin.com/company/accenture-italia
+    - text: ENI
+      img: 
+      link: https://eni.it
+      fb: https://it-it.facebook.com/Eni/
+      linkedin: https://it.linkedin.com/company/eni
     - text: GNR - Analytical Instruments Group
-      img: GNR.jpg
+      img: GNR_q.png
       link: http://www.gnr.it/
       linkedin: https://www.linkedin.com/company/gnrsrl/
-    - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
-      img: INSTM.jpg
-      link: http://www.instm.it/
-    - text: Università degli Studi di Pavia - Dipartimento di Fisica
-      img: logo_dip_banner.png
-      link: http://fisica.unipv.it/
+    - text: GP Batteries
+      img: GP.png
+      link: http://www.gpbmitaly.it/
+      linkedin: https://www.linkedin.com/company/gpbm-nordic-ab
+    - text: INAF
+      img: 
+      link: http://www.inaf.it/
+      fb: https://it-it.facebook.com/media.inaf/
+      linkedin: https://it.linkedin.com/company/inaf---istituto-nazionale-di-astrofisica
+    - text: Istituto Nazionale di Fisica Nucleare (INFN)
+      img: logo_INFN.png
+      link: http://home.infn.it/it/
+      fb: https://www.facebook.com/IstitutoFisicaNucleare/
+    - text: ST Microelectronics
+      img: ST.png
+      link: https://www.st.com/
+      fb: https://it-it.facebook.com/STMicroelectronics.NV/
+      linkedin: https://it.linkedin.com/company/stmicroelectronics
     - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
-      img: logo_101caffe.jpg
+      img: logo_101caffe.png
       link: https://www.101caffe.it/
       fb: https://www.facebook.com/101Caffe/
       linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
@@ -29,44 +42,44 @@
 - title: "Con il patrocinio di:"
   format: "m3"
   subitems:
-    - text: Comune di Pavia
-      img: logo_comune_PV_bianco.png
-      link: http://www.comune.pv.it/
-      fb: https://www.facebook.com/comunePV/
-    - text: Università degli Studi di Pavia
-      img: logo_unipv_noscritta.jpg
-      link: http://www.unipv.eu/
-      fb: https://www.facebook.com/universitapavia/
-    - text: EDISU Pavia - Ente per il diritto allo studio universitario
-      img: logo_EDISU_bianco.svg
-      link: http://www.edisu.pv.it/
-    - text: Comune di Milano
-      img: comune_milano.png
-      link: https://www.comune.milano.it/
-      fb: https://www.facebook.com/comunemilano/
     - text: Università degli Studi di Milano
-      img: logo_unimi.svg
+      img: logo_unimi.png
       link: http://www.unimi.it/
-    - text: Laboratorio Energia Nucleare Applicata (L.E.N.A.)
-      img: logo_lena.jpg
-      link: http://lena.unipv.it/
-    - text: Fondazione CNAO
-      img: CNAO.jpg
-      link: https://www.fondazionecnao.it/it/
-      fb: https://www.facebook.com/FondazioneCnao/
+      fb: https://it-it.facebook.com/LaStatale/
+    - text: Università degli Studi di Milano Bicocca
+      img: Bicocca.png
+      link: http://www.unimib.it/
+      fb: https://it-it.facebook.com/bicocca/
+    - text: CIMaINa
+      img: Cimaina.png
+      link: http://cimaina.unimi.it/
+      fb: https://it-it.facebook.com/milano.university/
+    - text: Istituto FIRC di Oncologia Molecolare
+      img: IFOM_q.png
+      link: https://www.ifom.eu/it/
+      fb: https://www.facebook.com/ifomyouscientist/
+      linkedin: https://www.linkedin.com/company/ifom/
     - text: Istituto Europeo di Oncologia (IEO)
-      img: IEO_duerighe.jpg
+      img: IEO.png
       link: https://www.ieo.it/
       fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
-    - text: Istituto Nazionale di Fisica Nucleare (INFN)
-      img: logo_INFN.jpg
-      link: http://home.infn.it/it/
-      fb: https://www.facebook.com/IstitutoFisicaNucleare/
-    - text: Cluster Lombardo - Scienze della vita
-      img: logo_cluster-lombardo.jpg
-      link: http://www.lombardialifesciences.it/en/
-
-
-
-#TODO:
-#aggiornare il contenuto alla CISF
+    - text: Fondazione Filarete
+      img: 
+      link: http://www.fondazionefilarete.com/
+      fb: https://it-it.facebook.com/FondazioneFilarete/
+    - text: Museo Nazionale Scienza e Tecnologia
+      img: MNST.jpg
+      link: http://www.museoscienza.org/
+      fb: https://www.facebook.com/museoscienza
+    - text: Società Astronomica Italiana
+      img: SAI.png
+      link: http://sait.interlandia.net/
+      fb: https://it-it.facebook.com/SocietaAstronomicaItalianaSaIt/
+    - text: WISE
+      img: wise.png
+      link: http://www.wiseneuro.com/
+      linkedin: https://it.linkedin.com/company/wise-s-r-l-
+#    - text: Comune di Milano
+#      img: comune_milano.png
+#      link: https://www.comune.milano.it/
+#      fb: https://www.facebook.com/comunemilano/
