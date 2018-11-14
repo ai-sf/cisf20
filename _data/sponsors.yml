@@ -54,15 +54,19 @@
       img: Cimaina.png
       link: http://cimaina.unimi.it/
       fb: https://it-it.facebook.com/milano.university/
+    - text: Istituto Europeo di Oncologia (IEO)
+      img: IEO.png
+      link: https://www.ieo.it/
+      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
     - text: Istituto FIRC di Oncologia Molecolare
       img: IFOM_q.png
       link: https://www.ifom.eu/it/
       fb: https://www.facebook.com/ifomyouscientist/
       linkedin: https://www.linkedin.com/company/ifom/
-    - text: Istituto Europeo di Oncologia (IEO)
-      img: IEO.png
-      link: https://www.ieo.it/
-      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
+    - text: Istituto di Fisica del Plasma IFP-CNR
+      img: IFP.png
+      link: https://www.ifp.cnr.it/
+      fb: https://it-it.facebook.com/IFPCNR/
     - text: Fondazione Filarete
       img: 
       link: http://www.fondazionefilarete.com/
