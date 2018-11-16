@@ -50,10 +50,18 @@
       img: Bicocca.png
       link: http://www.unimib.it/
       fb: https://it-it.facebook.com/bicocca/
-    - text: CIMaINa
+    - text: "Comune di Milano <br/><br/>"
+      img: comune_milano_q.png
+      link: https://www.comune.milano.it/
+      fb: https://www.facebook.com/comunemilano/
+    - text: "CIMaINa - Centro Interdisciplinare Materiali e Interfacce Nanostrutturate"
       img: Cimaina.png
       link: http://cimaina.unimi.it/
       fb: https://it-it.facebook.com/milano.university/
+    - text: Civico Planetario Ulrico Hoepli
+      img: planetario.png
+      link: https://lofficina.eu/
+      fb: https://www.facebook.com/LOfficinadelplanetario/
     - text: Istituto Europeo di Oncologia (IEO)
       img: IEO.png
       link: https://www.ieo.it/
@@ -67,6 +75,10 @@
       img: IFP.png
       link: https://www.ifp.cnr.it/
       fb: https://it-it.facebook.com/IFPCNR/
+    - text: Osservatorio di Brera
+      img: brera.png
+      link: http://www.brera.inaf.it/
+      fb: https://www.facebook.com/astrobrera/
     - text: Fondazione Filarete
       img: filarete.png
       link: http://www.fondazionefilarete.com/
@@ -83,7 +95,3 @@
       img: wise.png
       link: http://www.wiseneuro.com/
       linkedin: https://it.linkedin.com/company/wise-s-r-l-
-#    - text: Comune di Milano
-#      img: comune_milano.png
-#      link: https://www.comune.milano.it/
-#      fb: https://www.facebook.com/comunemilano/

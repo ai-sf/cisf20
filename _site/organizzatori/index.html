@@ -7,7 +7,7 @@
     <title>CISF 2019 - Comitato organizzatore</title>
 
 <!-- Standard html meta tags -->
-    <meta name="description" content="	{% for item in site.data.organizzatori %}	{% if item.double != nihil %}		{% else %}		{% endif %}	 		 			 		 		 			 				 {{ item.nome }}				 {{ item.studio }..." />
+    <meta name="description" content="	{% for item in site.data.organizzatori %}             				 		 	 		 {{ item.nome }}		 {{ item.studio }} 						{{ item.uni }}			 			{{ item.ruolo }}	 	       ..." />
     <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
 
 <!-- og -->
@@ -15,7 +15,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/organizzatori/">
 
-<meta property="og:description" content="	{% for item in site.data.organizzatori %}	{% if item.double != nihil %}		{% else %}		{% endif %}	 		 			 		 		 			 				 {{ item.nome }}				 {{ item.studio }...">
+<meta property="og:description" content="	{% for item in site.data.organizzatori %}             				 		 	 		 {{ item.nome }}		 {{ item.studio }} 						{{ item.uni }}			 			{{ item.ruolo }}	 	       ...">
 <meta property="og:site_name" content="CISF 2019">
 <meta property="og:locale" content="it">
 
@@ -26,7 +26,7 @@
 <meta name="twitter:card"           content="summary" />
 <meta name="twitter:site"           content="@aisf_fisica" />
 <meta name="twitter:title"          content="Comitato organizzatore" />
-<meta name="twitter:description"    content="	{% for item in site.data.organizzatori %}	{% if item.double != nihil %}		{% else %}		{% endif %}	 		 			 		 		 			 				 {{ item.nome }}				 {{ item.studio }..."/>
+<meta name="twitter:description"    content="	{% for item in site.data.organizzatori %}             				 		 	 		 {{ item.nome }}		 {{ item.studio }} 						{{ item.uni }}			 			{{ item.ruolo }}	 	       ..."/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
@@ -293,398 +293,332 @@
       <article class="post-content">
         <div class="row">
 	
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/teru.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Luca Teruzzi</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Coordinatore organizzazione</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Luca Teruzzi</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Coordinatore organizzazione</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/sabattoli.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Federico Andrea Sabattoli</p>
-				 <span>Dottorato</span>
-		 			<br>
-					<span>Università degli Studi di Pavia</span>
-					<br>
-		 			<span><i>Coordinatore organizzazione</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Federico Andrea Sabattoli</p>
+		 <span>Dottorato</span>
+ 			<br>
+			<span>Università degli Studi di Pavia</span>
+			<br>
+ 			<span><i>Coordinatore organizzazione</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/jelmini.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Beatrice Jelmini</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile alloggi</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Beatrice Jelmini</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile alloggi</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/radaelli.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Elisa Radaelli</p>
-				 <span>Laurea Triennale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile seminari e visite</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Elisa Radaelli</p>
+		 <span>Laurea Triennale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile seminari e visite</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/villa.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Emilio Villa</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Tesoriere e responsabile sponsor</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Emilio Villa</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Tesoriere e responsabile sponsor</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/foletto.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Laura Foletto</p>
-				 <span>Laurea Triennale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Supporto alle attività e fotografo</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Laura Foletto</p>
+		 <span>Laurea Triennale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Supporto alle attività e fotografo</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/marcucci.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Giulia Marcucci</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano Bicocca</span>
-					<br>
-		 			<span><i>Responsabile seminari e visite</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Giulia Marcucci</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano Bicocca</span>
+			<br>
+ 			<span><i>Responsabile seminari e visite</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/linda_cropped.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Linda Bianchini</p>
-				 <span>Dottorato</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile visite</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Linda Bianchini</p>
+		 <span>Dottorato</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile visite</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/lazzarino.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Lorenzo Lazzarino</p>
-				 <span>Laurea Triennale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Tesoriere e responsabile sponsor</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Lorenzo Lazzarino</p>
+		 <span>Laurea Triennale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Tesoriere e responsabile sponsor</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
-			 <img src="http://localhost:4000/">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
+			 <img src="http://localhost:4000/img/staff/colombogomez.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Luca Colombo Gomez</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile sito web</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Luca Colombo Gomez</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile sito web</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/taglia.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Luca Tagliabue</p>
-				 <span>Laurea Triennale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Graphic Designer e fotografo</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Luca Tagliabue</p>
+		 <span>Laurea Triennale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Graphic Designer e fotografo</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/fornaroli.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Marta Fornaroli</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile seminari</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Marta Fornaroli</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile seminari</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/lissoni.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Michele Lissoni</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile visite</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Michele Lissoni</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile visite</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/ross.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Mirko Rossini</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile trasporti</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Mirko Rossini</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile trasporti</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/paolo.png">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Paolo Wetzl</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Padova</span>
-					<br>
-		 			<span><i>Responsabile sito web</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Paolo Wetzl</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Padova</span>
+			<br>
+ 			<span><i>Responsabile sito web</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/migliorati.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Stefano Migliorati</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span>Università degli Studi di Milano</span>
-					<br>
-		 			<span><i>Responsabile seminari</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Stefano Migliorati</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span>Università degli Studi di Milano</span>
+			<br>
+ 			<span><i>Responsabile seminari</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
-	
-	<div class="col m3">
-	
-	 <div class="card horizontal">
-		 <div class="card-image">
+      <div class="col m3">
+       <div class="card medium">
+	<div class="card-image">
 			 <img src="http://localhost:4000/img/staff/polla.jpg">
 		 </div>
-		 <div class="card-stacked">
-			 <div class="card-content">
-				 <p style="color:#DC4009">Stefano Polla</p>
-				 <span>Laurea Magistrale</span>
-		 			<br>
-					<span><i>Universiteit Leiden</i></span>
-					<br>
-		 			<span><i>Responsabile seminari e visite</i></span>
-			 </div>
-			 <!-- <div class="card-action">
-				 <a href="#">This is a link</a>
-			 </div> -->
-		 </div>
+	 <div class="card-content">
+		 <p style="color:#DC4009">Stefano Polla</p>
+		 <span>Laurea Magistrale</span>
+ 			<br>
+			<span><i>Universiteit Leiden</i></span>
+			<br>
+ 			<span><i>Responsabile seminari e visite</i></span>
 	 </div>
+	 <!-- <div class="card-action">
+		 <a href="#">This is a link</a>
+	 </div> -->
+        </div>
  </div>
  
 </div>
+
+
 
       </article>
 

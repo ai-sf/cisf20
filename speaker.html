@@ -5,9 +5,8 @@ title: Conferenze
 
 <h2>Speaker invitati</h2>
 <p>
-<!-- DA SISTEMARE -->
 Le conferenze si terranno nei due dipartimenti di fisica milanesi, delle Università degli Studi di Milano e di Milano Bicocca.  <br>
-Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori molto vari, sono stati selezionati sulla base dell'impatto del loro lavoro e dei collegamenti con la città e le università di Milano.
+Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori molto vari, sono stati selezionati sulla base dell'impatto del loro lavoro e dei collegamenti con la città e le università di Milano. Argomenti dei seminari saranno le attuali frontiere della ricerca in Fisica, spaziando sul maggior numero possibile di ambiti e tematiche.
 </p>
 <ul class="collection">
 	{% for item in site.data.speaker %}
@@ -50,7 +49,7 @@ Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori 
 <!-- <p><i>Sono in via di definizione altre possibili conferenze.</i></p> -->
 
 <h2>Talk studenti</h2>
-Nel corso dell’evento i partecipanti avranno l’opportunità di esporre agli altri studenti la loro attività di ricerca, un topic di interesse o più semplicemente un argomento che hanno avuto modo di approfondire durante il loro percorso di studi, specialmente nell’ambito della fisica medica e biosanitaria. <!-- Se interessati, è possibile indicare nel form di registrazione all'evento il titolo del proprio intervento con un breve abstract. Indicativamente ciascuno studente avrà a disposizione 15-20 minuti per la propria presentazione: seguiranno informazioni più dettagliate una volta chiuse le iscrizioni e raccolte le proposte di talk. --> Vi sarà inoltre un sondaggio tra i partecipanti e la miglior presentazione sarà premiata.
+Nel corso dell’evento i partecipanti avranno l’opportunità di esporre agli altri studenti la loro attività di ricerca, un topic di interesse o più semplicemente un argomento che hanno avuto modo di approfondire durante il loro percorso di studi. Se interessati, è possibile indicare nel form di registrazione all'evento il titolo del proprio intervento con un breve abstract. Indicativamente ciascuno studente avrà a disposizione 15-20 minuti per la propria presentazione: seguiranno informazioni più dettagliate una volta chiuse le iscrizioni e raccolte le proposte di talk. Vi sarà inoltre un sondaggio tra i partecipanti e la miglior presentazione sarà premiata.
 
 <ul class="collection">
 	{% for item in site.data.talk_studenti %}
@@ -63,7 +62,7 @@ Nel corso dell’evento i partecipanti avranno l’opportunità di esporre agli 
 </ul>
 
 <h2>Sessione poster</h2>
-Una poster session sarà organizzata in modo da permettere ai ricercatori e ai dottorandi dei Dipartimenti di Fisica di Pavia e di Milano, ma anche dei Centri di Ricerca locali, di esporre la propria attività di ricerca o di approfondire alcune tematiche presentate durante le conferenze.
+Una poster session sarà organizzata in modo da permettere ai ricercatori e ai dottorandi dei Dipartimenti di Fisica di Milano e di Milano-Bicocca, ma anche dei Centri di Ricerca locali, di esporre la propria attività di ricerca o di approfondire alcune tematiche presentate durante le conferenze.
 
 <ul class="collection">
 	{% for item in site.data.poster %}
@@ -73,3 +72,16 @@ Una poster session sarà organizzata in modo da permettere ai ricercatori e ai d
 	</li>
 	{% endfor %}
 </ul>
+
+<h2>Workshop aziende</h2>
+Sarà prevista anche una sessione parallela dedicata alle aziende attive sul territorio locale che contribuiranno alla realizzazione dell’evento, in cui i relativi rappresentanti avranno modo di presentare l’attività svolta al loro interno anche in vista di possibili future collaborazioni lavorative.
+<ul class="collection">
+	{% for item in site.data.workshop %}
+	<li class="collection-item">
+		<b>{{ item.name }} - <i>{{item.title}}</i></b>
+		<br>
+		<p style="text-align:justify">{{item.abstract}}</p>
+	</li>
+	{% endfor %}
+</ul>
+
