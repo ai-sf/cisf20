@@ -10,7 +10,7 @@ Le conferenze si terranno nei due dipartimenti di fisica milanesi, delle Univers
 Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori molto vari, sono stati selezionati sulla base dell'impatto del loro lavoro e dei collegamenti con la città e le università di Milano.
 </p>
 <ul class="collection">
-	{% for item in site.data.speakers %}
+	{% for item in site.data.speaker %}
   <li class="collection-item avatar" id="{{ item.id }}">
 		{% if item.img != nil %}
 		<img src="{{ site.url }}/{{ item.img }}" alt="" class="circle">

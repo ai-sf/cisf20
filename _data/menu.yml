@@ -1,20 +1,16 @@
-- text: Attività
-  subitems:
-    - text: Visite
-      url: facilities
-    - text: Conferenze
-      url: speakers
-    - text: Eventi serali
-      url: serate
-    - text: Alloggi
-      url: alloggi
 - text: Programma
-  url: programme
-- text: Registrazione
-  url: registration
-- text: Comitato organizzatore
-  url: staff
+  url: programma
+- text: Speaker
+  url: speaker
+- text: Strutture
+  url: strutture
+- text: Eventi serali
+  url: serate
+- text: <b>Iscrizioni</b>
+  url: iscrizioni	
+- text: Organizzatori
+  url: organizzatori
 - text: Sponsor
-  url: sponsors
+  url: sponsor
 - text: AISF
   url: http://www.ai-sf.it

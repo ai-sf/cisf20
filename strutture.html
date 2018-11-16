@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Visite
+title: Strutture
 ---
 
-{{site.data.facilities.intro}}
+{{site.data.strutture.intro}}
 
 <h2>Pavia</h2>
 <div class="section">
-  {% for item in site.data.facilities.pavia %}
+  {% for item in site.data.strutture.pavia %}
     {% assign col = forloop.index0 | modulo:2 %}
     {% if col == 0 %}
       <div class="row">
@@ -44,7 +44,7 @@ title: Visite
 
 <h2>Milano</h2>
 <div class="section">
-  {% for item in site.data.facilities.milano %}
+  {% for item in site.data.strutture.milano %}
     {% assign col = forloop.index0 | modulo:2 %}
     {% if col == 0 %}
       <div class="row">
@@ -78,3 +78,27 @@ title: Visite
     {% endif %}
   {% endfor %}
 </div>
+
+
+<h2>Alloggio</h2>
+<p>I partecipanti con alloggio (vedi pagina <a href='../programme'>Programma</a> per informazioni sulle diverse quote) soggiorneranno nelle 4 notti dell'evento presso i Collegi della rete EDISU in Pavia. Eredi di una lunga tradizione, i collegi universitari pavesi (più di 20) ospitano moltissimi studenti che accostano allo studio attività ricreative, culturali e sportive, e spesso stringono legami di amicizia che restano per la vita. Per qualche notte, anche i partecipanti di BiPLE potranno immergersi nell'atmosfera viva di questi luoghi.</p>
+
+<p>Tutte le strutture hanno installata una rete Wi-Fi a disposizione dei partecipanti di BiPLE.</p>
+
+<div class="row">
+
+  <div class="col s12 m6">
+    <div class="card" id="aperitivo">
+      <div class="card-image" >
+        <img src="{{site.url}}/img/collegi/spallanzani.jpg">
+        <span class="card-title">Collegio L. Spallanzani</span>
+      </div>
+      <div class="card-content">
+        <p style='text-align:justify'>Il Collegio Lazzaro Spallanzani, fondato nel 1972, ha contribuito a formare generazioni di studenti sui valori della fratellanza, della cultura e dello sport. Si trova a due passi dall'Orto Botanico e dall'Università Centrale. La struttura ospita al suo interno cucina comune completa, biblioteca, sala studio, palastra e un piccolo giardino interno.</p>
+      </div>
+      <div class="card-action">
+        <a href="http://www.collegiospallanzani.it/" target="_blank">Website</a>
+        <a href="https://goo.gl/maps/E4xMSTDJZ7n" target="_blank">Map</a>
+      </div>
+    </div>
+  </div>

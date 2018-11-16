@@ -6,14 +6,14 @@ title: Programma
   <h5 class="header col s12 light">Scarica il booklet dell'evento!</h5>
 </div>
 <div class="row center">
-  <a href="{{site.url}}/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Booklet</a>
+  <a href="{{site.url}}/files/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Booklet</a>
 </div>
   <img src="{{site.url}}/img/picchi.svg">
 
   <div class="section">
       <h2>Informazioni generali</h2>
       <p style='text-align:justify'>
-        {{ site.data.programme.info }}
+        {{ site.data.programma.info }}
       </p>
     </div>
 
@@ -24,14 +24,14 @@ title: Programma
       <div class="row">
     <div class="col s12">
       <ul class="tabs">
-      {% for item in site.data.programme.schedule %}
+      {% for item in site.data.programma.schedule %}
             <li class="tab col m3 s12" style="width: 20%;"><a style="color:{{ site.data.generic.color1 }}" href="#{{ item.date }}">{{ item.day }}</a></li>
     {% endfor %}
     <div class="indicator color:{{ site.data.generic.color1 }}" style="z-index:1"></div>
       </ul>
     </div>
 
-   {% for item in site.data.programme.schedule %}
+   {% for item in site.data.programma.schedule %}
     <div id="{{item.date}}" class="col s12">
       <br>
       <h5>{{ item.day_ex }}</h5>
@@ -98,9 +98,9 @@ title: Programma
 
 <div class="section">
   <h2>Quota di iscrizione</h2>
-  <p>{{ site.data.programme.few_info.info }}<p>
+  <p>{{ site.data.programma.few_info.info }}<p>
   <ul class="collection">
-  {% for item in site.data.programme.few_info.specs %}
+  {% for item in site.data.programma.few_info.specs %}
     <li
       {% if item.url contains "http://" %}
          href="{{ item.url }}"
