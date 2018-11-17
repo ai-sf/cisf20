@@ -459,14 +459,15 @@ td, th{
     // Avatar Collection
     &.avatar {
       min-height: 84px;
-      padding-left: 72px;
+      padding-left: 160px;
       position: relative;
 
       .circle {
         position: absolute;
-        width: 42px;
-        height: 42px;
+        width: 125px;
+        height: 125px;
         overflow: hidden;
+	top: 15px;
         left: 15px;
         display: inline-block;
         vertical-align: middle;
