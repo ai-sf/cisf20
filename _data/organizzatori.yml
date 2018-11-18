@@ -48,8 +48,7 @@
   ruolo: "Responsabile visite"
 
 - nome: "Lorenzo Lazzarino"
-#  img: "img/staff/lazzarino.jpg"
-  img: "img/staff/noavatar.jpg"
+  img: "img/staff/lazzarino.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Milano"
   ruolo: "Tesoriere e responsabile sponsor"
@@ -96,7 +95,7 @@
   ruolo: "Responsabile sito web"
 
 - nome: "Stefano Migliorati"
-  img: "img/staff/Ste_M.JPG"
+  img: "img/staff/Ste_M.jpg"
   studio: "Laurea Magistrale"
   uni: "Università degli Studi di Milano"
   ruolo: "Responsabile seminari"

@@ -3,15 +3,13 @@
     <div class="row">
       <div class="col l6 m6 s12">
         <h5 class="white-text">{{ site.data.footer.title }}</h5>
-        <p class="grey-text text-lighten-4" style="text-align:justify">{{ site.data.footer.descr }}</p>
+        <p class="grey-text text-lighten-4">{{ site.data.footer.descr }}</p>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Contact <i class="material-icons">mail_outline</i></h5>
-        <!-- <i class="material-icons">mail_outline</i> -->
         <ul>
         {% for item in site.data.footer.contact %}
-          <li>{{ item.name }}</li>
-      	  <li><a class="white-text" href="mailto:{{ item.mail }}">{{ item.mail }}</a></li>
+      	  <li><a class="white-text" href="mailto:{{ item.mail }}">{{ item.name }}</a></li>
         {% endfor %}
         </ul>
       </div>

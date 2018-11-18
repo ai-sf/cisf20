@@ -3,9 +3,9 @@ info: "L'evento si terrà da mercoledì 6 marzo a domenica 10 marzo 2019 a Milan
 last_update: 12/01/17
 
 schedule:
-  - day: Mar 20
-    date: "200318"
-    day_ex: Martedì 20 marzo (Pavia)
+  - day: Mer 6
+    date: "060319"
+    day_ex: Mercoledì 6 marzo (UniMi)
     short_descr: Apertura lavori e conferenze introduttive
     activity:
       - hour: "14:00 - 15:30"
@@ -37,9 +37,9 @@ schedule:
         map: https://goo.gl/maps/o8eeEh8wbp22
         id: serate/#aperitivo
 
-  - day: Mer 21
-    date: "210318"
-    day_ex: Mercoledì 21 marzo (Pavia)
+  - day: Gio 7
+    date: "070319"
+    day_ex: Giovedì 7 marzo (UniMiB)
     short_descr: "Visita al L.E.N.A., conferenze e talk studenti"
     activity:
       - hour: "9:00 - 10:00"
@@ -95,9 +95,9 @@ schedule:
         tag: sera
         id: serate/#mercole
 
-  - day: Gio 22
-    date: "220318"
-    day_ex: Giovedì 22 marzo (Milano)
+  - day: Ven 8
+    date: "080319"
+    day_ex: Venerdì 8 marzo (UniMi)
     short_descr: "Giornata a Milano: conferenze e visite"
     activity:
       - hour: "7:30"
@@ -173,9 +173,9 @@ schedule:
         descr: "Ritorno a Pavia in pullman"
         tag: svago
 
-  - day: Ven 23
-    date: "230318"
-    day_ex: Venerdì 23 marzo (Pavia)
+  - day: Sab 9
+    date: "09319"
+    day_ex: Venerdì 9 marzo (UniMi)
     short_descr: "Visita al CNAO, conferenze e talk studenti"
     activity:
       - hour: "9:15 - 10:00"
@@ -226,9 +226,9 @@ schedule:
         descr: "Serata libera"
         tag: sera
 
-  - day: Sab 24
-    date: "240318"
-    day_ex: Sabato 24 marzo (Pavia)
+  - day: Dom 10
+    date: "100319"
+    day_ex: Domenica 10 marzo (UniMi)
     short_descr: "Conferenze, poster session e chiusura lavori"
     activity:
       - hour: "9:00 - 9:45"
