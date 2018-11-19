@@ -7,7 +7,7 @@
     <title>CISF 2019 - Programma</title>
 
 <!-- Standard html meta tags -->
-    <meta name="description" content="  Scarica il booklet dell'evento!  Booklet          Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato   ..." />
+    <meta name="description" content="        Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato                            {% for item in site..." />
     <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
 
 <!-- og -->
@@ -15,7 +15,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/programma/">
 
-<meta property="og:description" content="  Scarica il booklet dell'evento!  Booklet          Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato   ...">
+<meta property="og:description" content="        Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato                            {% for item in site...">
 <meta property="og:site_name" content="CISF 2019">
 <meta property="og:locale" content="it">
 
@@ -26,7 +26,7 @@
 <meta name="twitter:card"           content="summary" />
 <meta name="twitter:site"           content="@aisf_fisica" />
 <meta name="twitter:title"          content="Programma" />
-<meta name="twitter:description"    content="  Scarica il booklet dell'evento!  Booklet          Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato   ..."/>
+<meta name="twitter:description"    content="        Informazioni generali              {{ site.data.programma.info }}                Programma dettagliato                            {% for item in site..."/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
@@ -297,13 +297,16 @@
       </header>
 
       <article class="post-content">
-        <div class="row center">
+        <!--	SEZIONE BOOKLET
+
+<div class="row center">
   <h5 class="header col s12 light">Scarica il booklet dell'evento!</h5>
 </div>
 <div class="row center">
-  <a href="http://localhost:4000/files/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Booklet</a>
+  <a href="http://localhost:4000/files/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light #FF5722">Booklet</a>
 </div>
   <img src="http://localhost:4000/img/picchi.svg">
+-->
 
   <div class="section">
       <h2>Informazioni generali</h2>
@@ -386,7 +389,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Elio GIROLETTI  <br> <i>Radiazioni ionizzanti: interazioni e industria</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Elio GIROLETTI  <br> <i>Radiazioni ionizzanti: interazioni e industria</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#giroletti" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -414,7 +417,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Francesca BALLARINI <br> <i>Radiazioni ionizzanti: effetti biologici e utilizzo in adroterapia oncologica</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Francesca BALLARINI <br> <i>Radiazioni ionizzanti: effetti biologici e utilizzo in adroterapia oncologica</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#ballarini" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -462,7 +465,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Alberto TORRESIN <br> <i>Tecniche di imaging per la diagnostica e la terapia in ambito sanitario</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Alberto TORRESIN <br> <i>Tecniche di imaging per la diagnostica e la terapia in ambito sanitario</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#torresin" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -476,7 +479,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#prata" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -504,7 +507,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Silva BORTOLUSSI <br> <i>Radioterapia con i neutroni: un concetto diverso di selettività</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Silva BORTOLUSSI <br> <i>Radioterapia con i neutroni: un concetto diverso di selettività</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#bortolussi" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -532,7 +535,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">L.E.N.A. <a href='https://goo.gl/maps/6D3Q61L8LsA2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>L.E.N.A.</b></td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>L.E.N.A.</b></td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#lena" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -560,7 +563,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Fulvia PALESI <br> <i>Imaging di risonanza magnetica nelle neuroscienze</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Fulvia PALESI <br> <i>Imaging di risonanza magnetica nelle neuroscienze</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#palesi" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -574,7 +577,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Marialuisa TOGNOLINA <br> <i>Microscopia di fluorescenza con eccitazione a due fotoni per lo studio dell’attività neuronale</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Marialuisa TOGNOLINA <br> <i>Microscopia di fluorescenza con eccitazione a due fotoni per lo studio dell’attività neuronale</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#tognolina" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -588,7 +591,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#990099; text-align:center">Talk studenti</td>
+        <td style="background-color:rgba(0,0,0,0); color:#C51162; text-align:center">Talk studenti</td>
         
         <td style="background-color:rgba(0,0,0,0)"></td>
         
@@ -650,7 +653,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica UniMi</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Alessandro LASCIALFARI <br> <i>Applicazioni del magnetismo in bio-medicina</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Alessandro LASCIALFARI <br> <i>Applicazioni del magnetismo in bio-medicina</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#lascialfari" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -664,7 +667,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica UniMi</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Flavia Maria GROPPI GARLANDINI <br> <i>Ottimizzazione della produzione di radionuclidi ad Alta Attività Specifica per applicazioni in medicina, tossicologia e nanotossicologia</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Flavia Maria GROPPI GARLANDINI <br> <i>Ottimizzazione della produzione di radionuclidi ad Alta Attività Specifica per applicazioni in medicina, tossicologia e nanotossicologia</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#groppi" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -692,7 +695,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica UniMi</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Giuseppe BATTISTONI <br> <i>Introduzione all'adroterapia</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Giuseppe BATTISTONI <br> <i>Introduzione all'adroterapia</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#battistoni" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -706,7 +709,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica UniMi</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Ivan VERONESE <br> <i>Uno sguardo alla dosimetria retrospettiva</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Ivan VERONESE <br> <i>Uno sguardo alla dosimetria retrospettiva</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#veronese" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -734,7 +737,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">Istituto FIRC di Oncologia Molecolare <a href='https://goo.gl/maps/THTmYTmDNGn' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 1]</td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 1]</td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#ifom" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -748,7 +751,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">Istituto Europeo di Oncologia <a href='https://goo.gl/maps/DQjG2MS3zsG2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 2]</td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 2]</td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#ieo" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -762,7 +765,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">IRCCS Ospedale San Raffaele <a href='https://goo.gl/maps/Kk17kXqKVP62' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>IRCCS Ospedale San Raffaele</b> <br> [Gruppo 3]</td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>IRCCS Ospedale San Raffaele</b> <br> [Gruppo 3]</td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#sanraffaele" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -776,7 +779,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">ASST Grande Ospedale Metropolitano Niguarda <a href='https://goo.gl/maps/1jdEgqcJtH82' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>ASST Grande Ospedale Metropolitano Niguarda</b> <br> [Gruppo 4]</td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>ASST Grande Ospedale Metropolitano Niguarda</b> <br> [Gruppo 4]</td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#niguarda" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -790,7 +793,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">IRCCS Istituto Nazionale dei Tumori (INT) <a href='https://goo.gl/maps/tQZpfpEg7nJ2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>IRCCS Istituto Nazionale dei Tumori (INT)</b> <br> [Gruppo 5]</td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>IRCCS Istituto Nazionale dei Tumori (INT)</b> <br> [Gruppo 5]</td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#int" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -852,7 +855,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Sofia BARBIERI, Mario CARANTE, Ian POSTUMA <br> <i>Introduzione alla simulazione in ambito sanitario</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Sofia BARBIERI, Mario CARANTE, Ian POSTUMA <br> <i>Introduzione alla simulazione in ambito sanitario</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#bcp" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -866,7 +869,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#molinelli" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -894,7 +897,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Centro Nazionale di Adroterapia Oncologica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#necchi" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -908,7 +911,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Centro Nazionale di Adroterapia Oncologica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#facoetti" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -922,7 +925,7 @@
         
         <td style="background-color:#rgba(0,0,0,0)">Centro Nazionale di Adroterapia Oncologica <a href='https://goo.gl/maps/1t1iNQmZ8ez' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:#rgba(0,0,0,0); color:#00802b; text-align:center">Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b></td>
+        <td style="background-color:#rgba(0,0,0,0); color:#00C853; text-align:center">Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b></td>
         
         <td style="background-color:#rgba(0,0,0,0)"><a href="http://localhost:4000/facilities/#cnao" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -950,7 +953,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Giorgio BAIOCCO <br> <i>Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Giorgio BAIOCCO <br> <i>Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#baiocco" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -964,7 +967,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Dipartimento di Fisica</td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#990099; text-align:center">Talk studenti</td>
+        <td style="background-color:rgba(0,0,0,0); color:#C51162; text-align:center">Talk studenti</td>
         
         <td style="background-color:rgba(0,0,0,0)"></td>
         
@@ -1012,7 +1015,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Università di Pavia - Sede Centrale <a href='https://goo.gl/maps/YCjHzYP8BhP2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Paolo MILANI <br> <i>Nanotecnologie soffici per la medicina e la robotica</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Paolo MILANI <br> <i>Nanotecnologie soffici per la medicina e la robotica</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#milani" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -1026,7 +1029,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Università di Pavia - Sede Centrale <a href='https://goo.gl/maps/YCjHzYP8BhP2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Andrea CILIBERTO <br> <i>Impossibili da fermare: come e perchè le cellule scappano dall’arresto della divisione cellulare</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Andrea CILIBERTO <br> <i>Impossibili da fermare: come e perchè le cellule scappano dall’arresto della divisione cellulare</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"><a href="http://localhost:4000/speakers/#ciliberto" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:#FF5722" aria-hidden="true"></i></a></td>
         
@@ -1040,7 +1043,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Università di Pavia - Sede Centrale <a href='https://goo.gl/maps/YCjHzYP8BhP2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#0000a0; text-align:center">Presentazione <b>AIFM</b> <br> (<i>Associazione Italiana Fisica Medica</i>)</td>
+        <td style="background-color:rgba(0,0,0,0); color:#0091EA; text-align:center">Presentazione <b>AIFM</b> <br> (<i>Associazione Italiana Fisica Medica</i>)</td>
         
         <td style="background-color:rgba(0,0,0,0)"></td>
         
@@ -1054,7 +1057,7 @@
         
         <td style="background-color:rgba(0,0,0,0)">Università di Pavia - Sede Centrale <a href='https://goo.gl/maps/YCjHzYP8BhP2' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:#FF5722"></i></a></td>
         
-        <td style="background-color:rgba(0,0,0,0); color:#990099; text-align:center">Poster&Coffee session <br> <i> Pillole di scienza</i></td>
+        <td style="background-color:rgba(0,0,0,0); color:#C51162; text-align:center">Poster&Coffee session <br> <i> Pillole di scienza</i></td>
         
         <td style="background-color:rgba(0,0,0,0)"></td>
         
@@ -1293,7 +1296,7 @@
   </body>
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="http://localhost:4000/js/bin/materialize.min.js"></script>
-<script src="http://localhost:4000/js/init.js"></script>
+<!-- <script src="http://localhost:4000/js/init.js"></script> -->
 
 <script> // Slider
   $(document).ready(function(){
@@ -1317,7 +1320,7 @@
   });
 </script>
 
-<script src="http://localhost:4000/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<!-- <script src="http://localhost:4000/js/jquery-1.11.3.min.js" type="text/javascript"></script>
     <script src="http://localhost:4000/js/jssor.slider-22.2.16.mini.js" type="text/javascript"></script>
     <script type="text/javascript">
         jQuery(document).ready(function ($) {
@@ -1336,7 +1339,8 @@
               }
             };
 
-            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options); 
 
             /*responsive code begin*/
             /*remove responsive code if you don't want the slider scales while window resizing*/
@@ -1389,6 +1393,8 @@
         .jssora02r.jssora02rds { background-position: -63px -33px; opacity: .3; pointer-events: none; }
         /* jssor slider thumbnail navigator skin 03 css *//*.jssort03 .p            (normal).jssort03 .p:hover      (normal mouseover).jssort03 .pav          (active).jssort03 .pdn          (mousedown)*/.jssort03 .p {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;}.jssort03 .t {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort03 .w, .jssort03 .pav:hover .w {    position: absolute;    width: 60px;    height: 30px;    border: white 1px dashed;    box-sizing: content-box;}.jssort03 .pdn .w, .jssort03 .pav .w {    border-style: solid;}.jssort03 .c {    position: absolute;    top: 0;    left: 0;    width: 62px;    height: 32px;    background-color: #000;    filter: alpha(opacity=45);    opacity: .45;    transition: opacity .6s;    -moz-transition: opacity .6s;    -webkit-transition: opacity .6s;    -o-transition: opacity .6s;}.jssort03 .p:hover .c, .jssort03 .pav .c {    filter: alpha(opacity=0);    opacity: 0;}.jssort03 .p:hover .c {    transition: none;    -moz-transition: none;    -webkit-transition: none;    -o-transition: none;}* html .jssort03 .w {    width /**/: 62px;    height /**/: 32px;}
     </style>
+
+-->
 
 
 </html>

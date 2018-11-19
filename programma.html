@@ -2,13 +2,17 @@
 layout: page
 title: Programma
 ---
+
+<!--	SEZIONE BOOKLET
+
 <div class="row center">
   <h5 class="header col s12 light">Scarica il booklet dell'evento!</h5>
 </div>
 <div class="row center">
-  <a href="{{site.url}}/files/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Booklet</a>
+  <a href="{{site.url}}/files/booklet.pdf" target="_blank" id="download-button" class="btn-large waves-effect waves-light {{ site.data.generic.color1 }}">Booklet</a>
 </div>
   <img src="{{site.url}}/img/picchi.svg">
+-->
 
   <div class="section">
       <h2>Informazioni generali</h2>
@@ -52,19 +56,19 @@ title: Programma
             {% assign tc = "black" %}
           {% elsif act.tag == "conf" %}
             {% assign bg = "rgba(0,0,0,0)" %}
-            {% assign tc = "#0000a0" %}
+            {% assign tc = "#0091EA" %}
           {% elsif act.tag == "sera" %}
             {% assign bg = "#eeeeee" %}
             {% assign tc = "#000000" %}
           {% elsif act.tag == "visit" %}
             {% assign bg = "#rgba(0,0,0,0)" %}
-            {% assign tc = "#00802b" %}
+            {% assign tc = "#00C853" %}
           {% elsif act.tag == "svago" %}
             {% assign bg = "#eeeeee" %}
             {% assign tc = "#000000" %}
           {% elsif act.tag == "studenti" %}
             {% assign bg = "rgba(0,0,0,0)" %}
-            {% assign tc = "#990099" %}
+            {% assign tc = "#C51162" %}
           {% elsif act.tag == "firstlast" %}
             {% assign bg = "#eeeeee" %}
             {% assign tc = "#000000" %}
