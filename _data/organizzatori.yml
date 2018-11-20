@@ -4,12 +4,6 @@
   uni: "Università degli Studi di Milano"
   ruolo: "Coordinatore organizzazione"
 
-- nome: "Federico Andrea Sabattoli"
-  img: "img/staff/sabattoli.jpg"
-  studio: "Dottorato"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Coordinatore organizzazione"
-
 - nome: "Beatrice Jelmini"
   img: "img/staff/Bea_J_q.jpg"
   studio: "Laurea Magistrale"
@@ -28,18 +22,24 @@
   uni: "Università degli Studi di Milano"
   ruolo: "Tesoriere e responsabile sponsor"
 
-- nome: "Laura Foletto"
-#  img: "img/staff/foletto.jpg"
-  img: "img/staff/noavatar.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Milano"
-  ruolo: "Supporto alle attività e fotografo"
+- nome: "Federico Andrea Sabattoli"
+  img: "img/staff/sabattoli.jpg"
+  studio: "Dottorato"
+  uni: "Università degli Studi di Pavia"
+  ruolo: "Supporto alle attività"
 
 - nome: "Giulia Marcucci"
   img: "img/staff/giulia_q.jpg"
   studio: "Laurea Magistrale"
   uni: "Università degli Studi di Milano Bicocca"
   ruolo: "Responsabile seminari e visite"
+
+- nome: "Laura Foletto"
+#  img: "img/staff/foletto.jpg"
+  img: "img/staff/noavatar.jpg"
+  studio: "Laurea Triennale"
+  uni: "Università degli Studi di Milano"
+  ruolo: "Supporto alle attività e fotografo"
 
 - nome: "Linda Bianchini"
   img: "img/staff/linda_cropped.jpg"

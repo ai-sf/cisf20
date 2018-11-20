@@ -15,13 +15,13 @@ contact:
 connect:
   - name: AISF
     url: https://www.facebook.com/aisf.fisica/
-    img_name: AISF_logo_white_nobkg.png
+    img_name: /footer/AISF_logo_white_nobkg.png
   - name: AISF UniMi
     url: https://www.facebook.com/aisfunimi/
-    img_name: logo_AISF_UNIMI.svg
+    img_name: /footer/logo_AISF_UNIMI.png
   - name: AISF Milano Bicocca
     url: https://www.facebook.com/AISFMilanoBICOCCA/
-    img_name: logo_AISF_UNIMIB.png
+    img_name: /footer/logo_AISF_UNIMIB.png
 
 
 
