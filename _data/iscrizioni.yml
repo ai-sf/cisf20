@@ -1,13 +1,32 @@
 posters?: false
 
-deadlines:
-  info: "<i class='fa fa-exclamation-triangle' aria-hidden='true'></i> Estensione della deadline: le registrazioni sono aperte dalle ore 12:00 (mezzogiorno) di lunedì 29 gennaio fino alle ore 12:00 (mezzogiorno) di <font style='text-decoration:line-through;'>lunedì 12 febbraio</font> <b>venerdì 16 febbraio</b> (non saranno concesse ulteriori proroghe)."
+few_info:
+  info: ""
   specs:
-    - text: "Sono disponibili <b>54 posti</b> in totale per l'evento: 40 con alloggio in Pavia (quota 100 euro) e 14 senza alloggio (quota 40 euro). 14 posti saranno riservati ai membri dei Comitati Locali di Pavia e Milano (7 per ognuno). In particolare, verrà data loro la precedenza per l’assegnazione dei posti con o senza alloggio. Dopo la collocazione dei 14 studenti di Pavia e Milano, i rimanenti 40 posti verranno distribuiti tra i rimanenti richiedenti. Per informazioni ulteriori su cosa sia compreso nelle quote vedere la pagina <a href='../programme'>Programma</a>."
-    - text: "Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese). In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei partecipanti. I documenti vengono raccolti già in fase di registrazione in modo da velocizzare i controlli: verranno inoltrati al L.E.N.A. solo i documenti di coloro che saranno ammessi all’evento e dei primi esclusi che potranno essere ripescati in caso di defezioni."
-    - text: "La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di BiPLE in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un seminario costituirà titolo preferenziale."
+    - text: "Sono disponibili in totale 132 posti:"
+      subpoints:
+        - text: "<b>100</b> con alloggio, con quota di <b>100</b> euro;"
+        - text: "<b>32</b> senza alloggio, con quota di <b>50</b> euro, riservati a studenti provenienti da università milanesi."
+    - text: "Entrambe le quote di partecipazione comprendono:"
+      subpoints:
+        - text: "pranzo di giovedì, venerdì, sabato e i coffee break;"
+        - text: "trasporti dentro e fuori Milano nel corso dell'evento;"
+        - text: "sacchetto con i gadget dell'evento."
+    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso l'ostello per le 4 notti dell'evento, comprensivo di colazioni e cene (nei giorni di mercoledì, giovedì e sabato). Maggiori dettagli sono disponibili alla pagina <a href='../strutture#alloggio'>Strutture</a>."
+    - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"
+      subpoints:
+        - text: "spese di viaggio per raggiungere la conferenza;"
+        - text: "assicurazione;"
+        - text: "pranzo di mercoledì e di domenica."
+    - text: "Per chi non è ancora membro AISF la registrazione all'evento comprenderà, al costo di 5 euro (10 euro per gli studenti di dottorato), l'iscrizione all'Associazione per l'anno 2018/2019. Per info consultare <a href='http://ai-sf.it/iscrizione/' target='_blank'>questa pagina</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
+    
+deadlines: 
+  info:
+  specs:
+    - text: "Le iscrizioni apriranno il 13 dicembre alle ore TBA e chiuderanno alla mezzanotte fra il 12 e il 13 gennaio."
+    - text: "La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di CISF 2019 in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un seminario o presentazione di un poster costituirà titolo preferenziale."
     - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
-    - text: "Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite e verrà pianificato il calendario delle sezioni Talk Studenti in base ai contributi pervenuti."
+    - text: "Una volta definiti i partecipanti all'evento verrà pianificato il calendario delle sezioni talk studenti in base ai contributi pervenuti."
   lastinfo: "Per procedere con la registrazione, cliccare sul seguente link. "
 
 terms:
@@ -17,7 +36,7 @@ terms:
       url: "#!"
     - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Bio-medical Physics Lombard Event."
+    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Conferenza Italiana Studenti di Fisica (CISF)."
       url: "#!"
     - text: "You accept the IAPS Code of Conduct."
       url: "files/IAPS_Code_of_Conduct.pdf"
@@ -30,8 +49,3 @@ terms:
       url: "#!"
     - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
       url: "#!"
-
-
-
-#TODO:
-#aggiornare il contenuto alla CISF

@@ -34,16 +34,16 @@ Attualmente conduce la sua attività come ricercatore presso il Dipartimento di 
 
 - nome: "Prof. Lucio Rossi"
   id: rossi
-  uni: "CERN"
+  uni: "High Luminosity LHC Project, CERN"
   img: "/img/speakers/square_crop/rossi.jpg"
-  title: "TBA"
+  title: "L’avventura del fisico tra scienza e tecnologia: LHC, l’upgrade ad Alta Luminosità e i futuri <i>megascience projects</i> per acceleratori"
   bio: "Lucio Rossi è capo del progetto High Luminosity LHC (HiLumi LHC), presso il CERN.
 Laureatosi all'Università Statale di Milano nel 1980, prosegue la sua ricerca nella stessa Università, occupandosi di superconduttività applicata nel campo degli acceleratori di particelle e ottenendo la posizione di professore associato di fisica sperimentale nel 1992. <br>
 Negli anni 90 partecipa a diversi esperimenti presso acceleratori basati sui magneti superconduttori, come il ciclotrone dell'INFN di Catania, l'HERA presso DESY ad Amburgo e il Large Hadron Collider del CERN. Nel 2001 diventa staff del CERN, in aspettativa dall'Università, per prendere la  responsabilità dei magneti e dei superconduttori per il progetto LHC, il piu' grande acceleratore esistente. Dal 2011 dirige il progetto <i>LHC ad Alta Luminosità</i>, che aumentarà in modo eclatante le potenzialità dell'acceleratore stesso. <br>
 Nel 2007 è premiato dall'IEEE e nel 2013 è chiamato a far parte del consiglio del prestigioso istituto come <i>distinguished lecturer</i>.
 È membro e cofondatore di EURESIS, associazione per la diffusione della cultura scientifica con sede a Milano. 
 Rossi svolge anche un'intensa attività di divulgazione scientifica con un interesse alla relazione tra scienza e tecnologia, certezza e verità."
-  abstract: "TBA"
+  abstract: "LHC, uno dei più grandi e complessi strumenti scientifici, ha richiesto quasi trent’anni per gli studi e per la sua realizzazione. Già nel 2010, ancor prima della scoperta del bosone di Higgs del 2012, sono iniziati gli studi per il suo upgrade, denominato LHC ad Alta Luminosità che funzionerà dopo il 2025. E già sono iniziati gli studi per l’acceleratore post-LHC, un acceleratore lineare da 20-50 km o uno circolare da 100 km per il 2040. Questi grandi progetti di fisica richiedono lo sviluppo di nuove tecnologie, con collaborazioni internazionali di grandi dimensioni, richiedendo una capacità di adattamento ai ricercatori coinvolti ma generando anche grandi opportunità proprio per una figura flessibile e polivalente come il fisico."
   link:
 
 - nome: "Prof. Michele Parrinello"
@@ -76,10 +76,10 @@ Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per 
 - nome: "Dott. Gabriella Greison"
   id: greison
   img: "/img/speakers/square_crop/greison.jpg"
-  title: "TBA"
+  title: "Monologo Quantistico"
   bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br>
 Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
-  abstract: "TBA"
+  abstract: "In <i>Monologo Quantistico</i> Gabriella Greison racconta una foto che rappresenta il più grande ritrovo di cervelli della storia, scattata nel 1927 a Bruxelles, a conclusione del V Congresso Solvay."
   link:
 
 

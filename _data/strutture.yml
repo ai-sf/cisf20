@@ -20,7 +20,7 @@ pavia:
     map: https://goo.gl/maps/1t1iNQmZ8ez
 
 milano:
-  - img: img/ifom.jpeg
+  - img: img/strutture/IFOM.jpg
     title: Istituto FIRC di Oncologia Molecolare (IFOM)
     descr: Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
     site: https://www.ifom.eu/it/
@@ -33,13 +33,6 @@ milano:
     site: https://www.ieo.it/
     id: ieo
     map: https://goo.gl/maps/DQjG2MS3zsG2
-
-  - img: img/hsr.jpg
-    title: IRCCS Ospedale San Raffaele
-    descr: L'Ospedale San Raffaele è stato inaugurato nel 1971 e riconosciuto Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) nel 1972. Si tratta di una struttura clinico-scientifica- universitaria di rilievo internazionale ed è un Centro di Emergenza ad Alta Specialità (EAS). Nell’ambito della Ricerca, dal 2001 l’IRCCS Ospedale San Raffaele è riconosciuto dal Ministero della Salute come Istituto di Ricovero e Cura a Carattere Scientifico per la specialità di Medicina Molecolare.
-    site: http://research.hsr.it/en/index.html
-    id: sanraffaele
-    map: https://goo.gl/maps/Kk17kXqKVP62
 
   - img: img/niguarda.png
     title: ASST Grande Ospedale Metropolitano Niguarda

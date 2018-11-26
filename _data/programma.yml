@@ -1,6 +1,6 @@
-info: "TODO L'evento si terrà da mercoledì 6 marzo a domenica 10 marzo 2019 a Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena sociale con giropizza di giovedì sera. L'evento si concluderà nella mattinata di sabato 24 marzo presso la sede centrale dell'Università di Pavia."
+info: "L'evento si terrà da mercoledì 6 marzo a domenica 10 marzo 2019 a Milano. La registrazione partecipanti comincerà nella mattina di mercoledì 6 marzo presso il Dipartimento di Fisica dell'Università degli Studi di Milano (UniMi), seguita dalla cerimonia di apertura e da prime conferenze. <br> La giornata successiva si terrà al Dipartimento di Fisica dell'Università degli Studi di Milano-Bicocca (UniMiB) mentre le successive si terranno ancora al Dipartimento di Fisica dell'Università degli studi di Milano (UniMi). Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì sera, la serata al Planetario Civico di giovedì sera, la cena sociale di venerdì sera. L'evento si concluderà nel primo pomeriggio di domenica 10 marzo presso il Dipartimento di Fisica dell'Università degli Studi di Milano."
 
-last_update: 12/01/17
+last_update: 26/11/18
 
 schedule:
   - day: Mer 6
@@ -58,7 +58,7 @@ schedule:
         tag: svago
       - hour: "15:00 - 16:00"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "<b>Prof. Fabio Pezzoli</b>, <i>TBA</i>"
+        descr: "<b>Prof. Fabio Pezzoli</b>, <br> <i>La fisica dello spin in nanostrutture a semiconduttore: spettroscopia ottica e applicazioni</i>"
         id: speaker/#pezzoli
         tag: conf
       - hour: "16:00 - 17:00"
@@ -162,7 +162,7 @@ schedule:
         tag: svago
       - hour: "16:30 - 18:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Prof. Lucio Rossi</b>, <i>TBA</i>"
+        descr: "<b>Prof. Lucio Rossi</b>, <br><i>L’avventura del fisico tra scienza e tecnologia: LHC, l’upgrade ad Alta Luminosità e i futuri <i>megascience projects</i> per acceleratori</i>"
         id: speaker/#rossi
         tag: conf
       - hour: "19:30 - 21:30"
@@ -209,7 +209,8 @@ schedule:
     activity:
       - hour: "9:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Dr. Stefano Sandrelli</b> e <b>Ing. Paolo Nespoli</b>, <i>TBA</i>"
+        descr: "<b>Dr. Stefano Sandrelli</b>, <i>TBA</i>"
+# e <b>Ing. Paolo Nespoli</b>
         id: speaker/#sandrelli
         tag: conf
       - hour: "11:00 - 11:45"
@@ -224,31 +225,3 @@ schedule:
         where:
         descr: "Cerimonia di chiusura"
         tag:
-
-few_info:
-  info: ""
-  specs:
-    - text: "Per chi non è ancora membro AISF la registrazione all'evento comprenderà, al costo di 5 euro (10 euro per gli studenti di dottorato), l'iscrizione all'Associazione per l'anno 2017/2018. Per info consultare <a href='http://ai-sf.it/iscrizione/' target='_blank'>questa pagina</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
-    - text: "Sono disponibili in totale 54 posti:"
-      subpoints:
-        - text: "<b>40</b> con alloggio in Pavia, con quota di <b>100</b> euro;"
-        - text: "<b>14</b> senza alloggio, con quota di <b>40</b> euro."
-    - text: "Entrambe le quote di partecipazione comprendono:"
-      subpoints:
-        - text: "tutti i pranzi e i coffee break;"
-        - text: "aperitivo di martedì sera e cena di giovedì sera;"
-        - text: "trasporto in pullman per la trasferta a Milano di giovedì;"
-        - text: "sacchetto con i gadget dell'evento."
-    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei Collegi della rete EDISU di Pavia per le 4 notti dell'evento. Maggiori dettagli sono disponibili alla pagina <a href='../alloggi'>Alloggi</a>."
-    - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"
-      subpoints:
-        - text: "spese di viaggio per raggiungere la conferenza;"
-        - text: "assicurazione;"
-        - text: "trasporti all'interno di Pavia (il Dipartimento dista dal centro città circa 20 minuti a piedi);"
-        - text: "cena di mercoledì e venerdi."
-    - text: "Per procedere con la registrazione, cliccare <a href='../registration/'>qui</a>."
-
-
-
-#TODO:
-#aggiornare il contenuto alla CISF
