@@ -21,15 +21,6 @@ Attualmente conduce la sua attività come ricercatore presso il Dipartimento di 
   abstract: "Lo spin è il momento angolare intrinseco di particelle elementari come gli elettroni. Dispositivi in grado di controllare il grado di libertà quantistico dello spin elettronico potrebbero integrare funzioni logiche e di memoria consentendo di sviluppare modi radicalmente nuovi d'elaborare e trasmettere informazioni. La possibilità di generare e manipolare portatori di carica spin polarizzati all'interno di un solido è di enorme interesse non solo applicativo, ma anche fondamentale. In questo seminario verranno introdotti i meccanismi che governano i fenomeni di coerenza e di rilassamento dello spin in sistemi tecnologicamente rilevanti come le nanostrutture a semiconduttore. In particolare, ci si soffermerà su ricerche recenti in cui l'interazione radiazione-materia nella regione del visibile e vicino infrarosso è stata usata con successo per avere accesso diretto alla fisica dei processi spin dipendenti."
   link:
 
-- nome: "Dott. Gabriella Greison"
-  id: greison
-  img: "/img/speakers/square_crop/greison.jpg"
-  title: "TBA"
-  bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br>
-Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
-  abstract: "TBA"
-  link:
-
 #- nome: "Prof. Giovanni Onida"
 #  id: onida
 #  img: "/img/speakers/square_crop/onida.jpg"
@@ -43,6 +34,7 @@ Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechni
 
 - nome: "Prof. Lucio Rossi"
   id: rossi
+  uni: "CERN"
   img: "/img/speakers/square_crop/rossi.jpg"
   title: "TBA"
   bio: "Lucio Rossi è capo del progetto High Luminosity LHC (HiLumi LHC), presso il CERN.
@@ -56,6 +48,7 @@ Rossi svolge anche un'intensa attività di divulgazione scientifica con un inter
 
 - nome: "Prof. Michele Parrinello"
   id: parrinello
+  uni: "Politecnico federale di Zurigo (ETH)"
   img: "/img/speakers/square_crop/parrinello.jpg"
   title: "TBA"
   bio: "Michele Parrinello è professore ordinario di Computational Science presso l'ETH di Zurigo e l'Università della Svizzera italiana, Lugano, celebre per il suo lavoro in dinamica molecolare. <br>
@@ -70,6 +63,7 @@ Nato a Messina, Parrinello consegue la lauera in fisica nel 1968 presso l'Univer
 
 - nome: "Dott. Stefano Sandrelli"
   id: sandrelli
+  uni: "INAF - Osservatorio Astronomico di Brera"
   img: "/img/speakers/square_crop/sandrelli.jpg"
   title: "TBA"
   bio: "Stefano Sandrelli è responsabile della didattica e della comunicazione per l'Istituto Nazionale di Astrofisica (INAF), presso l'Osservatorio Astronomico di Brera, a Milano. <br>
@@ -78,6 +72,16 @@ Collabora dal 2000 al 2015 con l'Agenzia Spaziale Europea (ESA), curando oltre 5
 Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per il master MACSIS - Università di Milano Bicocca. E' membro dell'International Astronomical Union (IAU) e fa parte della Commissione Didattica della Società Astronomica Italiana (SAIt)."
   abstract: "TBA"
   link:
+
+- nome: "Dott. Gabriella Greison"
+  id: greison
+  img: "/img/speakers/square_crop/greison.jpg"
+  title: "TBA"
+  bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br>
+Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
+  abstract: "TBA"
+  link:
+
 
 #per link, sottolineature, ecc, usare direttamente tag HTML es. <br>
 

@@ -1,264 +1,226 @@
-info: "L'evento si terrà da mercoledì 6 marzo a domenica 10 marzo 2019 a Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena sociale con giropizza di giovedì sera. L'evento si concluderà nella mattinata di sabato 24 marzo presso la sede centrale dell'Università di Pavia."
+info: "TODO L'evento si terrà da mercoledì 6 marzo a domenica 10 marzo 2019 a Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena sociale con giropizza di giovedì sera. L'evento si concluderà nella mattinata di sabato 24 marzo presso la sede centrale dell'Università di Pavia."
 
 last_update: 12/01/17
 
 schedule:
   - day: Mer 6
     date: "060319"
-    day_ex: Mercoledì 6 marzo (UniMi)
-    short_descr: Apertura lavori e conferenze introduttive
+    day_ex: Mercoledì 6 marzo 
+    short_descr: "Inaugurazione, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "14:00 - 15:30"
-        where: "Dipartimento di Fisica"
+      - hour: "9:00 - 13:30"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Registrazione partecipanti"
         tag: firstlast
-      - hour: "15:30 - 16:30"
-        where: "Dipartimento di Fisica"
-        descr: "Cerimonia di apertura"
+      - hour: "14:00 - 16:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "Cerimonia di apertura <br> <b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica <br> <b>Mattia Ivaldi</b>, Presidente AISF <br> <b>Prof.ssa Ginevra Trinchieri</b>, Presidente SAIt <br> <b>Dr. Luca Solari</b>, Presidente di Fondazione UniMi"
         tag:
-      - hour: "16:30 - 17:30"
-        where: "Dipartimento di Fisica"
-        descr: "Elio GIROLETTI  <br> <i>Radiazioni ionizzanti: interazioni e industria</i>"
+      - hour: "16:00 - 17:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "<b>Dr.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
         tag: conf
-        id: speakers/#giroletti
-      - hour: "17:30 - 18:00"
-        where: "Dipartimento di Fisica"
+        id: speaker/#greison
+      - hour: "17:00 - 17:30"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Coffee Break"
         tag: svago
-      - hour: "18:00 - 19:00"
-        where: "Dipartimento di Fisica"
-        descr: "Francesca BALLARINI <br> <i>Radiazioni ionizzanti: effetti biologici e utilizzo in adroterapia oncologica</i>"
+      - hour: "17:30 - 18:30"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "<b>Prof. Stefano Forte</b>, <i>TBA</i>"
         tag: conf
-        id: speakers/#ballarini
-      - hour: "20:30 - 23:30"
-        where: "Santa Maria Gualtieri"
-        descr: "Aperitivo con Quiz Scientifico"
+        id: speaker/#forte
+      - hour: "19:00 - 00:00"
+        where: "TBA"
+        descr: "Cena organizzata e Botta di Coulomb"
         tag: sera
-        map: https://goo.gl/maps/o8eeEh8wbp22
-        id: serate/#aperitivo
+        map: 
+        id: serate/#bdc
+
+
 
   - day: Gio 7
     date: "070319"
-    day_ex: Giovedì 7 marzo (UniMiB)
-    short_descr: "Visita al L.E.N.A., conferenze e talk studenti"
+    day_ex: Giovedì 7 marzo
+    short_descr: "Visite e conferenze, Università degli Studi di Milano-Bicocca (UniMiB)"
     activity:
-      - hour: "9:00 - 10:00"
-        where: "Dipartimento di Fisica"
-        descr: "Alberto TORRESIN <br> <i>Tecniche di imaging per la diagnostica e la terapia in ambito sanitario</i>"
-        id: speakers/#torresin
-        tag: conf
-      - hour: "10:00 - 10:45"
-        where: "Dipartimento di Fisica"
-        descr: "Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i>"
-        id: speakers/#prata
-        tag: conf
-      - hour: "10:45 - 11:15"
-        where: "Dipartimento di Fisica"
-        descr: "Coffee Break"
-        tag: svago
-      - hour: "11:15 - 12:00"
-        where: "Dipartimento di Fisica"
-        descr: "Silva BORTOLUSSI <br> <i>Radioterapia con i neutroni: un concetto diverso di selettività</i>"
-        id: speakers/#bortolussi
-        tag: conf
-      - hour: "12:00 - 13:30"
-        where: "Mensa"
-        descr: "Pranzo"
-        tag: svago
-      - hour: "13:30 - 16:00"
-        where: "L.E.N.A."
-        descr: "Visita<br><b>L.E.N.A.</b>"
-        map: https://goo.gl/maps/6D3Q61L8LsA2
+      - hour: "9:30 - 10:00"
+        where: "Dipartimento di Fisica UniMiB"
+        descr: "Presentazione e benvenuto ai partecipanti"
+        tag: firstlast
+      - hour: "10:00 - 13:30"
+        where: "Dipartimento di Fisica UniMiB"
+        descr: "Visite a laboratori e CNR"
         tag: visit
-        id: facilities/#lena
+      - hour: "13:30 - 15:00"
+        where: "Mensa"
+        descr: "Pausa pranzo"
+        tag: svago
+      - hour: "15:00 - 16:00"
+        where: "Dipartimento di Fisica UniMiB"
+        descr: "<b>Prof. Fabio Pezzoli</b>, <i>TBA</i>"
+        id: speaker/#pezzoli
+        tag: conf
       - hour: "16:00 - 17:00"
-        where: "Dipartimento di Fisica"
+        where: "Dipartimento di Fisica UniMiB"
+        descr: "<b>Prof. ? ?</b>, <i>TBA</i>"
+        tag: conf
+        id: speaker/#??
+        tag: conf
+      - hour: "17:00 - 17:30"
+        where: "Dipartimento di Fisica UniMiB"
         descr: "Coffee Break"
         tag: svago
-      - hour: "16:30 - 17:15"
-        where: "Dipartimento di Fisica"
-        descr: "Fulvia PALESI <br> <i>Imaging di risonanza magnetica nelle neuroscienze</i>"
-        id: speakers/#palesi
+      - hour: "17:30 - 18:30"
+        where: "Dipartimento di Fisica UniMiB"
+        descr: "Parallel session: <b>ENI, Accenture, GP Battery, STMicroelectronics </b> <br>"
+        id: speaker/#workshop
         tag: conf
-      - hour: "17:15 - 18:00"
-        where: "Dipartimento di Fisica"
-        descr: "Marialuisa TOGNOLINA <br> <i>Microscopia di fluorescenza con eccitazione a due fotoni per lo studio dell’attività neuronale</i>"
-        id: speakers/#tognolina
-        tag: conf
-      - hour: "18:00 - 19:00"
-        where: "Dipartimento di Fisica"
-        descr: "Talk studenti"
-        tag: studenti
-      - hour:
-        where:
-        descr: "Serata libera (Mercoledì universitario)"
+      - hour: "19:30 - 21:00"
+        where: ""
+        descr: "Cena libera"
         tag: sera
-        id: serate/#mercole
+      - hour: "21:00 - 22:30"
+        where: "Civico Planetario di Milano"
+        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
+        map: https://goo.gl/maps/5YsmAVd5cTo
+        tag: sera
+        id: serate/#planetario
+
+
 
   - day: Ven 8
     date: "080319"
-    day_ex: Venerdì 8 marzo (UniMi)
-    short_descr: "Giornata a Milano: conferenze e visite"
+    day_ex: Venerdì 8 marzo
+    short_descr: "Visite centri esterni e conferenze, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "7:30"
-        where:
-        descr: "Partenza per Milano in pullman"
+      - hour: "9:00 - 13:00"
+        where: "LASA-INFN, Cascina Gobba"
+        descr: "Visita <b>Laboratorio Acceleratori e Superconduttività Applicata (LASA-INFN)</b> <br> [Gruppo 1]"
+        tag: visit
+        id: strutture/#lasa
+        map: https://goo.gl/maps/NMQKivvn11H2
+      - hour: "9:00 - 13:00"
+        where: "??"
+        descr: "Visita <b>Accenture</b> <br> [Gruppo 2]"
+        tag: visit
+        id: strutture/#accenture
+        map:       
+      - hour: "9:00 - 13:00"
+        where: "Istituto FIRC di Oncologia Molecolare"
+        descr: "Visita <b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 3]"
+        tag: visit
+        id: strutture/#ifom
+        map: https://goo.gl/maps/THTmYTmDNGn
+      - hour: "9:00 - 13:00"
+        where: "Istituto Europeo di Oncologia"
+        descr: "Visita <b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 4]"
+        tag: visit
+        id: strutture/#ieo
+        map: https://goo.gl/maps/DQjG2MS3zsG2
+      - hour: "9:00 - 13:00"
+        where: "STMicroelectronics"
+        descr: "Visita <b>STMicroelectronics</b> <br> [Gruppo 5]"
+        tag: visit
+        id: strutture/#stm
+        map: https://goo.gl/maps/83KABvAye4z
+      - hour: "9:00 - 13:00"
+        where: "WISE ??"
+        descr: "Visita <b>WISE</b> <br> [Gruppo 6]"
+        tag: visit
+        id: strutture/#wise
+        map: 
+      - hour: "9:00 - 13:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "Visita <b>CIMaINa</b> <br> [Gruppo 7]"
+        tag: visit
+        id: strutture/#cimaina
+      - hour: "9:00 - 13:00"
+        where: "ENI ??"
+        descr: "Visita <b>ENI</b> <br> [Gruppo 8]"
+        tag: visit
+        id: strutture/#eni
+        map: 
+      - hour: "9:00 - 13:00"
+        where: "??"
+        descr: "Visita <b>Fondazione UniMi</b> <br> [Gruppo 9]"
+        tag: visit
+        id: strutture/#filarete
+        map: 
+      - hour: "13:00 - 14:30"
+        where: "Mensa"
+        descr: "Pausa pranzo"
         tag: svago
-      - hour: "9:15 - 10:00"
+        map: https://goo.gl/maps/YuicfFaWwbF2
+      - hour: "14:30 - 16:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Alessandro LASCIALFARI <br> <i>Applicazioni del magnetismo in bio-medicina</i>"
-        tag: conf
-        id: speakers/#lascialfari
-      - hour: "10:00 - 10:45"
-        where: "Dipartimento di Fisica UniMi"
-        descr: "Flavia Maria GROPPI GARLANDINI <br> <i>Ottimizzazione della produzione di radionuclidi ad Alta Attività Specifica per applicazioni in medicina, tossicologia e nanotossicologia</i>"
-        tag: conf
-        id: speakers/#groppi
-      - hour: "10:45 - 11:15"
+        descr: "Poster session: presentazione Comitati Locali <br>"
+        tag: studenti
+      - hour: "16:00 - 16:30"
         where: "Dipartimento di Fisica UniMi"
         descr: "Coffee Break"
         tag: svago
-      - hour: "11:15 - 12:00"
+      - hour: "16:30 - 18:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Giuseppe BATTISTONI <br> <i>Introduzione all'adroterapia</i>"
+        descr: "<b>Prof. Lucio Rossi</b>, <i>TBA</i>"
+        id: speaker/#rossi
         tag: conf
-        id: speakers/#battistoni
-      - hour: "12:00 - 12:45"
-        where: "Dipartimento di Fisica UniMi"
-        descr: "Ivan VERONESE <br> <i>Uno sguardo alla dosimetria retrospettiva</i>"
-        tag: conf
-        id: speakers/#veronese
-      - hour: "12:45 - 14:15"
-        where: "Mensa"
-        descr: "Pranzo"
-        tag: svago
-      - hour: "15:00 - 18:00"
-        where: "Istituto FIRC di Oncologia Molecolare"
-        descr: "Visita<br><b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 1]"
-        tag: visit
-        id: facilities/#ifom
-        map: https://goo.gl/maps/THTmYTmDNGn
-      - hour: "15:00 - 18:00"
-        where: "Istituto Europeo di Oncologia"
-        descr: "Visita<br><b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 2]"
-        tag: visit
-        id: facilities/#ieo
-        map: https://goo.gl/maps/DQjG2MS3zsG2
-      - hour: "15:00 - 18:00"
-        where: "IRCCS Ospedale San Raffaele"
-        descr: "Visita<br><b>IRCCS Ospedale San Raffaele</b> <br> [Gruppo 3]"
-        tag: visit
-        map: https://goo.gl/maps/Kk17kXqKVP62
-        id: facilities/#sanraffaele
-      - hour: "15:00 - 18:00"
-        where: "ASST Grande Ospedale Metropolitano Niguarda"
-        descr: "Visita<br><b>ASST Grande Ospedale Metropolitano Niguarda</b> <br> [Gruppo 4]"
-        tag: visit
-        map: https://goo.gl/maps/1jdEgqcJtH82
-        id: facilities/#niguarda
-      - hour: "15:00 - 18:00"
-        where: "IRCCS Istituto Nazionale dei Tumori (INT)"
-        descr: "Visita<br><b>IRCCS Istituto Nazionale dei Tumori (INT)</b> <br> [Gruppo 5]"
-        tag: visit
-        map: https://goo.gl/maps/tQZpfpEg7nJ2
-        id: facilities/#int
-      - hour: "19:30 - 23:30"
-        where: "Fabbrica Pizzeria"
+      - hour: "19:30 - 21:30"
+        where: "Carlsberg Øl"
         descr: "Cena sociale"
         tag: sera
-        map: https://goo.gl/maps/NqrfB9yhPzK2
-        id: serate/#delitto
-      - hour: "23:30"
-        where:
-        descr: "Ritorno a Pavia in pullman"
-        tag: svago
+        map: https://goo.gl/maps/36GL3rnC6hm
+        id: serate/#cenasociale
+
+
 
   - day: Sab 9
     date: "09319"
-    day_ex: Venerdì 9 marzo (UniMi)
-    short_descr: "Visita al CNAO, conferenze e talk studenti"
+    day_ex: Venerdì 9 marzo
+    short_descr: "Talk studenti e conferenze, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "9:15 - 10:00"
-        where: "Dipartimento di Fisica"
-        descr: "Sofia BARBIERI, Mario CARANTE, Ian POSTUMA <br> <i>Introduzione alla simulazione in ambito sanitario</i>"
+      - hour: "9:30 - 11:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "<b>Prof. Michele Parrinello</b>, <i>TBA</i>"
+        id: speaker/#parrinello
         tag: conf
-        id: speakers/#bcp
-      - hour: "10:00 - 10:45"
-        where: "Dipartimento di Fisica"
-        descr: "Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i>"
-        tag: conf
-        id: speakers/#molinelli
-      - hour: "10:45 - 11:15"
-        where: "Dipartimento di Fisica"
-        descr: "Coffee Break"
-        tag: svago
-      - hour: "11:30 - 12:00"
-        where: "Centro Nazionale di Adroterapia Oncologica"
-        descr: "Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i>"
-        tag: conf
-        id: speakers/#necchi
-      - hour: "12:00 - 12:30"
-        where: "Centro Nazionale di Adroterapia Oncologica"
-        descr: "Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i>"
-        tag: conf
-        id: speakers/#facoetti
-      - hour: "12:30 - 14:00"
-        where: "Centro Nazionale di Adroterapia Oncologica"
-        descr: "Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b>"
-        tag: visit
-        map: https://goo.gl/maps/1t1iNQmZ8ez
-        id: facilities/#cnao
-      - hour: "14:00 - 15:00"
-        where: "Mensa"
-        descr: "Pranzo"
-        tag: svago
-      - hour: "15:15 - 16:00"
-        where: "Dipartimento di Fisica"
-        descr: "Giorgio BAIOCCO <br> <i>Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute</i>"
-        tag: conf
-        id: speakers/#baiocco
-      - hour: "16:00 - 18:00"
+      - hour: "11:00 - 12:30"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
         tag: studenti
+      - hour: "12:30 - 14:00"
+        where: "Mensa"
+        descr: "Pausa pranzo"
+        tag: svago
+        map: https://goo.gl/maps/YuicfFaWwbF2
+      - hour: "14:00 - 18:30"
+        where: "Dipartimento di Fisica"
+        descr: "Assemblea Generale Annuale"
+        tag: 
       - hour:
         where:
-        descr: "Serata libera"
+        descr: "Cena e serata libera"
         tag: sera
 
   - day: Dom 10
     date: "100319"
-    day_ex: Domenica 10 marzo (UniMi)
+    day_ex: Domenica 10 marzo
     short_descr: "Conferenze, poster session e chiusura lavori"
     activity:
-      - hour: "9:00 - 9:45"
-        where: "Università di Pavia - Sede Centrale"
-        descr: "Paolo MILANI <br> <i>Nanotecnologie soffici per la medicina e la robotica</i>"
+      - hour: "9:30 - 11:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "<b>Dr. Stefano Sandrelli</b> e <b>Ing. Paolo Nespoli</b>, <i>TBA</i>"
+        id: speaker/#sandrelli
         tag: conf
-        id: speakers/#milani
-        map: https://goo.gl/maps/YCjHzYP8BhP2
-      - hour: "9:45 - 10:30"
-        where: "Università di Pavia - Sede Centrale"
-        descr: "Andrea CILIBERTO <br> <i>Impossibili da fermare: come e perchè le cellule scappano dall’arresto della divisione cellulare</i>"
-        tag: conf
-        id: speakers/#ciliberto
-        map: https://goo.gl/maps/YCjHzYP8BhP2
-      - hour: "10:30 - 11:00"
-        where: "Università di Pavia - Sede Centrale"
-        descr: "Presentazione <b>AIFM</b> <br> (<i>Associazione Italiana Fisica Medica</i>)"
-        tag: conf
-        map: https://goo.gl/maps/YCjHzYP8BhP2
-      - hour: "11:00 - 13:00"
-        where: "Università di Pavia - Sede Centrale"
-        descr: "Poster&Coffee session <br> <i> Pillole di scienza</i>"
+      - hour: "11:00 - 11:45"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "Poster session e coffee break"
         tag: studenti
-        map: https://goo.gl/maps/YCjHzYP8BhP2
-      - hour: "13:00 - 14:00"
-        where: "Mensa Centrale Edisu"
-        descr: "Pranzo"
-        tag: svago
-        map: https://goo.gl/maps/X4iNxsPAH1B2
-      - hour: "14:00 - 15:00"
+      - hour: "11:45 - 13:00"
+        where: "Dipartimento di Fisica UniMi"
+        descr: "Workshop AISF"
+        tag: studenti
+      - hour: "13:00 - 13:30"
         where:
         descr: "Cerimonia di chiusura"
         tag:
