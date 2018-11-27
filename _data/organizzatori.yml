@@ -28,6 +28,12 @@
   uni: "Università degli Studi di Pavia"
   ruolo: "Supporto alle attività"
 
+- nome: "Giovanni Stagnitto"
+  img: "img/organizzatori/stagnitto.png"
+  studio: "Dottorato"
+  uni: "Università degli Studi di Milano"
+  ruolo: "Responsabile IT e sito web"
+
 - nome: "Giulia Marcucci"
   img: "img/organizzatori/giulia_q.jpg"
   studio: "Laurea Magistrale"
@@ -57,7 +63,7 @@
   img: "img/organizzatori/noavatar.jpg"
   studio: "Laurea Magistrale"
   uni: "Università degli Studi di Milano"
-  ruolo: "Responsabile sito web"
+  ruolo: "Responsabile IT e sito web"
 
 - nome: "Luca Tagliabue"
   img: "img/organizzatori/taglia.jpg"
@@ -87,7 +93,7 @@
   img: "img/organizzatori/paolo.jpg"
   studio: "Laurea Magistrale"
   uni: "Università degli Studi di Padova"
-  ruolo: "Responsabile sito web"
+  ruolo: "Responsabile IT e sito web"
 
 - nome: "Stefano Migliorati"
   img: "img/organizzatori/Ste_M.jpg"
@@ -100,12 +106,6 @@
   studio: "Laurea Magistrale"
   uni: "<i>Universiteit Leiden</i>"
   ruolo: "Responsabile seminari e visite"
-
-#- nome: "Giovanni Stagnitto"
-#  img: "img/organizzatori/stagnitto.png"
-#  studio: "Dottorato"
-#  uni: "Università degli Studi di Milano"
-#  ruolo: "Responsabile sito web"
 
 #- nome: "Luca Teruzzi Luca Tagliabue Luca Gomez"
 #  img: "img/organizzatori/luchi.jpg"

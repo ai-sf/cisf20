@@ -58,14 +58,14 @@ schedule:
         tag: svago
       - hour: "15:00 - 16:00"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "<b>Prof. Fabio Pezzoli</b>, <br> <i>La fisica dello spin in nanostrutture a semiconduttore: spettroscopia ottica e applicazioni</i>"
+        descr: "<b>Dott. Fabio Pezzoli</b>, <br> <i>La fisica dello spin in nanostrutture a semiconduttore: spettroscopia ottica e applicazioni</i>"
         id: speaker/#pezzoli
         tag: conf
       - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "<b>Prof. ? ?</b>, <i>TBA</i>"
+        descr: "<b>Prof. Maddalena Collini</b>, <i>TBA</i>"
         tag: conf
-        id: speaker/#??
+        id: speaker/#collini
         tag: conf
       - hour: "17:00 - 17:30"
         where: "Dipartimento di Fisica UniMiB"
