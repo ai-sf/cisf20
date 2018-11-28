@@ -2975,7 +2975,12 @@ td, th {
     .collection .collection-item.avatar {
       min-height: 84px;
       padding-left: 160px;
+      padding-top: 20px;
       position: relative; }
+      @media only screen and (max-width: 992px) {
+        .collection .collection-item.avatar {
+          padding-left: 20px;
+          padding-top: 160px; } }
       .collection .collection-item.avatar .circle {
         position: absolute;
         width: 125px;

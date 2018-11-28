@@ -460,6 +460,11 @@ td, th{
     &.avatar {
       min-height: 84px;
       padding-left: 160px;
+	padding-top: 20px;
+	@media #{$medium-and-down} {
+	padding-left: 20px;
+	padding-top: 160px;
+	}
       position: relative;
 
       .circle {
