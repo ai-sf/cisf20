@@ -5,44 +5,7 @@ title: Strutture
 
 {{site.data.strutture.intro}}
 
-<h2>Pavia</h2>
-<div class="section">
-  {% for item in site.data.strutture.pavia %}
-    {% assign col = forloop.index0 | modulo:2 %}
-    {% if col == 0 %}
-      <div class="row">
-    {% endif %}
-      <div class="col s12 m6">
-        <div class="card" id='{{item.id}}'>
-          <div class="card-image">
-      <!--    <div class="slider">
-              <ul class="slides">
-                {% for item2 in item.slideshow %}
-                <li>
-                  <img src="{{ site.url}}/{{ item2.slide }}">
-                </li>
-                {% endfor %}
-              </ul>
-            </div> -->
-             <img src="{{ site.url}}/{{ item.img }}">
-          </div>
-          <div class="card-content">
-    	       <span class="card-title grey-text text-darken-4">{{ item.title }}</span>
-    	       <p style='text-align:justify'>{{ item.descr }}</p>
-          </div>
-        	<div class="card-action">
-        	  <a href="{{ item.site }}" target="_blank">Website</a>
-        	  <a href="{{ item.map }}" target="_blank">Map</a>
-        	</div>
-        </div>
-      </div>
-    {% if col == 1 %}
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
-<h2>Milano</h2>
+<h2>Centri di ricerca e aziende</h2>
 <div class="section">
   {% for item in site.data.strutture.milano %}
     {% assign col = forloop.index0 | modulo:2 %}

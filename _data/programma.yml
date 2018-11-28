@@ -52,6 +52,7 @@ schedule:
         where: "Dipartimento di Fisica UniMiB"
         descr: "Visite a laboratori e CNR"
         tag: visit
+        id: strutture/#labounimib
       - hour: "13:30 - 15:00"
         where: "Mensa"
         descr: "Pausa pranzo"
@@ -122,7 +123,7 @@ schedule:
         where: "STMicroelectronics"
         descr: "Visita <b>STMicroelectronics</b> <br> [Gruppo 5]"
         tag: visit
-        id: strutture/#stm
+        id: strutture/#stmicro
         map: https://goo.gl/maps/83KABvAye4z
       - hour: "9:00 - 13:00"
         where: "WISE ??"
@@ -136,13 +137,13 @@ schedule:
         tag: visit
         id: strutture/#cimaina
       - hour: "9:00 - 13:00"
-        where: "ENI ??"
+        where: "ENI, Sede di San Donato"
         descr: "Visita <b>ENI</b> <br> [Gruppo 8]"
         tag: visit
         id: strutture/#eni
         map: 
       - hour: "9:00 - 13:00"
-        where: "??"
+        where: "Fondazione Unimi"
         descr: "Visita <b>Fondazione UniMi</b> <br> [Gruppo 9]"
         tag: visit
         id: strutture/#filarete
@@ -224,7 +225,7 @@ schedule:
         where: "Dipartimento di Fisica UniMi"
         descr: "Workshop AISF"
         tag: studenti
-        id: speaker/#wokshop
+        id: speaker/#workshop
       - hour: "13:00 - 13:30"
         where: "Dipartimento di Fisica UniMi"
         descr: "Cerimonia di chiusura"

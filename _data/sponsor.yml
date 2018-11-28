@@ -50,10 +50,10 @@
       img: Bicocca.png
       link: http://www.unimib.it/
       fb: https://it-it.facebook.com/bicocca/
-    - text: "Comune di Milano <br/><br/>"
-      img: comune_milano_q.png
-      link: https://www.comune.milano.it/
-      fb: https://www.facebook.com/comunemilano/
+#    - text: "Comune di Milano <br/><br/>"
+#      img: comune_milano_q.png
+#      link: https://www.comune.milano.it/
+#      fb: https://www.facebook.com/comunemilano/
     - text: "CIMaINa - Centro Interdisciplinare Materiali e Interfacce Nanostrutturate"
       img: Cimaina.png
       link: http://cimaina.unimi.it/
