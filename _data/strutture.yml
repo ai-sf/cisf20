@@ -9,12 +9,13 @@ milano:
     id: accenture
     map: 
 
-  - img: img/strutture/Planetario.jpg
-    title: Civico Planetario <i>Ulrico Hoepli</i>
-    descr: "Il Civico Planetario <i>Ulrico Hoepli</i> è stato donato nel 1929 alla città di Milano dall'editore omonimo. <br> Inaugurato nel 1930, svolge da allora un'attività importante nel campo didattico e divulgativo dell'astronomia e delle scienze inerenti, ospitando circa 120.000 visitatori l'anno. <br> È tuttora il maggior planetario italiano, con la sua cupola di 19,6 metri di diametro e una capienza di oltre 300 posti. <br> La macchina <i>planetario</i> serve a riprodurre l'aspetto del cielo stellato e i suoi movimenti; quella in uso attualmente, installata nel 1968, è della casa tedesca Zeiss."
-    site: https://lofficina.eu/
-    id: planetario
-    map: https://goo.gl/maps/MBeocWTwdhG2
+  - img: img/strutture/IEO.jpg
+    title: Istituto Europeo di Oncologia (IEO)
+    descr: "L'Istituto Europeo di Oncologia (IEO), voluto da Umberto Veronesi, è stato inaugurato nel maggio 1994. Nel 1996 ha assunto il ruolo di Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS). Si tratta di un centro comprensivo per i tumori senza fine di lucro, ed è impegnato in tre settori (Clinica, Ricerca e Formazione). Alcuni dei valori e dei principi a cui si ispira l'Istituto sono: la centralità della persona assistita, il miglioramento continuo della qualità assistenziale, l'eccellenza del servizio, l'approccio multidisciplinare agli aspetti clinici, lo sviluppo della ricerca sperimentale con rapido trasferimento ai pazienti, la valorizzazione delle risorse umane e lo spirito europeo, con apertura a collaborazioni internazionali."
+    site: https://www.ieo.it/
+    id: ieo
+    map: https://goo.gl/maps/DQjG2MS3zsG2
+
 
   - img: img/strutture/Cimaina.jpg
     title: "CIMaINa"
@@ -35,58 +36,27 @@ Nello stesso anno viene trasformata in Fondazione Universitaria con funzioni di 
     id: filarete
     map: https://goo.gl/maps/H5BcbHfbFgR2
 
-  - img: img/strutture/IEO.jpg
-    title: Istituto Europeo di Oncologia (IEO)
-    descr: "L'Istituto Europeo di Oncologia (IEO), voluto da Umberto Veronesi, è stato inaugurato nel maggio 1994. Nel 1996 ha assunto il ruolo di Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS). Si tratta di un centro comprensivo per i tumori senza fine di lucro, ed è impegnato in tre settori (Clinica, Ricerca e Formazione). Alcuni dei valori e dei principi a cui si ispira l'Istituto sono: la centralità della persona assistita, il miglioramento continuo della qualità assistenziale, l'eccellenza del servizio, l'approccio multidisciplinare agli aspetti clinici, lo sviluppo della ricerca sperimentale con rapido trasferimento ai pazienti, la valorizzazione delle risorse umane e lo spirito europeo, con apertura a collaborazioni internazionali."
-    site: https://www.ieo.it/
-    id: ieo
-    map: https://goo.gl/maps/DQjG2MS3zsG2
-
-  - img: img/strutture/IFOM.jpg
-    title: Istituto FIRC di Oncologia Molecolare (IFOM)
-    descr: "Fondato nel 1998 dalla Fondazione Italiana Ricerca Cancro (FIRC), l'Istituto FIRC di Oncologia Molecolare (IFOM) è un centro di ricerca dedicato allo studio dei meccanismi molecolari alla base della formazione e dello sviluppo dei tumori. L'IFOM lavora nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica, collaborando con centri clinici e di ricerca sul territorio così come a livello internazionale. <br> Presso la sede dell'IFOM è possibile visitare i laboratori dove è svolta l'attività di ricerca dell'istituto ed incontrare i ricercatori che vi lavorano. Al fine di integrare competenze tecnologiche e scientifiche complementari ed aprire nuovi orizzonti nella ricerca sul cancro, l'IFOM punta fortemente sull'interdisciplinarietà: presso l'istituto lavorano biologi, chimici e medici, ma anche ingegneri, economisti e fisici, di provenienza nazionale ed internazionale."
-#Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
-    site: https://www.ifom.eu/it/
-    id: ifom
-    map: https://goo.gl/maps/THTmYTmDNGn
-
   - img: img/strutture/ENI.jpg
     title: ENI
-    descr: "Eni, nata a Milano nel 1953 come Ente Nazionale Idrocarburi, è oggi una multinazionale italiana con sedi in 73 paesi, attiva nei settori degli idrocarburi, della chimica e dell'energia elettrica, e l'ottavo gruppo petrolifero a livello mondiale. <br> L'Eni ha un forte interesse per l'innovazione e la ricerca, ed ha tessuto una rete di collaborazioni virtuose con centri di ricerca di eccellenza in italia e all'estero tra cui Università e Politecnici italiani, ENEA, CNR, MIT e Stanford University.
-Da 11 anni l'azienda conferisce l'<i>Eni award</i> all'eccellenza nella ricerca nei settori energetico e ambientale, premio che è stato definito il Nobel per l'energia. <br><br>
-Il laboratorio <br>
-Il laboratorio di San Donato Milanese è stato inaugurato nel 1985 e ha integrato le storiche strutture di ricerca di Metanopoli in un complesso innovativo, dotato di strumentazioni scientifiche all'avanguardia. Si estende su 34 mila metri quadri e impiega circa 290 addetti, fra ricercatori, tecnici e staff. I progetti di ricerca riguardano ogni aspetto dei segmenti <i>Upstream</i> e <i>Downstream</i> del settore <i>Oil & Gas</i>, con l'obiettivo di ridurre i rischi e aumentare l'efficienza, consolidare la leadership tecnologica e in generale ottenere maggiore qualità, efficienza e sostenibilità nei prodotti, negli impianti e nei processi. <br>Gli ambiti di ricerca<br> <br>
-Ecco tutti gli ambiti di ricerca di cui si occupa il Laboratorio di San Donato Milanese: <br>
-Geologia e Geochimica <br>
-Ingegneria del petrolio <br>
-Perforazione e produzione <br>
-Analisi e modelli del greggio (Crude Oil Analysis and Modelling) <br>
-Modelli di ingegneria di processo (Process Engineering ScaleUp Modelling) <br>
-Valorizzazione gas (Gas Valorization) <br>
-Miglioramento e raffinazione greggi pesanti e residui (Heavy Oil Upgrading and Refining Processes) <br>
-Tecnologie dei materiali (Material Technologies) <br>
-Chimica fisica (Physical Chemistry) <br>
-Innovazione prodotti (carburanti, lubrificanti, additivi, bitumi) <br>
-Biocomponenti per carburanti (Fuel Biocomponents) <br>
-Valutazioni su motore e su veicoli (Engine Testing) <br>
-Eni impiega molti fisici in vari ruoli, tra essi l'AD Claudio Descalzi, laureato in fisica presso l'Università degli Studi di Milano"
+    descr: "Eni, nata a Milano nel 1953 come Ente Nazionale Idrocarburi, è oggi una multinazionale italiana con sedi in 73 paesi, attiva nei settori degli idrocarburi, della chimica e dell’energia elettrica, e l’ottavo gruppo petrolifero a livello mondiale. <br>
+Con un forte interesse per l’innovazione e la ricerca, ha tessuto una rete di collaborazioni virtuose con centri di ricerca di eccellenza in italia e all’estero tra cui Università e Politecnici italiani, ENEA, CNR, MIT e Stanford University. <br> Il laboratorio di San Donato Milanese, che più ci interessa, è stato inaugurato nel 1985 e ha integrato le storiche strutture di ricerca di Metanopoli in un complesso innovativo, dotato di strumentazioni scientifiche all’avanguardia. Si estende su 34 mila metri quadri e impiega circa 290 addetti, fra ricercatori, tecnici e staff. I progetti di ricerca riguardano ogni aspetto dei segmenti Upstream e Downstream del settore Oil & Gas, con l’obiettivo di ridurre i rischi e aumentare l’efficienza, consolidare la leadership tecnologica e in generale ottenere maggiore qualità, efficienza e sostenibilità nei prodotti, negli impianti e nei processi. <br>
+I principali ambiti di ricerca di cui si occupa questo laboratorio spaziano dalla Geologia e la Geochimica all’Ingegneria del petrolio, dall’Analisi e modelli del greggio (Crude Oil Analysis and Modelling) ai Modelli di ingegneria di processo (Process Engineering ScaleUp Modelling), alle Tecnologie dei materiali (Material Technologies) e alla Chimica fisica."
     site: https://eni.it
     id: eni
     map: 
 
   - img: img/strutture/
-    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i>"
-    descr: "L'Istituto venne costituito come Laboratorio di Fisica del Plasma ed Elettronica Quantistica nel 1970 sotto la direzione del Prof. Piero Caldirola. Missione dell'Istituto consiste nella ricerca scientifica e tecnologica nel campo della Fisica del Plasma, con particolare riguardo alle sue applicazioni finalizzate alla realizzazione della Fusione Termonucleare Controllata come una delle opzioni più valide per una sorgente di energia sicura, sostenibile per l'ambiente, praticamente inesauribile per le generazioni future. <br>
-Le attività di ricerca si articolano in: <br>
--partecipazione a campagne sperimentali su macchine per il confinamento magnetico dei plasmi da fusione (principalmente su tokamak), <br>
--studi teorici e di modellizzazione di plasmi termonucleari, <br>
--sviluppo di sistemi diagnostici per plasmi da fusione, <br>
--studi sperimentali sull'interazione dei plasmi con materiali solidi anche utilizzando installazioni sperimentali presenti in Istituto. <br>
-Le principali competenze che sono state sviluppate negli anni in IFP riguardano la fisica e le tecnologie delle onde elettromagnetiche millimetriche, sia di potenza per il riscaldamento dei plasmi da fusione, sia di segnale per applicazioni in campo diagnostico di plasmi da laboratorio e astrofisico; lo sviluppo di diagnostiche di plasmi termonucleari basate sulla raccolta e l'analisi degli spettri di neutroni e raggi gamma e di radiazione millimetrica emessi dal plasma; la formulazione di modelli teorici dell'interazione di onde elettromagnetiche con plasmi magnetizzati, l'analisi interpretativa di dati sperimentali sui processi di trasporto di energia e particelle del plasma mediante codici numerici fluidi e cinetici, e la modellizzazione di instabilità magnetoidrodinamiche; lo studio sperimentale dei processi di interazione di plasmi di laboratorio con superfici materiali, il trattamento di queste ultime mediante esposizione al plasma e la loro diagnostica. <br> 
-Nei laboratori di IFP operano diverse installazioni sperimentali a plasma, tra cui la macchina lineare <i>GyM</i> per la ricerca di base sui plasmi e per lo studio dell'interazione plasma-materiali, alcuni reattori capacitivi a radiofrequenza per il trattamento al plasma di superfici e una micro-torcia al plasma per deposizioni di film sottili di carbonio. "
-    site: https://www.ifp.cnr.it/
-    id: ifp
-    map: https://goo.gl/maps/nendywRG9Ny
+    title: WISE
+    descr: "WISE Srl è un'azienda biomedicale con sede a Milano e Berlino che sviluppa una vera e propria nuova generazione di contatti impiantabili per neuromodulazione e neuromonitoraggio. <br>
+
+Gli elettrodi di WISE sono altamente biocompatibili, pieghevoli, estensibili e minimamente invasivi rispetto ai limiti della tecnologia odierna. Permetteranno di migliorare il trattamento dei pazienti che stanno già approfittando della neuromodulazione, mentre allo stesso tempo estendono l'uso della neuromodulazione a campi e indicazioni cliniche in cui le complesse richieste tecniche non possono essere soddisfatte dalla tecnologia attuale. <br>
+Gli elettrodi sono prodotti attraverso una tecnologia innovativa e proprietaria: il <i>Supersonic Cluster Beam Implantation</i> (SCBI), che consente la metallizzazione di polimeri estensibili. SCBI consiste di incorporare nanoparticelle metalliche all'interno di una base polimerica preformata al fine di formare uno stato metallico conduttivo sulla superficia del polimero. <br> <br>
+
+La tecnologia SCBI è stata protetta da brevetti in Europa, Stati Uniti, Israele, Canada, India, Giappone e Corea. Oltre al brevetto, WISE possiede una forte conoscenza della tecnologia e sulla sua implementazione. <br>
+Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova generazione di cavi senza fili per il trattamento del dolore cronico e per il monitoraggio pre-chirurgico dell'epilessia."
+    site: http://www.wiseneuro.com/
+    id: wise
+    map: https://goo.gl/maps/6kdzrEYREJT2
 
   - img: img/strutture/LASA.jpg
     title: INFN-LASA
@@ -109,29 +79,31 @@ Il sito ospita la produzione <i>front-end</i>, il design dei prodotti, il settor
     id: stmicro
     map: https://goo.gl/maps/oigQqEpoFv52
 
+
   - img: img/strutture/
-    title: WISE
-    descr: "WISE Srl è un'azienda biomedicale con sede a Milano e Berlino che sviluppa una vera e propria nuova generazione di contatti impiantabili per neuromodulazione e neuromonitoraggio. <br>
-
-Gli elettrodi di WISE sono altamente biocompatibili, pieghevoli, estensibili e minimamente invasivi rispetto ai limiti della tecnologia odierna. Permetteranno di migliorare il trattamento dei pazienti che stanno già approfittando della neuromodulazione, mentre allo stesso tempo estendono l'uso della neuromodulazione a campi e indicazioni cliniche in cui le complesse richieste tecniche non possono essere soddisfatte dalla tecnologia attuale. <br>
-Gli elettrodi sono prodotti attraverso una tecnologia innovativa e proprietaria: il <i>Supersonic Cluster Beam Implantation</i> (SCBI), che consente la metallizzazione di polimeri estensibili. SCBI consiste di incorporare nanoparticelle metalliche all'interno di una base polimerica preformata al fine di formare uno stato metallico conduttivo sulla superficia del polimero. <br> <br>
-
-La tecnologia SCBI è stata protetta da brevetti in Europa, Stati Uniti, Israele, Canada, India, Giappone e Corea. Oltre al brevetto, WISE possiede una forte conoscenza della tecnologia e sulla sua implementazione. <br>
-Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova generazione di cavi senza fili per il trattamento del dolore cronico e per il monitoraggio pre-chirurgico dell'epilessia."
-    site: http://www.wiseneuro.com/
-    id: wise
-    map: https://goo.gl/maps/6kdzrEYREJT2
+    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i>"
+    descr: "L'Istituto venne costituito come Laboratorio di Fisica del Plasma ed Elettronica Quantistica nel 1970 sotto la direzione del Prof. Piero Caldirola. Missione dell'Istituto consiste nella ricerca scientifica e tecnologica nel campo della Fisica del Plasma, con particolare riguardo alle sue applicazioni finalizzate alla realizzazione della Fusione Termonucleare Controllata come una delle opzioni più valide per una sorgente di energia sicura, sostenibile per l'ambiente, praticamente inesauribile per le generazioni future. <br> <br>
+Le attività di ricerca si articolano in: <br>
+-partecipazione a campagne sperimentali su macchine per il confinamento magnetico dei plasmi da fusione (principalmente su tokamak), <br>
+-studi teorici e di modellizzazione di plasmi termonucleari, <br>
+-sviluppo di sistemi diagnostici per plasmi da fusione, <br>
+-studi sperimentali sull'interazione dei plasmi con materiali solidi anche utilizzando installazioni sperimentali presenti in Istituto. <br> <br>
+Le principali competenze che sono state sviluppate negli anni in IFP riguardano la fisica e le tecnologie delle onde elettromagnetiche millimetriche, sia di potenza per il riscaldamento dei plasmi da fusione, sia di segnale per applicazioni in campo diagnostico di plasmi da laboratorio e astrofisico; lo sviluppo di diagnostiche di plasmi termonucleari basate sulla raccolta e l'analisi degli spettri di neutroni e raggi gamma e di radiazione millimetrica emessi dal plasma; la formulazione di modelli teorici dell'interazione di onde elettromagnetiche con plasmi magnetizzati, l'analisi interpretativa di dati sperimentali sui processi di trasporto di energia e particelle del plasma mediante codici numerici fluidi e cinetici, e la modellizzazione di instabilità magnetoidrodinamiche; lo studio sperimentale dei processi di interazione di plasmi di laboratorio con superfici materiali, il trattamento di queste ultime mediante esposizione al plasma e la loro diagnostica. <br> 
+Nei laboratori di IFP operano diverse installazioni sperimentali a plasma, tra cui la macchina lineare <i>GyM</i> per la ricerca di base sui plasmi e per lo studio dell'interazione plasma-materiali, alcuni reattori capacitivi a radiofrequenza per il trattamento al plasma di superfici e una micro-torcia al plasma per deposizioni di film sottili di carbonio. "
+    site: https://www.ifp.cnr.it/
+    id: ifp
+    map: https://goo.gl/maps/nendywRG9Ny
 
   - img: img/strutture/
     title: Laboratori UniMiB
-    descr: "Laboratorio di radioattività <br>
+    descr: "<b>Laboratorio di radioattività</b> <br>
 Nel laboratorio di Radioattività Ambientale di Milano Bicocca sono presenti rivelatori a semiconduttore (Germanio ad alta purezza intrinseca e Silici a barriera superficiale) per misure di spettrometria gamma e alfa ad alta risoluzione e sensibilità. Con queste tipologie di strumentazione si effettuano misure per la determinazione di elementi radioattivi naturali e antropogenici emettitori di radiazioni ionizzanti di tipo “gamma” e “alfa” su matrici solide e liquide. Nel caso della spettrometria alfa sono previsti anche trattamenti radiochimici (elettrodeposizione, utilizzo resine a scambio ionico….) per la separazione degli elementi radioattivi di interesse della matrice oggetto di analisi. <br> <br>
 
-Laboratorio di criogenia <br> 
+<b>Laboratorio di criogenia </b><br> 
 Il laboratorio di criogenia presente nell'Università di Milano Bicocca lavora in collaborazione con l'Istituto Nazionale di Fisica Nucleare (Sezione di Milano-Bicocca).
 Sta attualmente sviluppando rilevatori di particelle operanti a basse temperature principalmente per esperimenti di fisica del neutrino (misura diretta della massa del neutrino, ricerca di decadimenti doppio-beta senza emissione di neutrini, ...). Il suo obiettivo è di ideare, sviluppare e portare avanti esperimenti per rispondere ad alcune delle domande irrisolte riguardanti i neutrini. Le tecnologie all'avanguardia che sviluppa possono anche avere un impatto in altri settori di ricerca quali l'astrofisica, l'analisi dei materiali, la sicurezza e la diagnostica nucleare, l'archeometria e la comunicazione quantistica. <br> La sua ricerca è altamente interdisciplinare e combina competenze in fisica della materia condensata, atomica, nucleare e sub-nucleare, tecnologie di film sottili, micro-fabbricazione di dispositivi elettronici, tecniche a basse temperature, elettronica a superconduttori, elaborazione digitale dei segnali ed estesi sistemi criogenici. <br><br>
 
-Laboratorio di spettroscopia e microscopia ottica (Biofisica) <br>
+<b>Laboratorio di spettroscopia e microscopia ottica (Biofisica) </b><br>
 Nel Laboratorio di spettroscopia e microscopia ottica si svolgono diverse attività: <br>
 La caratterizzazione spettroscopica di base di campioni proteici comprende spettri di assorbimento nella regione UV-VIS, spettri di emissione ed eccitazione in fluorescenza, spettri di dicroismo circolare nel vicino e nel lontano UV. <br>
 La determinazione della dimensione e dello stato di aggregazione di nanoparticelle e proteine avviene tramite misure di light scattering polarizzato (90 gradi) e/o depolarizzato (diversi angoli).
@@ -141,3 +113,20 @@ Lo imaging confocale e in super-risoluzione sfrutta un microsocpio confocale Lei
     site: https://www.fisica.unimib.it/it 
     id: labounimib
     map: https://goo.gl/maps/WGBkMvdB79t
+
+  - img: img/strutture/IFOM.jpg
+    title: Istituto FIRC di Oncologia Molecolare (IFOM)
+    descr: "Fondato nel 1998 dalla Fondazione Italiana Ricerca Cancro (FIRC), l'Istituto FIRC di Oncologia Molecolare (IFOM) è un centro di ricerca dedicato allo studio dei meccanismi molecolari alla base della formazione e dello sviluppo dei tumori. L'IFOM lavora nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica, collaborando con centri clinici e di ricerca sul territorio così come a livello internazionale. <br> Presso la sede dell'IFOM è possibile visitare i laboratori dove è svolta l'attività di ricerca dell'istituto ed incontrare i ricercatori che vi lavorano. Al fine di integrare competenze tecnologiche e scientifiche complementari ed aprire nuovi orizzonti nella ricerca sul cancro, l'IFOM punta fortemente sull'interdisciplinarietà: presso l'istituto lavorano biologi, chimici e medici, ma anche ingegneri, economisti e fisici, di provenienza nazionale ed internazionale."
+#Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
+    site: https://www.ifom.eu/it/
+    id: ifom
+    map: https://goo.gl/maps/THTmYTmDNGn
+
+
+#  - img: img/strutture/Planetario.jpg
+#    title: Civico Planetario <i>Ulrico Hoepli</i>
+#    descr: "Il Civico Planetario <i>Ulrico Hoepli</i> è stato donato nel 1929 alla città di Milano dall'editore omonimo. <br> Inaugurato nel 1930, svolge da allora un'attività importante nel campo didattico e divulgativo dell'astronomia e delle scienze inerenti, ospitando circa 120.000 visitatori l'anno. <br> È tuttora il maggior planetario italiano, con la sua cupola di 19,6 metri di diametro e una capienza di oltre 300 posti. <br> La macchina <i>planetario</i> serve a riprodurre l'aspetto del cielo stellato e i suoi movimenti; quella in uso attualmente, installata nel 1968, è della casa tedesca Zeiss."
+#    site: https://lofficina.eu/
+#    id: planetario
+#    map: https://goo.gl/maps/MBeocWTwdhG2
+
