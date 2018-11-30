@@ -1,0 +1,28 @@
+#intro:
+ 
+  - img: Bdc.jpg
+    title: Quiz scientifico
+    descr: "La serata di apertura dell'evento si terrà l'ormai celebre quiz scientifico interattivo a squadre <i>Botta di Coulomb</i>, ideato e realizzato interamente dal Comitato Locale di Pavia."
+    id: bdc
+    when: Mercoledì 6 marzo, ore 21:30
+
+  - img: Planetario.jpg
+    title: Serata sotto le stelle del Planetario di Milano
+    descr: "Nella cornice verde dei Giardini Indro Montanelli, nella zona ricca di storia che collega il centro con Porta Venezia, sorge il Civico Planetario di Milano.
+Donato dall'editore Hoepli alla città nel 1929, il più grande planetario italiano è un'interessante edificio storico che ospita eventi e conferenze tutto l'anno.
+Nella serata organizzata per noi di CISF, avrete modo di osservare in azione il proiettore di stelle Zeiss IV, risalente al 1968: una dei pochissimi esemplari meccanici ancora in uso."
+    id: planetario
+    when: Giovedì 7 marzo, ore 21.30
+
+  - img: cenasociale.jpg
+    title: Cena sociale e serata milanese
+    descr: "Milano è una grande città che offre opportunità e svaghi a una popolazione cosmopolita e variegata. Il miglior modo di scoprirla: una serata ad esplorare una delle zone più vive, chic e interessanti del centro, dopo una soddisfacente cena sociale."
+    id: cenasociale
+    when: Venerdì 8 marzo, ore 19.30
+
+  - img: Loris Paleari 2015.jpg
+    title: Serata libera
+    photocredit: Loris Paleari, 2015
+    descr: "Quale occasione migliore di un sabato sera per mettere alla prova la conoscenza acquisita di Milano? O per farsi trascinare da studenti del posto nei loro locali preferiti?"
+    id: libera
+    when: Sabato 9 marzo, ore 19.30

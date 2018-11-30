@@ -3,57 +3,29 @@ layout: page
 title: Eventi serali
 ---
 
+<!-- {{site.data.serate.intro}} -->
+
+<div class="section">
+  {% for item in site.data.serate %}
+    {% assign col = forloop.index0 | modulo:2 %}
+    {% if col == 0 %}
 <div class="row">
-  <div class="col s12 m6">
-    <div class="card" id="aperitivo">
-      <div class="card-image" >
-        <img src="{{site.url}}/img/aperitivo.jpg">
-        <span class="card-title">Aperitivo e quiz scientifico</span>
-      </div>
-      <div class="card-content">
-        <p style='text-align:justify'>Nella cornice dell'antica chiesa di Santa Maria Gualtieri (oggi sconsacrata) nel centro di Pavia si terrà un aperitivo, seguito dal quiz scientifico interattivo a squadre <i>Botta di Coulomb</i>, ideato e realizzato interamente dal Comitato Locale di Pavia e proposto per la prima volta durante la Notte Europea dei Ricercatori 2017 con grande successo di pubblico.</p>
-        <p style='text-align:right'><b>Martedì 20 marzo, ore 20.30</b></p>
-      </div>
-    </div>
-  </div>
+    {% endif %}
+	<div class="col s12 m6">
+        	<div class="card" id='{{item.id}}'>
+         		<div class="card-image">
+            			<img src="{{ site.url}}/img/serate/{{ item.img }}">
+    	    				   <span class="card-title"><b>{{ item.title }}</b>  <!-- <small><small><small>Foto di {{ item.photocredit }}	</small></small></small> --></span>  
+         		</div>
+          			<div class="card-content">
 
-  <div class="col s12 m6">
-  <div class="card" id="delitto">
-    <div class="card-image">
-      <img src="{{site.url}}/img/detective-pixabay.jpg">
-      <span class="card-title">Cena con delitto</span>
-    </div>
-    <div class="card-content">
-      <p style='text-align:justify'>Ospiti dell'Associazione culturale <i>Verba manus</i> in Milano, durante la cena avverrà un misterioso omicidio e saremo tutti coinvolti nella risoluzione del caso.</p>
-      <p style='text-align:right'><b>Giovedì 22 marzo, ore 20.30</b></p>
-    </div>
-  </div>
-</div>
-
-<div class="col s12 m6">
-<div class="card" id="mercole">
-  <div class="card-image">
-    <img src="{{site.url}}/img/pavia_sera.jpg">
-    <span class="card-title">Mercoledì universitario</span>
-  </div>
-  <div class="card-content">
-    <p style='text-align:justify'>Pavia, città universitaria. Durante l'anno accademico gli studenti costituiscono quasi metà della popolazione, e il mercoledì sera è la loro serata! Si riversano nelle strade del centro: dopo una passeggiata in Strada Nuova e un drink o una birra in qualche bar della Piazza, come concludere meglio la serata se non con qualche canto con la chitarra sui gradini del Duomo?</p>
-    <p style='text-align:right'><b>Mercoledì 21 marzo, ore 21.30</b></p>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="col s12 m6">
-<div class="card" id="mercole">
-  <div class="card-image">
-    <img src="{{site.url}}/img/strutture/Planetario.jpg">
-    <span class="card-title">Civico Planetario <i>Ulrico Hoepli</i></span>
-  </div>
-  <div class="card-content">
-    <p style='text-align:justify'>Il Civico Planetario <i>Ulrico Hoepli</i> è stato donato nel 1929 alla città di Milano dall'editore omonimo. <br> Inaugurato nel 1930, svolge da allora un'attività importante nel campo didattico e divulgativo dell'astronomia e delle scienze inerenti, ospitando circa 120.000 visitatori l'anno. <br> È tuttora il maggior planetario italiano, con la sua cupola di 19,6 metri di diametro e una capienza di oltre 300 posti. <br> La macchina <i>planetario</i> serve a riprodurre l'aspetto del cielo stellato e i suoi movimenti; quella in uso attualmente, installata nel 1968, è della casa tedesca Zeiss.</p>
-    <p style='text-align:right'><b>Giovedì 7 marzo, ore 21.30</b></p>
-  </div>
-</div>
-</div>
+    	    				   <p style='text-align:justify'>{{ item.descr }}</p>
+      					<p style='text-align:right'><b>{{ item.when }}</b></p>
+          			</div>
+		</div>      		
+		</div>
+    {% if col == 1 %}
+	</div>
+    {% endif %}
+  {% endfor %}
 </div>

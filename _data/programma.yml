@@ -83,7 +83,8 @@ schedule:
         tag: sera
       - hour: "21:00 - 22:30"
         where: "Civico Planetario di Milano"
-        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
+        descr: "<b>Speaker TBA</b>, <i>TBA</i>"
+#        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
         map: https://goo.gl/maps/5YsmAVd5cTo
         tag: sera
         id: serate/#planetario

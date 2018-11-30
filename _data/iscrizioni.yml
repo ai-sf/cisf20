@@ -24,9 +24,9 @@ deadlines:
   info:
   specs:
     - text: "Le iscrizioni apriranno il 13 dicembre alle ore TBA e chiuderanno alla mezzanotte fra il 12 e il 13 gennaio."
-    - text: "La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di CISF 2019 in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un seminario o presentazione di un poster costituirà titolo preferenziale."
+    - text: "La scelta dei partecipanti sarà effettuata dal Comitato Organizzatore di CISF 2019 in collaborazione con il Comitato Esecutivo di AISF. La lettera di motivazione, pur rimanendo facoltativa, sarà un elemento di valutazione e la proposta di un contenuto scientifico (colloquio e/o poster) costituirà titolo preferenziale."
     - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
-    - text: "Una volta definiti i partecipanti all'evento verrà pianificato il calendario delle sezioni talk studenti in base ai contributi pervenuti."
+    - text: "Una volta definiti i partecipanti all'evento verrà pianificato il calendario delle sezioni talk studenti in base ai contributi pervenuti. Non è garantito che tutti i contributi scientifici (colloqui e poster) potranno essere accettati."
   lastinfo: "Per procedere con la registrazione, cliccare sul seguente link. "
 
 terms:
@@ -38,7 +38,7 @@ terms:
             università di provenienza saranno anche inviati al consiglio dei comitati nazionali/locali AISF
             al fine di verificare l'effettiva qualifica di membro."
       url: "#!"
-    - text: "Solamente gli studenti iscritti in una università, o simile istituizione, che seguono corsi di
+    - text: "Solamente gli studenti iscritti in una università, o simile istituzione, che seguono corsi di
             fisica, o in qualche modo ad essa correlati, così come coloro che hanno ricevuto il diploma di
             laurea (relativa a corsi di studi di cui sopra) da non più di 12 mesi dall'evento, possono
             partecipare alla conferenza. L'evento è riservato a studenti di età non inferiore a 18 anni."
@@ -56,7 +56,7 @@ terms:
     - text: "Partecipando all'evento tu accetti di essere filmato, fotografato e/o soggetto a qualsiasi
             altro tipo di registrazione multimediale durante la conferenza e con la presente concedi al
             comitato organizzatore della Conferenza Italiana degli Studenti di Fisica 2018, AISF e IAPS il
-            diritto di usare la tua immagine, un tuo filmato o qualsi altra forma di pubblicazione
+            diritto di usare la tua immagine, un tuo filmato o qualsiasi altra forma di pubblicazione
             multimediale che ti renda riconoscibile."
       url: "#!"
     - text: "Accettando questi termini dichiari che le informazioni contenute nella tua domanda di
@@ -70,7 +70,7 @@ terms:
             Organizzatore tratterà un totale di 10 € dalla quota come contributo per le spese
             dell'evento."
       url: "#!"
-    - text: "I presenti termini e condizioni sono governati dalle leggi della Republica Italiana."
+    - text: "I presenti termini e condizioni sono governati dalle leggi della Repubblica Italiana."
       url: "#!"
 
 

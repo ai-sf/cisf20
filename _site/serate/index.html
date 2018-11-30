@@ -7,7 +7,7 @@
     <title>CISF 2019 - Eventi serali</title>
 
 <!-- Standard html meta tags -->
-    <meta name="description" content="                            Aperitivo e quiz scientifico                    Nella cornice dell'antica chiesa di Santa Maria Gualtieri (oggi sconsacrata) nel ..." />
+    <meta name="description" content="  {% for item in site.data.serate %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}    {% endif %}	        	         		            			 ..." />
     <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
 
 <!-- og -->
@@ -15,7 +15,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/serate/">
 
-<meta property="og:description" content="                            Aperitivo e quiz scientifico                    Nella cornice dell'antica chiesa di Santa Maria Gualtieri (oggi sconsacrata) nel ...">
+<meta property="og:description" content="  {% for item in site.data.serate %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}    {% endif %}	        	         		            			 ...">
 <meta property="og:site_name" content="CISF 2019">
 <meta property="og:locale" content="it">
 
@@ -26,7 +26,7 @@
 <meta name="twitter:card"           content="summary" />
 <meta name="twitter:site"           content="@aisf_fisica" />
 <meta name="twitter:title"          content="Eventi serali" />
-<meta name="twitter:description"    content="                            Aperitivo e quiz scientifico                    Nella cornice dell'antica chiesa di Santa Maria Gualtieri (oggi sconsacrata) nel ..."/>
+<meta name="twitter:description"    content="  {% for item in site.data.serate %}    {% assign col = forloop.index0 | modulo:2 %}    {% if col == 0 %}    {% endif %}	        	         		            			 ..."/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
@@ -297,59 +297,86 @@
       </header>
 
       <article class="post-content">
-        <div class="row">
-  <div class="col s12 m6">
-    <div class="card" id="aperitivo">
-      <div class="card-image" >
-        <img src="http://localhost:4000/img/aperitivo.jpg">
-        <span class="card-title">Aperitivo e quiz scientifico</span>
-      </div>
-      <div class="card-content">
-        <p style='text-align:justify'>Nella cornice dell'antica chiesa di Santa Maria Gualtieri (oggi sconsacrata) nel centro di Pavia si terrà un aperitivo, seguito dal quiz scientifico interattivo a squadre <i>Botta di Coulomb</i>, ideato e realizzato interamente dal Comitato Locale di Pavia e proposto per la prima volta durante la Notte Europea dei Ricercatori 2017 con grande successo di pubblico.</p>
-        <p style='text-align:right'><b>Martedì 20 marzo, ore 20.30</b></p>
-      </div>
-    </div>
-  </div>
+        <!--  -->
 
-  <div class="col s12 m6">
-  <div class="card" id="delitto">
-    <div class="card-image">
-      <img src="http://localhost:4000/img/detective-pixabay.jpg">
-      <span class="card-title">Cena con delitto</span>
-    </div>
-    <div class="card-content">
-      <p style='text-align:justify'>Ospiti dell'Associazione culturale <i>Verba manus</i> in Milano, durante la cena avverrà un misterioso omicidio e saremo tutti coinvolti nella risoluzione del caso.</p>
-      <p style='text-align:right'><b>Giovedì 22 marzo, ore 20.30</b></p>
-    </div>
-  </div>
-</div>
+<div class="section">
+  
+    
+    
+<div class="row">
+    
+	<div class="col s12 m6">
+        	<div class="card" id='bdc'>
+         		<div class="card-image">
+            			<img src="http://localhost:4000/img/serate/Bdc.jpg">
+    	    				   <span class="card-title"><b>Quiz scientifico</b>  <!-- <small><small><small>Foto di 	</small></small></small> --></span>  
+         		</div>
+          			<div class="card-content">
 
-<div class="col s12 m6">
-<div class="card" id="mercole">
-  <div class="card-image">
-    <img src="http://localhost:4000/img/pavia_sera.jpg">
-    <span class="card-title">Mercoledì universitario</span>
-  </div>
-  <div class="card-content">
-    <p style='text-align:justify'>Pavia, città universitaria. Durante l'anno accademico gli studenti costituiscono quasi metà della popolazione, e il mercoledì sera è la loro serata! Si riversano nelle strade del centro: dopo una passeggiata in Strada Nuova e un drink o una birra in qualche bar della Piazza, come concludere meglio la serata se non con qualche canto con la chitarra sui gradini del Duomo?</p>
-    <p style='text-align:right'><b>Mercoledì 21 marzo, ore 21.30</b></p>
-  </div>
-</div>
-</div>
-</div>
+    	    				   <p style='text-align:justify'>La serata di apertura dell'evento si terrà l'ormai celebre quiz scientifico interattivo a squadre <i>Botta di Coulomb</i>, ideato e realizzato interamente dal Comitato Locale di Pavia.</p>
+      					<p style='text-align:right'><b>Mercoledì 6 marzo, ore 21:30</b></p>
+          			</div>
+		</div>      		
+		</div>
+    
+  
+    
+    
+	<div class="col s12 m6">
+        	<div class="card" id='planetario'>
+         		<div class="card-image">
+            			<img src="http://localhost:4000/img/serate/Planetario.jpg">
+    	    				   <span class="card-title"><b>Serata sotto le stelle del Planetario di Milano</b>  <!-- <small><small><small>Foto di 	</small></small></small> --></span>  
+         		</div>
+          			<div class="card-content">
 
-<div class="col s12 m6">
-<div class="card" id="mercole">
-  <div class="card-image">
-    <img src="http://localhost:4000/img/strutture/Planetario.jpg">
-    <span class="card-title">Civico Planetario <i>Ulrico Hoepli</i></span>
-  </div>
-  <div class="card-content">
-    <p style='text-align:justify'>Il Civico Planetario <i>Ulrico Hoepli</i> è stato donato nel 1929 alla città di Milano dall'editore omonimo. <br> Inaugurato nel 1930, svolge da allora un'attività importante nel campo didattico e divulgativo dell'astronomia e delle scienze inerenti, ospitando circa 120.000 visitatori l'anno. <br> È tuttora il maggior planetario italiano, con la sua cupola di 19,6 metri di diametro e una capienza di oltre 300 posti. <br> La macchina <i>planetario</i> serve a riprodurre l'aspetto del cielo stellato e i suoi movimenti; quella in uso attualmente, installata nel 1968, è della casa tedesca Zeiss.</p>
-    <p style='text-align:right'><b>Giovedì 7 marzo, ore 21.30</b></p>
-  </div>
-</div>
-</div>
+    	    				   <p style='text-align:justify'>Nella cornice verde dei Giardini Indro Montanelli, nella zona ricca di storia che collega il centro con Porta Venezia, sorge il Civico Planetario di Milano. Donato dall'editore Hoepli alla città nel 1929, il più grande planetario italiano è un'interessante edificio storico che ospita eventi e conferenze tutto l'anno. Nella serata organizzata per noi di CISF, avrete modo di osservare in azione il proiettore di stelle Zeiss IV, risalente al 1968: una dei pochissimi esemplari meccanici ancora in uso.</p>
+      					<p style='text-align:right'><b>Giovedì 7 marzo, ore 21.30</b></p>
+          			</div>
+		</div>      		
+		</div>
+    
+	</div>
+    
+  
+    
+    
+<div class="row">
+    
+	<div class="col s12 m6">
+        	<div class="card" id='cenasociale'>
+         		<div class="card-image">
+            			<img src="http://localhost:4000/img/serate/cenasociale.jpg">
+    	    				   <span class="card-title"><b>Cena sociale e serata milanese</b>  <!-- <small><small><small>Foto di 	</small></small></small> --></span>  
+         		</div>
+          			<div class="card-content">
+
+    	    				   <p style='text-align:justify'>Milano è una grande città che offre opportunità e svaghi a una popolazione cosmopolita e variegata. Il miglior modo di scoprirla: una serata ad esplorare una delle zone più vive, chic e interessanti del centro, dopo una soddisfacente cena sociale.</p>
+      					<p style='text-align:right'><b>Venerdì 8 marzo, ore 19.30</b></p>
+          			</div>
+		</div>      		
+		</div>
+    
+  
+    
+    
+	<div class="col s12 m6">
+        	<div class="card" id='libera'>
+         		<div class="card-image">
+            			<img src="http://localhost:4000/img/serate/Loris Paleari 2015.jpg">
+    	    				   <span class="card-title"><b>Serata libera</b>  <!-- <small><small><small>Foto di Loris Paleari, 2015	</small></small></small> --></span>  
+         		</div>
+          			<div class="card-content">
+
+    	    				   <p style='text-align:justify'>Quale occasione migliore di un sabato sera per mettere alla prova la conoscenza acquisita di Milano? O per farsi trascinare da studenti del posto nei loro locali preferiti?</p>
+      					<p style='text-align:right'><b>Sabato 9 marzo, ore 19.30</b></p>
+          			</div>
+		</div>      		
+		</div>
+    
+	</div>
+    
+  
 </div>
 
       </article>
@@ -362,7 +389,7 @@
     <div class="row">
       <div class="col l6 m6 s12">
         <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
-        <p class="grey-text text-lighten-4">L'Associazione Italiana Studenti di Fisica (AISF), organizzazione con finalità educative e senza fine di lucro, riunisce molti studenti di fisica italiani. <br> Conta più di 1000 membri e 17 Comitati Locali; fondata nel 2014, è un Comitato Nazionale dell'International Association of Physics Students (IAPS).</p>
+        <p class="grey-text text-lighten-4">L'Associazione Italiana Studenti di Fisica (AISF), organizzazione con finalità educative e senza fine di lucro, riunisce molti studenti di fisica italiani. <br> Conta più di 1000 membri e 17 Comitati Locali; fondata nel 2014, è un Comitato Nazionale dell'<i>International Association of Physics Students</i> (IAPS).</p>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Contact <i class="material-icons">mail_outline</i></h5>
