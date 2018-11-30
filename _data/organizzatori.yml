@@ -8,7 +8,7 @@
   img: "img/organizzatori/Bea_J_q.jpg"
   studio: "Laurea Magistrale"
   uni: "Università degli Studi di Milano"
-  ruolo: "Responsabile alloggi"
+  ruolo: "Responsabile alloggi e visite"
 
 - nome: "Elisa Radaelli"
   img: "img/organizzatori/eli_q.jpg"
@@ -44,7 +44,7 @@
   img: "img/organizzatori/Laura_q.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Milano"
-  ruolo: "Supporto alle attività e fotografo"
+  ruolo: "Supporto alle attività e fotografo <br> <br>"
 
 - nome: "Linda Bianchini"
   img: "img/organizzatori/linda_cropped.jpg"
@@ -72,8 +72,8 @@
   ruolo: "Graphic Designer e fotografo"
 
 - nome: "Marta Fornaroli"
-  img: "img/organizzatori/Marta_q.jpg"
-  studio: "Laurea Magistrale"
+  img: "img/organizzatori/Marta.jpg"
+  studio: "Laurea Triennale"
   uni: "Università degli Studi di Milano"
   ruolo: "Responsabile seminari"
 
@@ -102,7 +102,7 @@
   ruolo: "Responsabile seminari"
 
 - nome: "Stefano Polla"
-  img: "img/organizzatori/Ste_P.jpeg"
+  img: "img/organizzatori/polla.jpg"
   studio: "Laurea Magistrale"
   uni: "<i>Universiteit Leiden</i>"
   ruolo: "Responsabile seminari e visite"

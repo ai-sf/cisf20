@@ -12,7 +12,7 @@ Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori 
 	{% for item in site.data.speaker %}
   <li class="collection-item avatar" id="{{ item.id }}">
 		{% if item.img != nil %}
-		<img src="{{ site.url }}/{{ item.img }}" alt="" class="circle">
+		<img src="{{ site.url }}/img/speaker/{{ item.img }}" alt="" class="circle">
 		{% endif %}
 		{% if item.group != nil %}
 			{% for foto in item.group %}

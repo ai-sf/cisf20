@@ -1,7 +1,7 @@
 - nome: "Prof. Stefano Forte"
   id: forte
   uni: "Università degli Studi di Milano"
-  img: "/img/speakers/square_crop/forte.jpg"
+  img: "forte.jpg"
   title: "Dalle particelle elementari all'intelligenza artificiale e ritorno"
   bio: "Stefano Forte è Professore Ordinario di Fisica Teorica presso l'Università degli Studi di Milano. <br>
 Dopo la laurea presso l'Università di Torino, consegue il dottorato al MIT. Prosegue la sua carriera presso il Saclay nuclear research center, e quindi come fellow al CERN. Dal 1990 al 2002 lavora a Torino e Roma per INFN. Da gennaio 2003 è professore ordinario di fisica teorica all'Università degli Studi di Milano. <br>
@@ -14,7 +14,7 @@ grazie a nuove idee teoriche ed anche all'aumento della potenza di calcolo è di
 - nome: "Dott. Fabio Pezzoli"
   id: pezzoli
   uni: "Università degli Studi di Milano-Bicocca"
-  img: "/img/speakers/square_crop/pezzoli.jpg"
+  img: "pezzoli.jpg"
   title: "La fisica dello spin in nanostrutture a semiconduttore: spettroscopia ottica e applicazioni"
   bio: "Fabio Pezzoli è ricercatore presso il Dipartimento di Scienza dei Materiali dell'Università di Milano-Bicocca. <br>
 Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente consegue il dottorato di ricerca in nanostrutture e nanotecnologie. Durante il dottorato, svolge un periodo di ricerca presso la Johannes Kepler Universität di Linz. Lavora poi come Post-Doc presso il Max-Planck-Institut für Festkörperforschung di Stoccarda e il Leibniz-Institut für Festkörperund Werkstoffforschung Dresden. <br> Attualmente conduce la sua attività come ricercatore presso il Dipartimento di Scienza dei Materiali dell'Università di Milano-Bicocca e presso il centro interuniversitario L-NESS di Como. Tra giugno e luglio 2014 effettua un soggiorno di ricerca presso l'Institut National des Sciences Appliquées, INSA Toulouse. Nel 2017 e nel 2018 è co-organizzatore di simposi sui fenomeni spin dipendenti in semiconduttori, materiali bidimensionali e isolanti topologici al Fall Meeting del capitolo europeo della Materials Research Society. È attualmente membro del comitato editoriale di Communications Physics, una rivista ad accesso aperto del gruppo Nature Research."
@@ -24,7 +24,7 @@ Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente
 - nome: "Prof. Maddalena Collini"
   id: collini
   uni: "Università degli Studi di Milano-Bicocca"
-  img: "/img/speakers/square_crop/collini.jpg"
+  img: "collini.jpg"
   title: "TBA"
   bio: "Maddalena Collini è attualmente professore associato di Fisica Applicata presso l'Università di Milano-Bicocca (Dip. Di Fisica, Scuola di Scienze). Laureata in Fisica presso l'Università di Milano, la sua attività è volta all'applicazione della fotonica ai biosistemi per studiare processi dinamici nel campo interdisciplinare della biofisica. Ha iniziato la sua attività studiando i moti interni di DNA <i>supercoiled</i> e di frammenti di DNA, studiando la struttura di proteine della famiglia delle calicine applicando la tecnica della anisotropia della fluorescenza. <br> Dal 2001 si è trasferita presso l'Università di Milano-Bicocca partecipando all'allestimento di un laboratorio di microscopia ottica dove ha iniziato ad utilizzare la spettroscopia di correlazione della fluorescenza come principale metodo di indagine per la fotodinamica delle proteine fluorescenti a livello di singola molecola. Dal 2011 è il responsabile scientifico della grande attrezzatura di ateneo di Nanoscopia. La sua recente ricerca verte sullo sviluppo di nuovi protocolli e metodi di correlazione di immagini. Dal punto di vista più nanotecnologico, utilizza nanoparticelle d'oro per scopi teranostici, studiando e modellizzando la loro internalizzazione in cellule e piccoli organismi. Attualmente sta investigando l'azione antibatterica e stimolante delle nanoparticelle per ricerca applicata (brevetto depositato <i>Nanothermopatch</i>). È co-responsabile di un nuovo laboratorio attivo nell'edificio dedicato alla Nanomedicina. È membro del centro di Neuroscienze (NeuroMi, ospitato dall'Università di Milano-Bicocca), del centro di Nanomedicina (NanoMed, ospitato dall'Università di Milano-Bicocca) ed è ricercatore associato dell'Istituto del CNR per le Scienze Applicate e Sistemi Intelligenti <i>Eduardo Caianello</i>	, (Pozzoli, Na)."
   abstract: "TBA"
@@ -32,7 +32,7 @@ Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente
 
 #- nome: "Prof. Giovanni Onida"
 #  id: onida
-#  img: "/img/speakers/square_crop/onida.jpg"
+#  img: "onida.jpg"
 #  title: "TBA"
 #  bio: "Giovanni Onida è Professore ordinario di Struttura della Materia e direttore del Dipartimento di Fisica dell'Università degli Studi di Milano. <br>
 #Consegue la laurea in Fisica a Pavia nel 1987 ed il dottorato nel 1991 presso l'Università degli Studi di Milano. Prosegue quindi la sua ricerca come postdoc presso l'Università di Parigi XI e ai laboratori IBM di Zurigo. Tra il 1993 e il 1994 lavora presso l'Ecole Polytechnique (Francia) per poi diventare ricercatore nell'ambito di Struttura della Materia all'Università di Roma Tor Vergata. Dal 2001 al 2016 è professore associato, quindi ordinario, di Struttura della Materia presso l'Università degli Studi di Milano. Dal 2017 dirige il Dipartimento di Fisica della stessa Università.
@@ -44,7 +44,7 @@ Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente
 - nome: "Prof. Lucio Rossi"
   id: rossi
   uni: "High Luminosity LHC Project, CERN"
-  img: "/img/speakers/square_crop/rossi.jpg"
+  img: "rossi.jpg"
   title: "L'avventura del fisico tra scienza e tecnologia: LHC, l'upgrade ad Alta Luminosità e i futuri <i>megascience projects</i> per acceleratori"
   bio: "Lucio Rossi è capo del progetto High Luminosity LHC (HiLumi LHC), presso il CERN.
 Laureatosi all'Università Statale di Milano nel 1980, prosegue la sua ricerca nella stessa Università, occupandosi di superconduttività applicata nel campo degli acceleratori di particelle e ottenendo la posizione di professore associato di fisica sperimentale nel 1992. <br>
@@ -58,7 +58,7 @@ Rossi svolge anche un'intensa attività di divulgazione scientifica con un inter
 - nome: "Prof. Michele Parrinello"
   id: parrinello
   uni: "Politecnico federale di Zurigo (ETH)"
-  img: "/img/speakers/square_crop/parrinello.jpg"
+  img: "parrinello.jpg"
   title: "TBA"
   bio: "Michele Parrinello è professore ordinario di Computational Science presso l'ETH di Zurigo e l'Università della Svizzera italiana, Lugano, celebre per il suo lavoro in dinamica molecolare. <br>
 
@@ -73,7 +73,7 @@ Nato a Messina, Parrinello consegue la laurea in fisica nel 1968 presso l'Univer
 - nome: "Dott. Stefano Sandrelli"
   id: sandrelli
   uni: "INAF - Osservatorio Astronomico di Brera"
-  img: "/img/speakers/square_crop/sandrelli.jpg"
+  img: "sandrelli.jpg"
   title: "TBA"
   bio: "Stefano Sandrelli è responsabile della didattica e della comunicazione per l'Istituto Nazionale di Astrofisica (INAF), presso l'Osservatorio Astronomico di Brera, a Milano. <br>
 Nato a Livorno nel 1967, si laurea in fisica presso l'Università degli Studi di Pisa con il massimo dei voti e consegue il Dottorato di ricerca in Astronomia presso l'Università di Bologna. Negli anni successivi, consegue un master in Comunicazione della Scienza presso SISSA, a Trieste. <br>
@@ -84,7 +84,7 @@ Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per 
 
 - nome: "Dott. Gabriella Greison"
   id: greison
-  img: "/img/speakers/square_crop/greison.jpg"
+  img: "greison.jpg"
   title: "Monologo Quantistico"
   bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br>
 Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
