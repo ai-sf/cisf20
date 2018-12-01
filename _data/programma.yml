@@ -75,7 +75,7 @@ schedule:
       - hour: "17:30 - 18:30"
         where: "Dipartimento di Fisica UniMiB"
         descr: "Parallel session: <b>ENI, Accenture, GP Battery, STMicroelectronics </b> <br>"
-        id: speaker/#workshop
+        id: speaker/#workshopaziende
         tag: conf
       - hour: "19:30 - 21:00"
         where: ""
@@ -226,7 +226,7 @@ schedule:
         where: "Dipartimento di Fisica UniMi"
         descr: "Workshop AISF"
         tag: studenti
-        id: speaker/#workshop
+        id: speaker/#workshopaisf
       - hour: "13:00 - 13:30"
         where: "Dipartimento di Fisica UniMi"
         descr: "Cerimonia di chiusura"
