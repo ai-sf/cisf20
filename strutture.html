@@ -14,6 +14,7 @@ title: Strutture
     {% endif %}
       <div class="col s12 m6">
         <div class="card" id='{{item.id}}'>
+		{% if item.img != nihil %}
           <div class="card-image">
       <!--    <div class="slider">
               <ul class="slides">
@@ -24,8 +25,9 @@ title: Strutture
                 {% endfor %}
               </ul>
             </div> -->
-             <img src="{{ site.url}}/{{ item.img }}">
+             <img src="{{ site.url}}/img/strutture/{{ item.img }}">
           </div>
+		{% endif %}
           <div class="card-content">
     	       <span class="card-title grey-text text-darken-4">{{ item.title }}</span>
     	       <p style='text-align:justify'>{{ item.descr }}</p>

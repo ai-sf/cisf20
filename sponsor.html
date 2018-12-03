@@ -9,9 +9,11 @@ title: Sponsor
   {% for item in sezione.subitems %}
   <div class="col {{sezione.format}}">
       <div class="card">
+	{% if item.img != nihil %}		
       <div class="card-image" >
-        <img src="{{site.url}}/img/sponsor/reduced/{{item.img}}">
+	<img src="{{site.url}}/img/sponsor/reduced/{{item.img}}">
       </div>
+	{% endif %}
       <div class="card-content">
         <p style='font-size: large'>{{item.text}}</p>
       </div>
