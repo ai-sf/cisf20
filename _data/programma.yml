@@ -18,7 +18,7 @@ schedule:
         tag:
       - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Dr.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
+        descr: "<b>Dott.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
         tag: conf
         id: speaker/#greison
       - hour: "17:00 - 17:30"
@@ -213,7 +213,7 @@ schedule:
     activity:
       - hour: "9:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Dr. Stefano Sandrelli</b>, <i>TBA</i>"
+        descr: "<b>Dott. Stefano Sandrelli</b>, <i>TBA</i>"
 # e <b>Ing. Paolo Nespoli</b>
         id: speaker/#sandrelli
         tag: conf
