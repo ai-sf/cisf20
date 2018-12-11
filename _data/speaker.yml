@@ -59,7 +59,7 @@ Rossi svolge anche un'intensa attività di divulgazione scientifica con un inter
   id: parrinello
   uni: "Politecnico federale di Zurigo (ETH)"
   img: "parrinello.jpg"
-  title: "TBA"
+  title: "Atomi e computer"
   bio: "Michele Parrinello è professore ordinario di Computational Science presso l'ETH di Zurigo e l'Università della Svizzera italiana, Lugano, celebre per il suo lavoro in dinamica molecolare. <br>
 
 Insieme a Roberto Car, riceve nel 2009 la medaglia Dirac e il Sidney Fernbach Award per lo sviluppo del metodo Car-Parrinello, proposto per la prima volta nel 1985, in un articolo seminale dal titolo di <i>Unified Approach for Molecular Dynamics and Density-Functional Theory</i>, che esercita una notevole influenza in molti campi scientifici. <br>
@@ -67,7 +67,7 @@ Insieme a Roberto Car, riceve nel 2009 la medaglia Dirac e il Sidney Fernbach Aw
 Nato a Messina, Parrinello consegue la laurea in fisica nel 1968 presso l'Università di Bologna. Dopo aver lavorato all'Università degli Studi di Trieste (nell'allora Dipartimento di Fisica Teorica), alla Sissa, al laboratorio di ricerca IBM di Zurigo e all'Istituto Max Planck per la ricerca sullo stato solido di Stoccarda; è stato nominato professore di Scienze computazionali sia al Politecnico federale di Zurigo (ETH), sia all'Università della Svizzera italiana di Lugano. <br>
 
 È stato eletto membro di alcune delle più importanti organizzazioni scientifiche, come l'American Physical Society nel 1991 e la Royal Society nel 2001, e ha ricevuto il Premio Dreyfus nel 2017."
-  abstract: "TBA"
+  abstract: "Lo sviluppo travolgente dei computer e di potenti algoritmi di calcolo hanno avuto un profondo impatto nella ricerca contemporanea. Questo ha fatto emergere un nuovo modo di fare scienza e accanto alle tradizionale discipline della fisica teorica e sperimentale è nata la fisica computazionale. In quest'ambito le simulazioni che descrivono la materia a partire dalla sua costituzione atomica giocano un ruolo particolare, avendo raggiunto un livello di accuratezza e capacità predittiva rimarchevole, tanto che si parla di esperimenti computazionali. Questi esperimenti aiutano nella comprensione dei processi fisici, rimpiazzano esperimenti impossibili o troppo costosi, predicono nuovi fenomeni e sono una forma di microscopia virtuale. Dimostreremo il potere di quest'approccio con esempi presi da applicazioni che hanno un grande impatto sulla società. Tuttavia nonostante i molti progressi molto rimane da fare ed illustreremo alcune delle possibili strategie atte a rendere l'impatto di questi metodi sempre più efficaci."
   link:
 
 - nome: "Dott. Stefano Sandrelli"
