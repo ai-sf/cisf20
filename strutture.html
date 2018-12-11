@@ -8,11 +8,16 @@ title: Strutture
 <h2>Centri di ricerca e aziende</h2>
 <div class="section">
   {% for item in site.data.strutture.milano %}
-    {% assign col = forloop.index0 | modulo:2 %}
-    {% if col == 0 %}
+   {% assign col = forloop.index0 | modulo:2 %}
+    {% if col == 0 %} 
       <div class="row">
-    {% endif %}
-      <div class="col s12 m6">
+    {% endif %} 
+	
+	{% if item.double != nihil %}
+		<div class="col s12 m12">
+		{% else %}
+		<div class="col s12 m6">
+		{% endif %}
         <div class="card" id='{{item.id}}'>
 		{% if item.img != nihil %}
           <div class="card-image">
@@ -38,7 +43,7 @@ title: Strutture
         	</div>
         </div>
       </div>
-    {% if col == 1 %}
+   {% if col == 1 %}
     </div>
     {% endif %}
   {% endfor %}

@@ -31,7 +31,7 @@ Essa attinge alle competenze e alle conoscenze di 3.000 professori, ricercatori 
 
 Precedentemente nota come Fondazione Filarete, nel 2016 riceve dall'Ateneo il mandato di valorizzare e gestire i risultati della ricerca accademica e il portafoglio brevettuale, e aiutare gli spin-off universitari (aziende nate dall'idea di dare ricadute tecnologiche ai risultati della ricerca universitaria) ad affermarsi sul mercato. <br>
 
-Nello stesso anno viene trasformata in Fondazione Universitaria con funzioni di struttura operativa per il trasferimento tecnologico, inclusiva e aperta alle istanze dell'intero Ateneo."
+Nello stesso anno viene trasformata in Fondazione Universitaria con funzioni di struttura operativa per il trasferimento tecnologico, inclusiva e aperta alle istanze dell'intero Ateneo. <br> <br>"
     site: http://www.fondazionefilarete.com/
     id: filarete
     map: https://goo.gl/maps/H5BcbHfbFgR2
@@ -44,19 +44,6 @@ I principali ambiti di ricerca di cui si occupa questo laboratorio spaziano dall
     site: https://eni.it
     id: eni
     map: 
-
-  - img: 
-    title: WISE
-    descr: "WISE Srl è un'azienda biomedicale con sede a Milano e Berlino che sviluppa una vera e propria nuova generazione di contatti impiantabili per neuro-modulazione e neuro-monitoraggio. <br>
-
-Gli elettrodi di WISE sono altamente biocompatibili, pieghevoli, estensibili e minimamente invasivi rispetto ai limiti della tecnologia odierna. Permetteranno di migliorare il trattamento dei pazienti che stanno già approfittando della neuro-modulazione, mentre allo stesso tempo estendono l'uso della neuro-modulazione a campi e indicazioni cliniche in cui le complesse richieste tecniche non possono essere soddisfatte dalla tecnologia attuale. <br>
-Gli elettrodi sono prodotti attraverso una tecnologia innovativa e proprietaria: il <i>Supersonic Cluster Beam Implantation</i> (SCBI), che consente la metallizzazione di polimeri estensibili. SCBI consiste di incorporare nanoparticelle metalliche all'interno di una base polimerica preformata al fine di formare uno stato metallico conduttivo sulla superficie del polimero. <br> <br>
-
-La tecnologia SCBI è stata protetta da brevetti in Europa, Stati Uniti, Israele, Canada, India, Giappone e Corea. Oltre al brevetto, WISE possiede una forte conoscenza della tecnologia e sulla sua implementazione. <br>
-Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova generazione di cavi senza fili per il trattamento del dolore cronico e per il monitoraggio pre-chirurgico dell'epilessia."
-    site: http://www.wiseneuro.com/
-    id: wise
-    map: https://goo.gl/maps/6kdzrEYREJT2
 
   - img: LASA.jpg
     title: INFN-LASA
@@ -79,6 +66,26 @@ Il sito ospita la produzione <i>front-end</i>, il design dei prodotti, il settor
     id: stmicro
     map: https://goo.gl/maps/oigQqEpoFv52
 
+  - img: IFOM.jpg
+    title: Istituto FIRC di Oncologia Molecolare (IFOM)
+    descr: "Fondato nel 1998 dalla Fondazione Italiana Ricerca Cancro (FIRC), l'Istituto FIRC di Oncologia Molecolare (IFOM) è un centro di ricerca dedicato allo studio dei meccanismi molecolari alla base della formazione e dello sviluppo dei tumori. L'IFOM lavora nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica, collaborando con centri clinici e di ricerca sul territorio così come a livello internazionale. <br> Presso la sede dell'IFOM è possibile visitare i laboratori dove è svolta l'attività di ricerca dell'istituto ed incontrare i ricercatori che vi lavorano. Al fine di integrare competenze tecnologiche e scientifiche complementari ed aprire nuovi orizzonti nella ricerca sul cancro, l'IFOM punta fortemente sull'interdisciplinarietà: presso l'istituto lavorano biologi, chimici e medici, ma anche ingegneri, economisti e fisici, di provenienza nazionale ed internazionale."
+#Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
+    site: https://www.ifom.eu/it/
+    id: ifom
+    map: https://goo.gl/maps/THTmYTmDNGn
+
+  - img: 
+    title: WISE
+    descr: "WISE Srl è un'azienda biomedicale con sede a Milano e Berlino che sviluppa una vera e propria nuova generazione di contatti impiantabili per neuro-modulazione e neuro-monitoraggio. <br>
+
+Gli elettrodi di WISE sono altamente biocompatibili, pieghevoli, estensibili e minimamente invasivi rispetto ai limiti della tecnologia odierna. Permetteranno di migliorare il trattamento dei pazienti che stanno già approfittando della neuro-modulazione, mentre allo stesso tempo estendono l'uso della neuro-modulazione a campi e indicazioni cliniche in cui le complesse richieste tecniche non possono essere soddisfatte dalla tecnologia attuale. <br>
+Gli elettrodi sono prodotti attraverso una tecnologia innovativa e proprietaria: il <i>Supersonic Cluster Beam Implantation</i> (SCBI), che consente la metallizzazione di polimeri estensibili. SCBI consiste di incorporare nanoparticelle metalliche all'interno di una base polimerica preformata al fine di formare uno stato metallico conduttivo sulla superficie del polimero. <br> <br>
+
+La tecnologia SCBI è stata protetta da brevetti in Europa, Stati Uniti, Israele, Canada, India, Giappone e Corea. Oltre al brevetto, WISE possiede una forte conoscenza della tecnologia e sulla sua implementazione. <br>
+Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova generazione di cavi senza fili per il trattamento del dolore cronico e per il monitoraggio pre-chirurgico dell'epilessia."
+    site: http://www.wiseneuro.com/
+    id: wise
+    map: https://goo.gl/maps/6kdzrEYREJT2
 
 #  - img: CNR.jpg
   - img: 
@@ -114,14 +121,7 @@ Lo imaging confocale e in super-risoluzione sfrutta un microscopio confocale Lei
     site: https://www.fisica.unimib.it/it 
     id: labounimib
     map: https://goo.gl/maps/WGBkMvdB79t
-
-  - img: IFOM.jpg
-    title: Istituto FIRC di Oncologia Molecolare (IFOM)
-    descr: "Fondato nel 1998 dalla Fondazione Italiana Ricerca Cancro (FIRC), l'Istituto FIRC di Oncologia Molecolare (IFOM) è un centro di ricerca dedicato allo studio dei meccanismi molecolari alla base della formazione e dello sviluppo dei tumori. L'IFOM lavora nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica, collaborando con centri clinici e di ricerca sul territorio così come a livello internazionale. <br> Presso la sede dell'IFOM è possibile visitare i laboratori dove è svolta l'attività di ricerca dell'istituto ed incontrare i ricercatori che vi lavorano. Al fine di integrare competenze tecnologiche e scientifiche complementari ed aprire nuovi orizzonti nella ricerca sul cancro, l'IFOM punta fortemente sull'interdisciplinarietà: presso l'istituto lavorano biologi, chimici e medici, ma anche ingegneri, economisti e fisici, di provenienza nazionale ed internazionale."
-#Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
-    site: https://www.ifom.eu/it/
-    id: ifom
-    map: https://goo.gl/maps/THTmYTmDNGn
+    double: yes
 
 
 #  - img: Planetario.jpg
