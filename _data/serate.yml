@@ -11,13 +11,13 @@ Il gioco consiste in un quiz con domande di carattere scientifico-tecnologico e 
     title: Serata sotto le stelle del Planetario di Milano
     descr: "Nella cornice verde dei Giardini Indro Montanelli, nella zona ricca di storia che collega il centro con Porta Venezia, sorge il Civico Planetario di Milano.
 Donato dall'editore Hoepli alla città nel 1929, il più grande planetario italiano è un'interessante edificio storico che ospita eventi e conferenze tutto l'anno.
-Nella serata organizzata per noi di CISF dall'Associazione L'Officina, avrete modo di osservare in azione la macchina <i>planetario</i> Zeiss IV, risalente al 1968: una dei pochissimi esemplari meccanici ancora in uso.
+Durante lo spettacolo, organizzato dall'Associazione LOfficina in collaborazione con AISF, avrete modo di osservare in azione la macchina <i>planetario</i> Zeiss IV, risalente al 1968: una dei pochissimi esemplari meccanici ancora in uso.
 <br> <br> <small>
-<b>Associazione L'Officina</b> <br>
-Dal 1 luglio 2016 Associazione L'Officina ha in concessione le attività pubbliche, scolastiche e i servizi di cassa, accoglienza e segreteria del Civico Planetario di Milano. Il suo staff cura quindi la programmazione degli appuntamenti rivolti al pubblico, la progettazione di nuove attività, la conduzione di tutte le proposte scolastiche e la conduzione di alcuni degli appuntamenti pubblici. 
-L'Officina nasce a Milano nel 2005, è composta da un gruppo eterogeneo di operatori, con formazione tecnico-scientifica ed umanistica, con esperienza pluriennale nel campo della divulgazione scientifica e didattica museale.</small>"
+<b>Associazione LOfficina</b> <br>
+Dal 1 luglio 2016 Associazione LOfficina ha in concessione le attività pubbliche, scolastiche e i servizi di cassa, accoglienza e segreteria del Civico Planetario di Milano. Il suo staff cura quindi la programmazione degli appuntamenti rivolti al pubblico, la progettazione di nuove attività, la conduzione di tutte le proposte scolastiche e la conduzione di alcuni degli appuntamenti pubblici. 
+LOfficina nasce a Milano nel 2005, è composta da un gruppo eterogeneo di operatori, con formazione tecnico-scientifica ed umanistica, con esperienza pluriennale nel campo della divulgazione scientifica e didattica museale.</small>"
     id: planetario
-    when: Giovedì 7 marzo, ore 21.30
+    when: Giovedì 7 marzo, ore 21.00
 
   - img: cenasociale.jpg
     title: Cena sociale e serata milanese
