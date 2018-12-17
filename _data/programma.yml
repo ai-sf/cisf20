@@ -12,15 +12,15 @@ schedule:
         where: "Mio Hostel"
         descr: "Registrazione partecipanti"
         tag: firstlast
-      - hour: "14:00 - 16:00"
+      - hour: "14:00 - 17:00"
         where: "Dipartimento di Fisica UniMi"
         descr: "Cerimonia di apertura <br> <b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica <br> <b>Mattia Ivaldi</b>, Presidente AISF <br> <b>Prof.ssa Ginevra Trinchieri</b>, Presidente SAIt <br> <b>Dr. Luca Solari</b>, Presidente di Fondazione UniMi"
         tag:
-      - hour: "16:00 - 17:00"
-        where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Dott.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
-        tag: conf
-        id: speaker/#greison
+#      - hour: "16:00 - 17:30"
+#        where: "Dipartimento di Fisica UniMi"
+#        descr: "<b>Dott.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
+#        tag: conf
+#        id: speaker/#greison
       - hour: "17:00 - 17:30"
         where: "Dipartimento di Fisica UniMi"
         descr: "Coffee Break"
