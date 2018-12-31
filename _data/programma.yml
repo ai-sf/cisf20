@@ -179,7 +179,7 @@ schedule:
 
   - day: Sab 9
     date: "09319"
-    day_ex: Venerdì 9 marzo
+    day_ex: Sabato 9 marzo
     short_descr: "Talk studenti e conferenze, Università degli Studi di Milano (UniMi)"
     activity:
       - hour: "9:30 - 11:00"
