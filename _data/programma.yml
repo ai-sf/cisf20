@@ -83,7 +83,7 @@ schedule:
         tag: sera
       - hour: "21:00 - 22:30"
         where: "Civico Planetario di Milano"
-        descr: "<b>Speaker TBA</b>, <i>TBA</i>"
+        descr: "<b>Prof. Marco Giulio Giammarchi</b>, <i>TBA</i>"
 #        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
         map: https://goo.gl/maps/5YsmAVd5cTo
         tag: sera
@@ -103,7 +103,7 @@ schedule:
         id: strutture/#lasa
         map: https://goo.gl/maps/NMQKivvn11H2
       - hour: "9:00 - 13:00"
-        where: "??"
+        where: 
         descr: "Visita <b>Accenture</b> <br> [Gruppo 2]"
         tag: visit
         id: strutture/#accenture
@@ -127,7 +127,7 @@ schedule:
         id: strutture/#stmicro
         map: https://goo.gl/maps/83KABvAye4z
       - hour: "9:00 - 13:00"
-        where: "WISE ??"
+        where: 
         descr: "Visita <b>WISE</b> <br> [Gruppo 6]"
         tag: visit
         id: strutture/#wise
