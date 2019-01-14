@@ -38,9 +38,9 @@ Nello stesso anno viene trasformata in Fondazione Universitaria con funzioni di 
 
   - img: ENI.jpg
     title: ENI
-    descr: "ENI, nata a Milano nel 1953 come Ente Nazionale Idrocarburi, è oggi una multinazionale italiana con sedi in 73 paesi, attiva nei settori degli idrocarburi, della chimica e dell’energia elettrica, e l’ottavo gruppo petrolifero a livello mondiale. <br>
-Con un forte interesse per l’innovazione e la ricerca, ha tessuto una rete di collaborazioni virtuose con centri di ricerca di eccellenza in Italia e all’estero tra cui Università e Politecnici italiani, ENEA, CNR, MIT e Stanford University. <br> Il laboratorio di San Donato Milanese, che più ci interessa, è stato inaugurato nel 1985 e ha integrato le storiche strutture di ricerca di Metanopoli in un complesso innovativo, dotato di strumentazioni scientifiche all’avanguardia. Si estende su 34 mila metri quadri e impiega circa 290 addetti, fra ricercatori, tecnici e staff. I progetti di ricerca riguardano ogni aspetto dei segmenti <i>Upstream</i> e <i>Downstream</i> del settore <i>Oil & Gas</i>, con l’obiettivo di ridurre i rischi e aumentare l’efficienza, consolidare la leadership tecnologica e in generale ottenere maggiore qualità, efficienza e sostenibilità nei prodotti, negli impianti e nei processi. <br>
-I principali ambiti di ricerca di cui si occupa questo laboratorio spaziano dalla Geologia e la Geochimica all’Ingegneria del petrolio, dall’Analisi e modelli del greggio (<i>Crude Oil Analysis and Modelling</i>) ai Modelli di ingegneria di processo (<i>Process Engineering ScaleUp Modelling</i>), alle Tecnologie dei materiali e alla Chimica fisica."
+    descr: "ENI, nata a Milano nel 1953 come Ente Nazionale Idrocarburi, è oggi una multinazionale italiana con sedi in 73 paesi, attiva nei settori degli idrocarburi, della chimica e dell'energia elettrica, e l'ottavo gruppo petrolifero a livello mondiale. <br>
+Con un forte interesse per l'innovazione e la ricerca, ha tessuto una rete di collaborazioni virtuose con centri di ricerca di eccellenza in Italia e all'estero tra cui Università e Politecnici italiani, ENEA, CNR, MIT e Stanford University. <br> Il laboratorio di San Donato Milanese, che più ci interessa, è stato inaugurato nel 1985 e ha integrato le storiche strutture di ricerca di Metanopoli in un complesso innovativo, dotato di strumentazioni scientifiche all'avanguardia. Si estende su 34 mila metri quadri e impiega circa 290 addetti, fra ricercatori, tecnici e staff. I progetti di ricerca riguardano ogni aspetto dei segmenti <i>Upstream</i> e <i>Downstream</i> del settore <i>Oil & Gas</i>, con l'obiettivo di ridurre i rischi e aumentare l'efficienza, consolidare la leadership tecnologica e in generale ottenere maggiore qualità, efficienza e sostenibilità nei prodotti, negli impianti e nei processi. <br>
+I principali ambiti di ricerca di cui si occupa questo laboratorio spaziano dalla Geologia e la Geochimica all'Ingegneria del petrolio, dall'Analisi e modelli del greggio (<i>Crude Oil Analysis and Modelling</i>) ai Modelli di ingegneria di processo (<i>Process Engineering ScaleUp Modelling</i>), alle Tecnologie dei materiali e alla Chimica fisica."
     site: https://eni.it
     id: eni
     map: 
@@ -88,13 +88,13 @@ Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova gene
     map: https://goo.gl/maps/6kdzrEYREJT2
 
   - img: IFP.jpg
-    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i> (IFP-CNR)"
+    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i> (IFP-CNR)"	
     descr: "L'Istituto venne costituito come Laboratorio di Fisica del Plasma ed Elettronica Quantistica nel 1970 sotto la direzione del Prof. Piero Caldirola. Missione dell'Istituto consiste nella ricerca scientifica e tecnologica nel campo della Fisica del Plasma, con particolare riguardo alle sue applicazioni finalizzate alla realizzazione della Fusione Termonucleare Controllata come una delle opzioni più valide per una sorgente di energia sicura, sostenibile per l'ambiente, praticamente inesauribile per le generazioni future. <br> <br>
 Le attività di ricerca si articolano in: <br>
--partecipazione a campagne sperimentali su macchine per il confinamento magnetico dei plasmi da fusione (principalmente su tokamak), <br>
--studi teorici e di modellizzazione di plasmi termonucleari, <br>
--sviluppo di sistemi diagnostici per plasmi da fusione, <br>
--studi sperimentali sull'interazione dei plasmi con materiali solidi anche utilizzando installazioni sperimentali presenti in Istituto. <br> <br>
+- partecipazione a campagne sperimentali su macchine per il confinamento magnetico dei plasmi da fusione (principalmente su tokamak), <br>
+- studi teorici e di modellizzazione di plasmi termonucleari, <br>
+- sviluppo di sistemi diagnostici per plasmi da fusione, <br>
+- studi sperimentali sull'interazione dei plasmi con materiali solidi anche utilizzando installazioni sperimentali presenti in Istituto. <br> <br>
 Le principali competenze che sono state sviluppate negli anni in IFP riguardano la fisica e le tecnologie delle onde elettromagnetiche millimetriche, sia di potenza per il riscaldamento dei plasmi da fusione, sia di segnale per applicazioni in campo diagnostico di plasmi da laboratorio e astrofisico; lo sviluppo di diagnostiche di plasmi termonucleari basate sulla raccolta e l'analisi degli spettri di neutroni e raggi gamma e di radiazione millimetrica emessi dal plasma; la formulazione di modelli teorici dell'interazione di onde elettromagnetiche con plasmi magnetizzati, l'analisi interpretativa di dati sperimentali sui processi di trasporto di energia e particelle del plasma mediante codici numerici fluidi e cinetici, e la modellizzazione di instabilità magnetoidrodinamiche; lo studio sperimentale dei processi di interazione di plasmi di laboratorio con superfici materiali, il trattamento di queste ultime mediante esposizione al plasma e la loro diagnostica. <br> 
 Nei laboratori di IFP operano diverse installazioni sperimentali a plasma, tra cui la macchina lineare <i>GyM</i> per la ricerca di base sui plasmi e per lo studio dell'interazione plasma-materiali, alcuni reattori capacitivi a radiofrequenza per il trattamento al plasma di superfici e una micro-torcia al plasma per deposizioni di film sottili di carbonio. "
     site: https://www.ifp.cnr.it/
@@ -116,7 +116,32 @@ La caratterizzazione spettroscopica di base di campioni proteici comprende spett
 La determinazione della dimensione e dello stato di aggregazione di nanoparticelle e proteine avviene tramite misure di <i>light scattering</i> polarizzato (90 gradi) e/o depolarizzato (diversi angoli).
 La caratterizzazione spettroscopica di molecole fluorescenti e nanoparticelle con eccitazione non lineare prevede per le molecole in esame la possibilità' di misurare lo spettro di eccitazione a due fotoni (da 700 nm a 980 nm), gli spettri di emissione mediante CCD, e la diffusione e la fotodinamica mediante spettroscopia di correlazione di fluorescenza.<br>
 Lo studio della veicolazione di nanoparticelle e nano-costrutti in cellule avviene mediante esperimenti di microscopia ad eccitazione non lineare (700-980 nm) e prevede esperimenti di <i>imaging</i> in funzione del tempo a diverse concentrazioni di nano-sistemi, per analizzare sia la veicolazione che la tossicità. Sono possibili anche esperimenti di FRAP (fluorescence recovery after photobleaching) per studiare la diffusione intracellulare.<br>
-Lo imaging confocale e in super-risoluzione sfrutta un microscopio confocale Leica TCS CW STED: lunghezze d'onda di eccitazione 458 nm, 476 nm, 488 nm, 514 nm, 561 nm, 633 nm. Rivelatori: 2 PMT + 2 Hybrid detectors. Velocità di scansione da 200 a 1400 Hz, 8000 Hz in modalità resonant. Immagini acquisibili in modalità: xyz, xyt, xyzt, linescan, mosaic, spettrale."
+Lo imaging confocale e in super-risoluzione sfrutta un microscopio confocale Leica TCS CW STED: lunghezze d'onda di eccitazione 458 nm, 476 nm, 488 nm, 514 nm, 561 nm, 633 nm. Rivelatori: 2 PMT + 2 Hybrid detectors. Velocità di scansione da 200 a 1400 Hz, 8000 Hz in modalità resonant. Immagini acquisibili in modalità: xyz, xyt, xyzt, linescan, mosaic, spettrale. <br><br>
+
+<b>Laboratorio di Archeometria (Scienza dei Materiali)</b><br>
+Dal 1980 il laboratorio si dedica allo sviluppo ed all'applicazione di tecniche fisiche in archeologia, geologia ed ai beni culturali. In particolare, ci siamo specializzati nelle tecniche di datazione e caratterizzazione non distruttiva dei materiali archeologici. <br>
+Le tecniche di datazione disponibili sono la termoluminescenza (TL) e la luminescenza stimolata otticamente (OSL) per la datazione di materiale ceramico e di sedimenti; il radiocarbonio consente la datazione di materiale organico (in laboratorio ci occupiamo della preparazione dei campioni per datazione con AMS), la dendrocronologia permette di datare il periodo del taglio dell'albero. Una tecnica proposta di recente, la Reidrossilazione, permette di datare il materiale ceramico misurando la percentuale d'acqua assorbita a partire dalla cottura in fornace; anche questa tecnica è attualmente disponibile in laboratorio. Il laboratorio è membro del CUDAM (Centro Universitario Datazioni Università di Milano Bicocca, http://cudam.mater.unimib.it), di EURADOS (<i>European Radiation Dosimetry Group, Working Group 10</i>), di MODIS (<i>Mortar Dating Intercomparison Study</i>) e del RHX International Research. Dal 2012 è un <i>first level hub</i> del network italiano CH_NET E-RIHS. <br>
+Nel campo della caratterizzazione dei materiali antichi, le nostre ricerche sono incentrate sulle tecniche spettroscopiche non invasive, utilizzando in particolare strumentazione portatile (dipinti, tavole, smalti, ceramiche decorate e lustrate, oggetti metallici....). <br>
+I principali temi di ricerca sono:
+<ul>
+<li> - Dosimetria del picco a bassa temperatura del quarzo e studio dell'effetto Pre-dose</li>
+<li> - Proprietà ottiche e dosimetriche dei vetri musivi</li>
+<li> - Fenomeni di charge transfer nell'emissione luminescente di quarzo e feldspati naturali</li>
+<li> - Nuove procedure di estrazione del collagene dalle ossa per datazione 14 C</li>
+<li> - Datazione TL, OSL e 14 C delle malte archeologiche e architettoniche</li>
+<li> - Surface dating</li>
+<li> - Dosimetria di incidenti nucleari utilizzando materiali presenti nell'ambiente</li>
+<li> - Datazione con tecnica di reidrossilazione (RHX) di ceramiche archeologiche</li>
+<li> - Tecniche non invasive (EDXRF, FORS, Raman) per la caratterizzazione dei beni culturali</li>
+</ul>
+
+<b>Laboratorio OMBE (Epitassia da fasci molecolari organici)</b><br>
+Il laboratorio OMBE è dedicato alla crescita in alto e ultra-alto vuoto di film sottili ed eterostrutture di materiali molecolari organici, in particolare realizzati sfruttando l'epitassia organica. Ospita quindi apparati per la crescita da fasci molecolari organici (Organic Molecular Beam Epitaxy - OMBE) e strumenti per la caratterizzazione ottica e morfologica dei campioni: uno spettrofotometro UV-vis-NIR, un ellissometro, un apparato per spettroscopia di riflettanza anisotropa e un microscopio a forza atomica. <br>
+L'apparato OMBE è costituito da una camera di introduzione, una camera di metallizzazione e la camera di crescita, con sei sorgenti per diversi materiali, completa di microbilancia al quarzo per il controllo in-situ dello spessore dei film. Il vuoto limite che può essere raggiunto in camera di crescita è di circa 5x10^(-10) mbar grazie a una criopompa. Un sistema di raffreddamento e di riscaldamento del substrato permettono di variare la temperatura del substrato in un range compreso tra 77 K e 900 K. La camera di crescita è inoltre dotata di una finestra BOMCO di quarzo per misure ottiche in-situ e in tempo reale.
+E' disponibile inoltre un secondo apparato OMBE  costituito da due camere di crescita separate, entrambe dotate di microbilancia al quarzo per il controllo in-situ dello spessore dei film. Una delle due camere può alloggiare una sola cella di Knudsen, mentre la seconda può alloggiare fino a tre celle di Knudsen. Il vuoto limite che entrambe le camere possono raggiungere è di circa 1 x10^(-7) torr."
+
+
+
     site: https://www.fisica.unimib.it/it 
     id: labounimib
     map: https://goo.gl/maps/WGBkMvdB79t
