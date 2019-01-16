@@ -83,12 +83,12 @@ schedule:
         tag: sera
       - hour: "21:00 - 22:30"
         where: "Civico Planetario di Milano"
-        descr: "<b>Prof. Marco Giulio Giammarchi</b>, <i>TBA</i>"
+        descr: "<b>Prof. Marco Giulio Giammarchi</b>, <i>Cosmo e Antimateria</i>"
 #        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
         map: https://goo.gl/maps/5YsmAVd5cTo
         tag: sera
         id: serate/#planetario
-
+#        id: speaker/#giammarchi
 
 
   - day: Ven 8
@@ -103,11 +103,11 @@ schedule:
         id: strutture/#lasa
         map: https://goo.gl/maps/NMQKivvn11H2
       - hour: "9:00 - 13:00"
-        where: 
+        where: Accenture
         descr: "Visita <b>Accenture</b> <br> [Gruppo 2]"
         tag: visit
         id: strutture/#accenture
-        map:       
+        map: https://goo.gl/maps/nm7Ve8Wrof32
       - hour: "9:00 - 13:00"
         where: "Istituto FIRC di Oncologia Molecolare"
         descr: "Visita <b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 3]"
@@ -127,7 +127,7 @@ schedule:
         id: strutture/#stmicro
         map: https://goo.gl/maps/83KABvAye4z
       - hour: "9:00 - 13:00"
-        where: 
+        where: Wise, sede di Cologno Monzese
         descr: "Visita <b>WISE</b> <br> [Gruppo 6]"
         tag: visit
         id: strutture/#wise
@@ -138,7 +138,7 @@ schedule:
         tag: visit
         id: strutture/#cimaina
       - hour: "9:00 - 13:00"
-        where: "ENI, Sede di San Donato"
+        where: "ENI, sede di San Donato"
         descr: "Visita <b>ENI</b> <br> [Gruppo 8]"
         tag: visit
         id: strutture/#eni
