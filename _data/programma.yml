@@ -32,7 +32,7 @@ schedule:
         id: speaker/#forte
       - hour: "19:00 - 00:00"
         where: "TBA"
-        descr: "Cena organizzata e Botta di Coulomb"
+        descr: "Botta di Coulomb"
         tag: sera
         map: 
         id: serate/#bdc
@@ -64,7 +64,7 @@ schedule:
         tag: conf
       - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "<b>Prof. Maddalena Collini</b>, <i>TBA</i>"
+        descr: "<b>Prof. Maddalena Collini</b>, <i>Microscopia a scansione laser per lo studio dei sistemi biologici e applicazioni di nanomedicina</i>"
         tag: conf
         id: speaker/#collini
         tag: conf
@@ -86,9 +86,9 @@ schedule:
         descr: "<b>Prof. Marco Giulio Giammarchi</b>, <i>Cosmo e Antimateria</i>"
 #        descr: "<b>Dr. Lorenzo Caccianiga</b>, <i>TBA</i>"
         map: https://goo.gl/maps/5YsmAVd5cTo
-        tag: sera
-        id: serate/#planetario
-#        id: speaker/#giammarchi
+        tag: conf
+#        id: serate/#planetario
+        id: speaker/#giammarchi
 
 
   - day: Ven 8

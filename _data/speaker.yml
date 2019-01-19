@@ -25,10 +25,11 @@ Si laurea in Fisica presso l'Università di Milano-Bicocca, dove successivamente
   id: collini
   uni: "Università degli Studi di Milano-Bicocca"
   img: "collini.jpg"
-  title: "TBA"
+  title: "Microscopia a scansione laser per lo studio dei sistemi biologici e applicazioni di nanomedicina"
   bio: "Maddalena Collini è attualmente professore associato di Fisica Applicata presso l'Università di Milano-Bicocca (Dip. Di Fisica, Scuola di Scienze). Laureata in Fisica presso l'Università di Milano, la sua attività è volta all'applicazione della fotonica ai biosistemi per studiare processi dinamici nel campo interdisciplinare della biofisica. Ha iniziato la sua attività studiando i moti interni di DNA <i>supercoiled</i> e di frammenti di DNA, studiando la struttura di proteine della famiglia delle calicine applicando la tecnica della anisotropia della fluorescenza. <br> Dal 2001 si è trasferita presso l'Università di Milano-Bicocca partecipando all'allestimento di un laboratorio di microscopia ottica dove ha iniziato ad utilizzare la spettroscopia di correlazione della fluorescenza come principale metodo di indagine per la fotodinamica delle proteine fluorescenti a livello di singola molecola. Dal 2011 è il responsabile scientifico della grande attrezzatura di ateneo di Nanoscopia. La sua recente ricerca verte sullo sviluppo di nuovi protocolli e metodi di correlazione di immagini. Dal punto di vista più nanotecnologico, utilizza nanoparticelle d'oro per scopi teranostici, studiando e modellizzando la loro internalizzazione in cellule e piccoli organismi. Attualmente sta investigando l'azione antibatterica e stimolante delle nanoparticelle per ricerca applicata (brevetto depositato <i>Nanothermopatch</i>). È co-responsabile di un nuovo laboratorio attivo nell'edificio dedicato alla Nanomedicina. È membro del centro di Neuroscienze (NeuroMi, ospitato dall'Università di Milano-Bicocca), del centro di Nanomedicina (NanoMed, ospitato dall'Università di Milano-Bicocca) ed è ricercatore associato dell'Istituto del CNR per le Scienze Applicate e Sistemi Intelligenti <i>Eduardo Caianello</i>	, (Pozzoli, Na)."
-  abstract: "TBA"
-  link:
+  abstract: "La figura del biofisico si propone di studiare sistemi cellulari, tessuti e piccoli organismi con metodologie fisiche sia a livello sperimentale sia a livello di modellizzazione. Recentemente, lo sviluppo della nanomedicina ha generato un ulteriore spinta alla richiesta di comprensione molecolari di processi biologici con il fine ultimo di poter dare un contributo alla ricerca medica e allo sviluppo di nuove tecniche diagnostiche e terapeutiche.
+La microscopia a scansione laser permette in modo unico di potere seguire il comportamento di biomolecole e nanoparticelle all'interno di cellule con elevata risoluzione spaziale e temporale, senza danneggiare le cellule. Oltre agli aspetti morfologici, permette di determinare diffusioni, flussi e interazioni fra molecole. In questo seminario, illustrerò i principi base di alcune tecniche di microscopia innovative messe a punto nel nostro laboratorio con riferimento specifico alle loro applicazioni e potenzialità."
+  link:	
 
 #- nome: "Prof. Giovanni Onida"
 #  id: onida
@@ -82,14 +83,15 @@ Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per 
   abstract: "Qualche mese fa, ricercatori italiani hanno annunciato la scoperta di un lago di acqua liquida su Marte. E l'acqua è una sostanza fondamentale per la vita, almeno secondo le conoscenze attuali. Quindi c'è vita su Marte? Non solo: secondo le stime più recenti, nell'universo esistono centinaia di miliardi di miliardi di pianeti. E molti di loro potrebbero ospitare acqua. Quindi la vita è molto diffusa nell'universo?"
   link:
 
-#- nome: "Prof. Marco Giulio Giammarchi"
-#  id: giammarchi
-#  uni: "Università degli Studi di Milano"
-#  img: "giammarchi.jpg"
-#  title: "Cosmo e Antimateria"
-#  bio: ""
-#  abstract: "Materia e Antimateria sono i due volti del Cosmo, tra loro complementari e simmetrici: ad ogni particella corrisponde una antiparticella di carica elettrica opposta, che può venire prodotta negli acceleratori di particelle. Eppure in natura le antiparticelle non si osservano quasi mai, sono incredibilmente rare: sembra infatti che una qualche piccola violazione delle simmetrie quantistiche abbia lavorato - nei primi istanti di vita dell'Universo, per eliminare l'antimateria e per permettere la sopravvivenza di quella che oggi chiamiamo materia. E che costituisce tutto ciò che osserviamo, le galassie, le stelle, i pianeti e noi stessi. Ma perchè l'antimateria è sparita? E come è possibile studiarla? La si può trovare nello spazio? Si può costruire una fabbrica di antimateria sulla Terra?"
-#  link:
+- nome: "Prof. Marco Giulio Giammarchi"
+  id: giammarchi
+  uni: "Università degli Studi di Milano"
+  img: "giammarchi3.jpg"
+  title: "Cosmo e Antimateria"
+  bio: "Marco Giammarchi si laurea in Fisica presso l'Università degli Studi di Milano nel 1984, conseguendovi poi anche il Dottorato di Ricerca (1989). In questo stesso periodo partecipa anche ad una <i>summer school</i> al CERN (1983) e diventa ricercatore presso il Fermilab (USA, 1985). Nel 1988 diventa ricercatore associato dell'INFN - Sezione di Milano. Dal 2005 è inoltre a capo del gruppo di Milano di AEGIS, un progetto volto allo studio dell'antimateria, e dal 2006 al 2012 è stato coordinatore della sezione dell'INFN di fisica delle astroparticelle. Nel 2014 diventa professore ordinario presso l'Università degli Studi di Milano e membro della <i>Publication and Talk Board</i> di AEGIS. Infine, dal 2015 partecipa al progetto QUPLAS (QUantum interferometry and gravity with Positrons and LASers) relativo allo studio dell'interferometria con particelle di antimateria, sia positroni che stati legati elettrone-positrone, e a studi gravitazionali con il positronio, volti a testare il Principio di Equivalenza Debole. 
+Dal 2018 è professore ordinario del corso di Interazioni Fondamentali presso l'Università degli Studi di Milano."
+  abstract: "Materia e Antimateria sono i due volti del Cosmo, tra loro complementari e simmetrici: ad ogni particella corrisponde una antiparticella di carica elettrica opposta, che può venire prodotta negli acceleratori di particelle. Eppure in natura le antiparticelle non si osservano quasi mai, sono incredibilmente rare: sembra infatti che una qualche piccola violazione delle simmetrie quantistiche abbia lavorato - nei primi istanti di vita dell'Universo, per eliminare l'antimateria e per permettere la sopravvivenza di quella che oggi chiamiamo materia. E che costituisce tutto ciò che osserviamo, le galassie, le stelle, i pianeti e noi stessi. Ma perché l'antimateria è sparita? E come è possibile studiarla? La si può trovare nello spazio? Si può costruire una fabbrica di antimateria sulla Terra?"
+  link:
 
 
 
@@ -102,6 +104,3 @@ Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per 
 #Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
 #  abstract: "In <i>Monologo Quantistico</i> Gabriella Greison racconta una foto che rappresenta il più grande ritrovo di cervelli della storia, scattata nel 1927 a Bruxelles, a conclusione del V Congresso Solvay."
 #  link:
-
-
-#TODO: bio Caccianiga o altro speaker alla serata al planetario
