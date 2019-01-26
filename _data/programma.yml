@@ -74,7 +74,7 @@ schedule:
         tag: svago
       - hour: "17:30 - 18:30"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "Parallel session: <b>ENI, Accenture, GP Battery, STMicroelectronics </b> <br>"
+        descr: "Parallel session: <b>Eni, Accenture, GP Battery, STMicroelectronics </b> <br>"
         id: speaker/#workshopaziende
         tag: conf
       - hour: "19:30 - 21:00"
@@ -138,8 +138,8 @@ schedule:
         tag: visit
         id: strutture/#cimaina
       - hour: "9:00 - 13:00"
-        where: "ENI, sede di San Donato"
-        descr: "Visita <b>ENI</b> <br> [Gruppo 8]"
+        where: "Eni, sede di San Donato"
+        descr: "Visita <b>Eni</b> <br> [Gruppo 8]"
         tag: visit
         id: strutture/#eni
         map: 

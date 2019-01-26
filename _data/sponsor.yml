@@ -1,13 +1,14 @@
-- title: "Con il sostegno di:"
+- title: "Sponsor"
+#- title: "Con il sostegno di:"
   format: "m4"
   subitems:
     - text: Accenture
-      img: 
+      img: accenture.jpg
       link: https://accenture.it
       fb: https://it-it.facebook.com/AccentureinItalia/
       linkedin: https://it.linkedin.com/company/accenture-italia
-    - text: ENI
-      img: 
+    - text: Eni
+#      img: ENI_r.png
       link: https://eni.it
       fb: https://it-it.facebook.com/Eni/
       linkedin: https://it.linkedin.com/company/eni
@@ -43,7 +44,8 @@
       fb: https://www.facebook.com/101Caffe/
       linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
 
-- title: "Con il patrocinio di:"
+- title: "Patrocini"
+#- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
     - text: Università degli Studi di Milano
