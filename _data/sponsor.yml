@@ -48,7 +48,7 @@
 #- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
-    - text: Università degli Studi di Milano
+    - text: Università degli Studi di Milano 
       img: logo_unimi.png
       link: http://www.unimi.it/
       fb: https://it-it.facebook.com/LaStatale/
@@ -60,15 +60,19 @@
 #      img: comune_milano_q.png
 #      link: https://www.comune.milano.it/
 #      fb: https://www.facebook.com/comunemilano/
+#    - text: Civico Planetario <i>Ulrico Hoepli</i> <br> e associazione L'Officina del Planetario
+    - text: Associazione LOfficina del Planetario
+      img: planetario_q.png
+      link: https://lofficina.eu/
+      fb: https://www.facebook.com/LOfficinadelplanetario/
     - text: "CIMaINa - Centro Interdisciplinare Materiali e Interfacce Nanostrutturate"
       img: Cimaina.png
       link: http://cimaina.unimi.it/
       fb: https://it-it.facebook.com/milano.university/
-#    - text: Civico Planetario <i>Ulrico Hoepli</i> <br> e associazione L'Officina del Planetario
-    - text: Associazione LOfficina del Planetario <br> <br>
-      img: planetario_q.png
-      link: https://lofficina.eu/
-      fb: https://www.facebook.com/LOfficinadelplanetario/
+    - text: Fondazione Unimi (ex Fond. Filarete)
+      img: fond_unimi_q.png
+      link: http://www.fondazionefilarete.com/
+      fb: https://it-it.facebook.com/FondazioneFilarete/
     - text: Istituto Europeo di Oncologia (IEO)
       img: IEO.png
       link: https://www.ieo.it/
@@ -86,10 +90,6 @@
       img: brera.png
       link: http://www.brera.inaf.it/
       fb: https://www.facebook.com/astrobrera/
-    - text: Fondazione Unimi (ex Fond. Filarete)
-      img: fond_unimi_q.png
-      link: http://www.fondazionefilarete.com/
-      fb: https://it-it.facebook.com/FondazioneFilarete/
     - text: Museo Nazionale Scienza e Tecnologia
       img: MNST.jpg
       link: http://www.museoscienza.org/
