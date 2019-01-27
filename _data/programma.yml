@@ -31,10 +31,10 @@ schedule:
         tag: conf
         id: speaker/#forte
       - hour: "19:00 - 00:00"
-        where: "TBA"
+        where: "Auditorium Cerri"
         descr: "Botta di Coulomb"
         tag: sera
-        map: 
+        map: https://goo.gl/maps/zg4VjNWLVRM2
         id: serate/#bdc
 
 
