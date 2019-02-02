@@ -74,7 +74,7 @@ schedule:
         tag: svago
       - hour: "17:30 - 18:30"
         where: "Dipartimento di Fisica UniMiB"
-        descr: "Parallel session: <b>Eni, Accenture, GP Battery, STMicroelectronics </b> <br>"
+        descr: "Parallel session: <b>Eni, Accenture, GP Battery </b> <br>"
         id: speaker/#workshopaziende
         tag: conf
       - hour: "19:30 - 21:00"
@@ -184,7 +184,7 @@ schedule:
     activity:
       - hour: "9:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Prof. Michele Parrinello</b>, <i>TBA</i>"
+        descr: "<b>Prof. Michele Parrinello</b>, <i>Atomi e computer</i>"
         id: speaker/#parrinello
         tag: conf
       - hour: "11:00 - 12:30"
