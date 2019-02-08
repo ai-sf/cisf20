@@ -1,3 +1,35 @@
 #- name: "Sofia Barbieri"
-#  uni: "Università degli Studi di Pavia"
+#    uni: "Università degli Studi di Pavia"
 #  poster: "Track-structure simulation of gamma-H2AX foci and comparison with experimental results <br> PERSEO: PErsonal Radiation Shielding for intErplanetary missiOns"
+
+- name: "Alessandro Buonaiuto"  
+  uni: "Università degli Studi del Salento" 
+  poster: "Out of equilbrium dynamics of the Hubbard model on a dimer"
+
+- name: "Alessandra Lorenzo"
+  uni: "Università di Bologna" 
+  poster: "Moving from academia to industry - my evidence"
+
+- name: "Daniele Ducci"  
+  uni: "Università degli Studi di Pisa" 
+  poster: "Il vettore di Runge-Lenz e il gruppo di simmetria SO(4) nell'atomo di idrogeno"
+
+- name: "Giovanna Feraco"  
+  uni: "Università della Calabria" 
+  poster: "Healing effect of different molecules on defective MoS2 grown by CVD method"
+
+- name: "Giuseppe Sottile"  
+  uni: "Università della Calabria" 
+  poster: "Qubit & Computer Quantistici"
+
+- name: "Leonardo Pacciani Mori"  
+  uni: "Università degli Studi di Padova" 
+  poster: "Strategie metaboliche adattive: una risposta (apparentemente) semplice ed efficace a molti problemi in microecologia"
+
+- name: "Loris Fato"  
+  uni: "Università della Calabria" 
+  poster: "YouPhysics"
+
+- name: "Luca Teruzzi"  
+  uni: "Università degli Studi di Milano" 
+  poster: "Measurements of phase topological properties of OAM channeling radiation through Asymmetryc Lateral Coherence"
