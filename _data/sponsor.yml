@@ -8,7 +8,7 @@
       fb: https://it-it.facebook.com/AccentureinItalia/
       linkedin: https://it.linkedin.com/company/accenture-italia
     - text: Eni
-      #img: ENI_r.png
+      img: ENI_r.png
       link: https://eni.it
       fb: https://it-it.facebook.com/Eni/
       linkedin: https://it.linkedin.com/company/eni
@@ -56,28 +56,28 @@
       img: Bicocca.png
       link: http://www.unimib.it/
       fb: https://it-it.facebook.com/bicocca/
-#    - text: "Comune di Milano <br/><br/>"
-#      img: comune_milano_q.png
-#      link: https://www.comune.milano.it/
-#      fb: https://www.facebook.com/comunemilano/
 #    - text: Civico Planetario <i>Ulrico Hoepli</i> <br> e associazione L'Officina del Planetario
     - text: Associazione LOfficina del Planetario
       img: planetario_q.png
       link: https://lofficina.eu/
       fb: https://www.facebook.com/LOfficinadelplanetario/
+    - text: "Comune di Milano <br/><br/>"
+      img: comune_milano_q.png
+      link: https://www.comune.milano.it/
+      fb: https://www.facebook.com/comunemilano/
     - text: "CIMaINa - Centro Interdisciplinare Materiali e Interfacce Nanostrutturate"
       img: Cimaina.png
       link: http://cimaina.unimi.it/
       fb: https://it-it.facebook.com/milano.university/
-    - text: Fondazione Unimi (ex Fond. Filarete)
+    - text: "Fondazione Unimi (ex Fond. Filarete) <br>"
       img: fond_unimi_q.png
       link: http://www.fondazionefilarete.com/
       fb: https://it-it.facebook.com/FondazioneFilarete/
-    - text: Istituto Europeo di Oncologia (IEO)
-      img: IEO.png
+    - text: Istituto Europeo di Oncologia (IEO) <br> <br> 
+      img: IEO.png 
       link: https://www.ieo.it/
       fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
-    - text: Istituto FIRC di Oncologia Molecolare
+    - text: Istituto FIRC di Oncologia Molecolare <br> <br>
       img: IFOM_q.png
       link: https://www.ifom.eu/it/
       fb: https://www.facebook.com/ifomyouscientist/
@@ -94,7 +94,7 @@
       img: MNST.jpg
       link: http://www.museoscienza.org/
       fb: https://www.facebook.com/museoscienza
-    - text: Società Astronomica Italiana
+    - text: Società Astronomica Italiana <br> <br>
       img: SAI.jpg
       link: http://sait.interlandia.net/
       fb: https://it-it.facebook.com/SocietaAstronomicaItalianaSaIt/

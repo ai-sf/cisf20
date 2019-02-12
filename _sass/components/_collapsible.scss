@@ -10,8 +10,15 @@
   display: block;
   cursor: pointer;
   height: $collapsible-height;
+  @media #{$medium-and-down} {
+  	height: 2*$collapsible-height;
+  	line-height: 0.5*$collapsible-height;
+  	padding: 1rem;
+	text-overflow: ellipsis;
+	}
   line-height: $collapsible-height;
   padding: 0 1rem;
+
   background-color: $collapsible-header-color;
   border-bottom: 1px solid $collapsible-border-color;
 
@@ -20,7 +27,7 @@
     font-size: 1.6rem;
     line-height: $collapsible-height;
     display: block;
-    float: left;
+    float: center;
     text-align: center;
     margin-right: 1rem;
   }

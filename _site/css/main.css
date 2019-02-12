@@ -6763,12 +6763,18 @@ a.waves-effect .waves-ripple {
   padding: 0 1rem;
   background-color: #fff;
   border-bottom: 1px solid #ddd; }
+  @media only screen and (max-width: 992px) {
+    .collapsible-header {
+      height: 6rem;
+      line-height: 1.5rem;
+      padding: 1rem;
+      text-overflow: ellipsis; } }
   .collapsible-header i {
     width: 2rem;
     font-size: 1.6rem;
     line-height: 3rem;
     display: block;
-    float: left;
+    float: center;
     text-align: center;
     margin-right: 1rem; }
 
@@ -9045,3 +9051,6 @@ article img {
   font-size: 1.64rem;
   line-height: 110%;
   margin: 0.82rem 0 0.656rem 0; }
+
+.ui-mobile .ui-page .ui-content .ui-collapsible .ui-collapsible-heading .ui-btn-text {
+  white-space: normal; }
