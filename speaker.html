@@ -70,8 +70,9 @@ Nel corso dell'evento i partecipanti avranno l'opportunità di esporre agli altr
       {% for item in site.data.talk_studenti %}
         <li>
           <div class="collapsible-header">
-            <div class="center">
-              <b>{{ item.name }}</b>:  {{item.title}}
+
+           	 <div class="center">
+                <b>{{item.name}}, {{item.uni}}</b>:  {{item.title}}
             </div>
           </div>
           <div class="collapsible-body">
@@ -82,12 +83,34 @@ Nel corso dell'evento i partecipanti avranno l'opportunità di esporre agli altr
       </ul>
 -->
 
+      {% for item in site.data.talk_studenti.rooms %}
+   	<h4> <div class="center"><b>  {{item.room}} </b> </div> </h3>
+		
+      <ul class="collapsible" data-collapsible="expandable" id="talkstudenti">
+      {% for item2 in site.data.talk_studenti.content %}
+	{% if item2.room == item.room %}
+        <li>
+          <div class="collapsible-header">
+           	 <div class="center">
+                <b>{{item2.name}}</b>,  <cite>{{item2.uni}}</cite> :  {{item2.title}}
+            </div>
+          </div>
+          <div class="collapsible-body">
+              <p>{{item2.abstract}}</p>
+       </div>
+        </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+      {% endfor %}
+
 
 
 
 <h2>Sessione poster</h2>
 Una poster session sarà organizzata in modo da permettere agli studenti partecipanti alla conferenza, a ricercatori e ai dottorandi dei Dipartimenti di Fisica di Milano e di Milano-Bicocca di esporre la propria attività di ricerca o di approfondire alcune tematiche incontrate durante le conferenze precedenti.
 Se interessati, è possibile indicare in fase di registrazione all'evento l'intenzione di presentare un poster specificandone eventualmente anche il titolo.
+
 <!--
 <ul class="collection" id="poster">
 	{% for item in site.data.poster %}
