@@ -92,7 +92,7 @@ Nel corso dell'evento i partecipanti avranno l'opportunità di esporre agli altr
         <li>
           <div class="collapsible-header">
            	 <div class="center">
-                <b>{{item2.name}}</b>,  <cite>{{item2.uni}}</cite> :  {{item2.title}}
+                <b>{{item2.name}}</b>,  <cite>{{item2.uni}}</cite> : <br> {{item2.title}}
             </div>
           </div>
           <div class="collapsible-body">
@@ -121,6 +121,23 @@ Se interessati, è possibile indicare in fase di registrazione all'evento l'inte
 	{% endfor %}
 </ul>
 -->
+
+      <ul class="collapsible" data-collapsible="expandable" id="talkstudenti">
+      {% for item in site.data.poster %}
+        <li>
+          <div class="collapsible-header">
+           	 <div class="center">
+                <b>{{item.name}}</b>,  <cite>{{item.uni}}</cite> :<br>  {{item.poster}}
+            </div>
+          </div>
+          <div class="collapsible-body">
+              <p>{{item.abstract}}</p>
+       </div>
+        </li>
+      {% endfor %}
+      </ul>
+
+
 
 <h2>Workshop aziende</h2>
 Il pomeriggio di giovedì 7 marzo sarà prevista anche una sessione parallela dedicata alle aziende attive sul territorio locale che contribuiranno alla realizzazione dell’evento, in cui i relativi rappresentanti avranno modo di presentare l’attività svolta al loro interno.

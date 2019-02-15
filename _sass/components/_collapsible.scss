@@ -10,12 +10,10 @@
   display: block;
   cursor: pointer;
   @include box-sizing(border-box);
-  line-height: $collapsible-height;
-  @media #{$medium-and-down} {
-  padding: 1rem;
   line-height: 0.5*$collapsible-height;
+  @media #{$medium-and-down} {
   }
-  padding: 0 1rem;
+  padding: 1rem;
 
   background-color: $collapsible-header-color;
   border-bottom: 1px solid $collapsible-border-color;

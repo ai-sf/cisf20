@@ -13,7 +13,7 @@ content:
   room: Aula B
 
 - name: Lorenzo Ferrari Barusso
-  uni: Università degli Studi di Genova
+  uni: Univ. degli Studi di Genova
   title: Sensori superconduttivi come rivelatori di particelle
   abstract: Microcalorimetri criogenici con sensori a transizione di fase superconduttiva, <i>TES</i>. Possono essere usati come rivelatori di singolo fotone o di particelle. Un esempio sono gli studi per la missione spaziale <i>ATHENA</i>. Un progetto <i>ESA</i> per la realizzazione di un telescopio spaziale per l'astrofisica X che avrà prestazioni spaziali circa due ordini di grandezza migliori di quelle dei telescopi attualmente in orbita (<i>XMM-Newton</i>, <i>Chandra</i>, ...). Grazie agli innovativi sensori criogenici del piano focale a 50mK. L'obiettivo è determinare, ad esempio, come si assembla la materia, su grande scala, all'interno dell'Universo conosciuto e in che modo l'accrescimento dei buchi neri ne influenzi l'evoluzione.
   room: Aula B
@@ -46,17 +46,17 @@ I dati vengono trattati e modellizzati attraverso algoritmi che vengono addestra
 In particolare verranno presentati due modelli diversi di algoritmi basati su <i>machine learning</i> e su <i>deep learning</i>, evidenziandone punti di forza e debolezze. Infine verrà presentata una differente tipologia di algoritmo, che attraverso un addestramento particolare è in grado di modellizzare il segnale in ingresso e di scomporlo in componenti, al fine di dare una stima predittiva su una finestra temporale a scelta dell'utente."
   room: Aula D
 - name: Leonardo Pacciani Mori
-  uni: Università degli Studi di Padova
+  uni: Univ. degli Studi di Padova
   title: "Strategie metaboliche adattive: una risposta (apparentemente) semplice ed efficace a molti problemi in microecologia"
   abstract: "Lo studio teorico degli ecosistemi è nato quasi cinquant'anni fa, e anche se ultimamente è cresciuto in popolarità ci sono ancora molti problemi aperti. Da un punto di vista sperimentale, in particolare, gli ecosistemi microbici sono spesso usati come terreno di prova per modelli ecologici dato che sono relativamente semplici da gestire in laboratorio. Lo strumento matematico usato sin dagli anni '70 per descrivere ecosistemi competitivi (in particolare quelli microbici) è il modello <i>consumer-resource</i> di MacArthur, che è stato studiato in molte versioni e condizioni differenti ma non è ancora in grado di rendere conto di molti fenomeni osservati. In particolare, tutte le versioni del modello proposte finora presuppongono che le <i>strategie metaboliche</i> delle specie, cioè le loro <i>abitudini alimentari</i>, siano fisse e non cambino nel tempo; tuttavia, ci sono molti (e semplici) esperimenti su popolazioni batteriche che mostrano che questo non è vero, e che i batteri possono modificare le loro <i>diete</i> a seconda delle condizioni ambientali in cui si trovano. In questo talk parlerò di quello che è stato l'oggetto della mia tesi magistrale e su cui sto lavorando attualmente per il dottorato: ho modificato il modello di MacArthur in modo tale da permettere alle strategie metaboliche di evolvere nel tempo seguendo un'equazione differenziale opportunamente definita. Come mostrerò, questa semplice modifica permette al modello di riprodurre correttamente molti fenomeni osservati sperimentalmente in moltissime situazioni che vanno dalla dinamica di una singola specie (come l'esistenza dei cosiddetti <i>diauxic shifts</i>) a quella di un'intera comunità batterica (come la violazione del <i>principio di esclusione competitiva</i>)."
   room: Aula D
 - name: Andrea Lo Sasso
-  uni: Università degli Studi di Bari Aldo Moro
+  uni: Univ. degli Studi di Bari Aldo Moro
   title: Reti Complesse e Big Data al servizio della Medicina
   abstract: Le reti complesse rappresentano un'avanguardia della scienza moderna. Rinata alla fine degli anni novanta, al giorno d'oggi l'applicazione di questi modelli matematici impegna i fisici all'interno del mondo scientifico, con ricadute anche in ambito sociale ed economico. Nell'ambito medico, in particolare, le reti contribuiscono allo studio del cervello umano che, come un sistema fisico, segue le proprietà dei grafi.
   room: Aula D
 - name: Chiara Signorile-Signorile
-  uni: Università degli Studi di Torino
+  uni: Univ. degli Studi di Torino
   title: Cromodinamica Quantistica e Divergenze Infrarosse
   abstract: Il talk verte sui concetti chiave della <i>QCD</i> perturbativa e sul problema delle divergenze infrarosse, nell'ambito della Teoria della Fattorizzazione.
   room: Aula E
