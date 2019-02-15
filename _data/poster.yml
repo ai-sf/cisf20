@@ -1,3 +1,7 @@
+description: "Una poster session sarà organizzata in modo da permettere agli studenti partecipanti alla conferenza, a ricercatori e ai dottorandi dei Dipartimenti di Fisica di Milano e di Milano-Bicocca di esporre la propria attività di ricerca o di approfondire alcune tematiche incontrate durante le conferenze precedenti.
+<!-- Se interessati, è possibile indicare in fase di registrazione all'evento l'intenzione di presentare un poster specificandone eventualmente anche il titolo. -->"
+
+content:
 - name: "Alessandro Buonaiuto"  
   uni: "Univ. degli Studi del Salento" 
   poster: "Out of equilbrium dynamics of the Hubbard model on a dimer"
