@@ -95,9 +95,11 @@ Nel corso dell'evento i partecipanti avranno l'opportunità di esporre agli altr
                 <b>{{item2.name}}</b>,  <cite>{{item2.uni}}</cite> : <br> {{item2.title}}
             </div>
           </div>
+	{% if item2.abstract != null %}
           <div class="collapsible-body">
               <p>{{item2.abstract}}</p>
-       </div>
+     	  </div>
+      	{% endif %}
         </li>
       {% endif %}
       {% endfor %}
@@ -130,9 +132,11 @@ Se interessati, è possibile indicare in fase di registrazione all'evento l'inte
                 <b>{{item.name}}</b>,  <cite>{{item.uni}}</cite> :<br>  {{item.poster}}
             </div>
           </div>
+	{% if item.abstract != null %}
           <div class="collapsible-body">
               <p>{{item.abstract}}</p>
-       </div>
+     	  </div>
+      	{% endif %}
         </li>
       {% endfor %}
       </ul>
