@@ -28,8 +28,8 @@ content:
   room: Aula B
 - name: Ivan Gilardoni
   uni: Università degli Studi dell'Insubria
-  title: L'equazione di Schrodinger non lineare in materia condensata
-  abstract: I solitoni nei condensati di Bose-Einstein.
+  title: Soluzioni localizzate dell'equazione di Schroedinger non lineare
+  abstract: "In particolari condizioni di temperatura e densità, un numero macroscopico di bosoni si trova sullo stato a minima energia ed emergono effetti quantistici su scala macroscopica: è il cosiddetto <i>condensato di Bose-Einstein</i>, previsto dai due fisici nel 1925. I primi condensati sono stati realizzati sperimentalmente da Cornell e altri nel 1995, usando un gas di rubidio raffreddato con tecniche a laser. Considerando una debole interazione tra le particelle, si ottiene (nel limite di temperatura T=0) l'equazione di <i>Gross-Pitaevskii</i>, che descrive il condensato puro. Nel caso di interazione repulsiva, si studia l'evoluzione di una distribuzione gaussiana di densità e di un solitone. Questi ultimi sono onde solitarie che si propagano senza allargarsi e che si formano grazie ad un bilanciamento tra l'effetto non lineare di interazione tra le particelle e quello di diffusione."
   room: Aula C
 - name: Matteo Rinaldi
   uni: Università degli Studi di Pisa
@@ -60,8 +60,9 @@ In particolare verranno presentati due modelli diversi di algoritmi basati su <i
   room: Aula D
 - name: Chiara Signorile-Signorile
   uni: Univ. degli Studi di Torino
-  title: Cromodinamica Quantistica e Divergenze Infrarosse
-  abstract: Il talk verte sui concetti chiave della <i>QCD</i> perturbativa e sul problema delle divergenze infrarosse, nell'ambito della Teoria della Fattorizzazione.
+  title: "Cromodinamica Quantistica e Divergenze: dal Mistero Ultravioletto alla Catastrofe Infrarossa"
+  abstract: "La <i>Cromodinamica Quantistica</i> (<i>QCD</i>) descrive le interazioni delle componenti fondamentali della materia: quark e gluoni. Nonostante l'impressionante accordo con i dati sperimentali, la teoria continua ad offrire spunti di dibattito. <br>
+In particolare, una tra le più stupefacenti peculiarità della <i>QCD</i> è il suo comportamento agli antipodi dello spettro delle energie, dove si annidano inaspettati regimi estremi. In questo talk verranno presentati gli aspetti basilare dello studio delle divergenze infrarosse e ultraviolette della <i>QCD</i> perturbativa."
   room: Aula E
 - name: Francesca Ferranti
   uni: Università degli Studi di Padova
