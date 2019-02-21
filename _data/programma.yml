@@ -213,9 +213,8 @@ schedule:
     activity:
       - hour: "9:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>Dott. Stefano Sandrelli</b>, <i>Al mare su Marte: l'acqua nell'universo</i>"
-# e <b>Ing. Paolo Nespoli</b>
-        id: speaker/#sandrelli
+        descr: "<b>TBA</b>"
+        id: 
         tag: conf
       - hour: "11:00 - 11:45"
         where: "Dipartimento di Fisica UniMi"
