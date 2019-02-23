@@ -213,8 +213,8 @@ schedule:
     activity:
       - hour: "9:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "<b>TBA</b>"
-        id: 
+        descr: "<b>Prof. Patrizia Caraveo</b>, <i>L'Universo invisibile svelato da fotoni, neutrini e onde gravitazionali</i>"
+        id: speaker/#caraveo
         tag: conf
       - hour: "11:00 - 11:45"
         where: "Dipartimento di Fisica UniMi"
