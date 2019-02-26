@@ -8,11 +8,11 @@ schedule:
     day_ex: Mercoledì 6 marzo 
     short_descr: "Inaugurazione, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "9:00 - 13:30"
+      - hour: "9:00 - 14:00"
         where: "Mio Hostel"
         descr: "Registrazione partecipanti"
         tag: firstlast
-      - hour: "14:00 - 17:00"
+      - hour: "14:15 - 17:00"
         where: "Dipartimento di Fisica UniMi"
         descr: "Cerimonia di apertura <br> 
 <b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica<br> 
@@ -36,9 +36,13 @@ schedule:
         descr: "<b>Prof. Stefano Forte</b>, <i>Dalle particelle elementari all'intelligenza artificiale e ritorno</i>"
         tag: conf
         id: speaker/#forte
-      - hour: "19:00 - 00:00"
+      - hour: "19:00 - 20:00"
+        where: ""
+        descr: "Cena libera"
+        tag: sera
+      - hour: "20:30 - 23:30"
         where: "Auditorium Cerri"
-        descr: "Botta di Coulomb"
+        descr: "Quiz scientifico: Botta di Coulomb"
         tag: sera
         map: https://goo.gl/maps/zg4VjNWLVRM2
         id: serate/#bdc
@@ -54,12 +58,12 @@ schedule:
         where: "Dipartimento di Fisica UniMiB"
         descr: "Presentazione e benvenuto ai partecipanti"
         tag: firstlast
-      - hour: "10:00 - 13:30"
+      - hour: "10:00 - 13:00"
         where: "Dipartimento di Fisica UniMiB"
         descr: "Visite a laboratori e CNR"
         tag: visit
         id: strutture/#labounimib
-      - hour: "13:30 - 15:00"
+      - hour: "13:30 - 14:45"
         where: "Mensa"
         descr: "Pausa pranzo"
         tag: svago
@@ -102,54 +106,54 @@ schedule:
     day_ex: Venerdì 8 marzo
     short_descr: "Visite centri esterni e conferenze, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "LASA-INFN, Cascina Gobba"
         descr: "Visita <b>Laboratorio Acceleratori e Superconduttività Applicata (LASA-INFN)</b> <br> [Gruppo 1]"
         tag: visit
         id: strutture/#lasa
         map: https://goo.gl/maps/NMQKivvn11H2
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: Accenture
         descr: "Visita <b>Accenture</b> <br> [Gruppo 2]"
         tag: visit
         id: strutture/#accenture
         map: https://goo.gl/maps/nm7Ve8Wrof32
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "Istituto FIRC di Oncologia Molecolare"
         descr: "Visita <b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 3]"
         tag: visit
         id: strutture/#ifom
         map: https://goo.gl/maps/THTmYTmDNGn
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "Istituto Europeo di Oncologia"
         descr: "Visita <b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 4]"
         tag: visit
         id: strutture/#ieo
         map: https://goo.gl/maps/DQjG2MS3zsG2
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "STMicroelectronics"
         descr: "Visita <b>STMicroelectronics</b> <br> [Gruppo 5]"
         tag: visit
         id: strutture/#stmicro
         map: https://goo.gl/maps/83KABvAye4z
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: Wise, sede di Cologno Monzese
         descr: "Visita <b>WISE</b> <br> [Gruppo 6]"
         tag: visit
         id: strutture/#wise
         map: 
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "Dipartimento di Fisica UniMi"
         descr: "Visita <b>CIMaINa</b> <br> [Gruppo 7]"
         tag: visit
         id: strutture/#cimaina
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "Eni, sede di San Donato"
         descr: "Visita <b>Eni</b> <br> [Gruppo 8]"
         tag: visit
         id: strutture/#eni
         map: 
-      - hour: "9:00 - 12:30"
+      - hour: "8:30 - 12:30"
         where: "Fondazione Unimi"
         descr: "Visita <b>Fondazione UniMi</b> <br> [Gruppo 9]"
         tag: visit
@@ -174,7 +178,7 @@ schedule:
         descr: "<b>Prof. Lucio Rossi</b>, <br><i>L’avventura del fisico tra scienza e tecnologia: LHC, l’upgrade ad Alta Luminosità e i futuri <i>megascience projects</i> per acceleratori</i>"
         id: speaker/#rossi
         tag: conf
-      - hour: "19:30 - 21:30"
+      - hour: "19:45 - 21:30"
         where: "Carlsberg Øl"
         descr: "Cena sociale"
         tag: sera
@@ -188,12 +192,12 @@ schedule:
     day_ex: Sabato 9 marzo
     short_descr: "Talk studenti e conferenze, Università degli Studi di Milano (UniMi)"
     activity:
-      - hour: "9:30 - 11:00"
+      - hour: "9:15 - 11:00"
         where: "Dipartimento di Fisica UniMi"
         descr: "<b>Prof. Michele Parrinello</b>, <i>Atomi e computer</i>"
         id: speaker/#parrinello
         tag: conf
-      - hour: "11:00 - 12:30"
+      - hour: "11:00 - 12:15"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
         tag: studenti
