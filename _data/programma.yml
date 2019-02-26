@@ -14,7 +14,13 @@ schedule:
         tag: firstlast
       - hour: "14:00 - 17:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Cerimonia di apertura <br> <b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica <br> <b>Mattia Ivaldi</b>, Presidente AISF <br> <b> Prof.ssa Luisa Cifarelli</b>, Presidente SIF <br> <b>Prof.ssa Ginevra Trinchieri</b>, Presidente SAIt <br> <b>Dr. Luca Solari</b>, Presidente di Fondazione UniMi"
+        descr: "Cerimonia di apertura <br> 
+<b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica<br> 
+<b>Mattia Ivaldi</b>, Presidente AISF <br> 
+<b> Prof.ssa Luisa Cifarelli</b>, Presidente SIF <br>
+<b>Dott. Stefano Sandrelli</b>, INAF <br>
+<b>Prof.ssa Ginevra Trinchieri</b>, Presidente SAIt <br>
+<b>Dr. Luca Solari</b>, Presidente di Fondazione UniMi"
         tag:
 #      - hour: "16:00 - 17:30"
 #        where: "Dipartimento di Fisica UniMi"
