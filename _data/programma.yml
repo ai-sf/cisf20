@@ -9,7 +9,7 @@ schedule:
     short_descr: "Inaugurazione, Università degli Studi di Milano (UniMi)"
     activity:
       - hour: "9:00 - 14:00"
-        where: "Mio Hostel"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Registrazione partecipanti"
         tag: firstlast
       - hour: "14:15 - 17:00"
