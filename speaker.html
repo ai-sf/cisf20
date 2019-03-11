@@ -38,12 +38,11 @@ title: Conferenze e altri interventi
     <p style="color:{{site.data.generic.color1}}"><b>{{item.title}}</b></p>
 		<p style="text-align:justify">{{ item.abstract }}</p>
 		{% endif %}
- <!--   <div class="secondary-content">
-			<a href="{{site.url}}/programma" title="Vedi evento nel programma">
-				<i class="fa fa-lg fa-calendar"></i>
-			</a>
-		</div>-->
+
+		{% if item.slides != nil %}
+		<br><p><i class="fa fa-download" aria-hidden="true"></i><a href="{{site.url}}/files/Slides/{{item.slides}}" target="_blank" class ="blue-text" >  Scarica</a> le slides dell'intervento</p>
 	    </li>
+		{% endif %}
 	{% endfor %}
 </ul>
 <!-- <p><i>Sono in via di definizione altre possibili conferenze.</i></p> -->
@@ -173,7 +172,7 @@ title: Conferenze e altri interventi
 <ul class="collection" id="workshopaisf">
 	{% for item in site.data.workshopaisf.content %}
 	<li class="collection-item">
-		<b>{{ item.name }}</b>: <i>{{item.title}}</i>
+		<b>{{ item.name }}, </b> {{ item.uni }}: <i>{{item.title}}</i>
 		<br>
 		<p style="text-align:justify">{{item.abstract}}</p>
 	</li>

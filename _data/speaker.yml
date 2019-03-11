@@ -14,6 +14,7 @@ Nel 2017 è stato insignito dell'ERC advanced grant che, per più di cinque anni
   abstract: "I metodi dell'intelligenza artificiale e del <i>machine learning</i> sono sulla bocca di tutti: nella comunità scientifica, ed anche presso il grande pubblico. Alcuni di questi metodi sono stati sfruttati per molti anni nel contesto piuttosto esotico della fisica delle particelle, dove sono stati usati per descrivere situazioni e problemi molto lontani dall'esperienza quotidiana. Recentemente,
 grazie a nuove idee teoriche ed anche all'aumento della potenza di calcolo è diventato possibile raggiungere risultati impensabili fino a poco tempo fa: automobili che si guidano da sole, programmi che imparano a vincere ad un videogioco. La sfida di modellizzare la realtà quantistica, con le sue insolite peculiarità, presenta nuove sfide e la possibilità di nuovi sviluppi."
   link:
+  slides: Forte.pdf
 
 - nome: "Dott. Fabio Pezzoli"
   id: pezzoli
@@ -59,6 +60,7 @@ Nel 2007 è premiato dall'IEEE e nel 2013 è chiamato a far parte del consiglio 
 Rossi svolge anche un'intensa attività di divulgazione scientifica con un interesse alla relazione tra scienza e tecnologia, certezza e verità."
   abstract: "LHC, uno dei più grandi e complessi strumenti scientifici, ha richiesto quasi trent'anni per gli studi e per la sua realizzazione. Già nel 2010, ancor prima della scoperta del bosone di Higgs del 2012, sono iniziati gli studi per il suo upgrade, denominato LHC ad Alta Luminosità che funzionerà dopo il 2025. E già sono iniziati gli studi per l'acceleratore post-LHC, un acceleratore lineare da 20-50 km o uno circolare da 100 km per il 2040. Questi grandi progetti di fisica richiedono lo sviluppo di nuove tecnologie, con collaborazioni internazionali di grandi dimensioni, richiedendo una capacità di adattamento ai ricercatori coinvolti ma generando anche grandi opportunità proprio per una figura flessibile e polivalente come il fisico."
   link:
+  slides: Rossi.pdf
 
 - nome: "Prof. Michele Parrinello"
   id: parrinello
@@ -86,6 +88,7 @@ Il suo campo d'interesse principale è il comportamento delle stelle di neutroni
 Grazie ai dati raccolti da XMM-Newton, Integral, Swift, Agile e Fermi possiamo seguire in diretta il comportamento straordinario e imprevedibile dei più potenti acceleratori di particelle nel nostro Universo. 
 I nuovi canali delle onde gravitazionali e dei neutrini si sono recentemente aggiunti a completare le informazioni trasportate dai fotoni."
   link:
+  slides: Caraveo.pdf
 
 #- nome: "Dott. Stefano Sandrelli"
 #  id: sandrelli
