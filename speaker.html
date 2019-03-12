@@ -40,7 +40,7 @@ title: Conferenze e altri interventi
 		{% endif %}
 
 		{% if item.slides != nil %}
-		<br><p><i class="fa fa-download" aria-hidden="true"></i><a href="{{site.url}}/files/Slides/{{item.slides}}" target="_blank" class ="blue-text" >  Scarica</a> le slides dell'intervento</p>
+		<br><p><a href="{{site.url}}/files/Slides/{{item.slides}}" target="_blank" class ="blue-text" > <i class="fa fa-download" aria-hidden="true"></i> Scarica</a> le slides dell'intervento</p>
 	    </li>
 		{% endif %}
 	{% endfor %}
@@ -98,7 +98,11 @@ title: Conferenze e altri interventi
           </div>
 	{% if item2.abstract != null %}
           <div class="collapsible-body">
-              <p>{{item2.abstract}}</p>
+              <p>{{item2.abstract}}		
+		{% if item2.slides != nil %}
+		<br><br><a href="{{site.url}}/files/Slides/Studenti/{{item2.slides}}" target="_blank" class ="blue-text" > <i class="fa fa-download" aria-hidden="true"></i> Scarica</a> le slides dell'intervento</p>
+	    {% endif %}
+
      	  </div>
       	{% endif %}
         </li>
@@ -151,7 +155,7 @@ title: Conferenze e altri interventi
 </p>
 
 
-<ul class="collection" id="workshopaisf">
+<ul class="collection" id="workshopaziende">
 	{% for item in site.data.workshopaziende.content %}
 	<li class="collection-item">
 		<b> {{ item.company }}: </b> <br>
@@ -172,9 +176,16 @@ title: Conferenze e altri interventi
 <ul class="collection" id="workshopaisf">
 	{% for item in site.data.workshopaisf.content %}
 	<li class="collection-item">
-		<b>{{ item.name }}, </b> {{ item.uni }}: <i>{{item.title}}</i>
+		<b>{{ item.name }}</b> {{ item.uni }}: <i>{{item.title}}</i>
 		<br>
-		<p style="text-align:justify">{{item.abstract}}</p>
+		<p style="text-align:justify">{{item.abstract}}
+		
+		{% if item.slides != nil %}
+		<br><br><a href="{{site.url}}/files/Slides/WorkshopAISF/{{item.slides}}" target="_blank" class ="blue-text" > <i class="fa fa-download" aria-hidden="true"></i> Scarica</a> le slides dell'intervento</p>
+	    {% endif %}
+</p>
+		
+
 	</li>
 	{% endfor %}
 </ul>

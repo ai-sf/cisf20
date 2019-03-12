@@ -32,6 +32,8 @@ content:
   title: Soluzioni localizzate dell'equazione di Schroedinger non lineare
   abstract: "In particolari condizioni di temperatura e densità, un numero macroscopico di bosoni si trova sullo stato a minima energia ed emergono effetti quantistici su scala macroscopica: è il cosiddetto <i>condensato di Bose-Einstein</i>, previsto dai due fisici nel 1925. I primi condensati sono stati realizzati sperimentalmente da Cornell e altri nel 1995, usando un gas di rubidio raffreddato con tecniche a laser. Considerando una debole interazione tra le particelle, si ottiene (nel limite di temperatura T=0) l'equazione di <i>Gross-Pitaevskii</i>, che descrive il condensato puro. Nel caso di interazione repulsiva, si studia l'evoluzione di una distribuzione gaussiana di densità e di un solitone. Questi ultimi sono onde solitarie che si propagano senza allargarsi e che si formano grazie ad un bilanciamento tra l'effetto non lineare di interazione tra le particelle e quello di diffusione."
   room: Aula C
+  slides: Gilardoni.ppsx
+
 - name: Matteo Rinaldi
   uni: Univ. degli Studi di Pisa
   title: "Quantum dot di semiconduttore: generazione di singoli fotoni"
@@ -49,11 +51,15 @@ content:
 I dati vengono trattati e modellizzati attraverso algoritmi che vengono addestrati a tal fine. 
 In particolare verranno presentati due modelli diversi di algoritmi basati su <i>machine learning</i> e su <i>deep learning</i>, evidenziandone punti di forza e debolezze. Infine verrà presentata una differente tipologia di algoritmo, che attraverso un addestramento particolare è in grado di modellizzare il segnale in ingresso e di scomporlo in componenti, al fine di dare una stima predittiva su una finestra temporale a scelta dell'utente."
   room: Aula D
+
+
 - name: Leonardo Pacciani Mori
   uni: Univ. degli Studi di Padova
   title: "Strategie metaboliche adattive: una risposta (apparentemente) semplice ed efficace a molti problemi in microecologia"
   abstract: "Lo studio teorico degli ecosistemi è nato quasi cinquant'anni fa, e anche se ultimamente è cresciuto in popolarità ci sono ancora molti problemi aperti. Da un punto di vista sperimentale, in particolare, gli ecosistemi microbici sono spesso usati come terreno di prova per modelli ecologici dato che sono relativamente semplici da gestire in laboratorio. Lo strumento matematico usato sin dagli anni '70 per descrivere ecosistemi competitivi (in particolare quelli microbici) è il modello <i>consumer-resource</i> di MacArthur, che è stato studiato in molte versioni e condizioni differenti ma non è ancora in grado di rendere conto di molti fenomeni osservati. In particolare, tutte le versioni del modello proposte finora presuppongono che le <i>strategie metaboliche</i> delle specie, cioè le loro <i>abitudini alimentari</i>, siano fisse e non cambino nel tempo; tuttavia, ci sono molti (e semplici) esperimenti su popolazioni batteriche che mostrano che questo non è vero, e che i batteri possono modificare le loro <i>diete</i> a seconda delle condizioni ambientali in cui si trovano. In questo talk parlerò di quello che è stato l'oggetto della mia tesi magistrale e su cui sto lavorando attualmente per il dottorato: ho modificato il modello di MacArthur in modo tale da permettere alle strategie metaboliche di evolvere nel tempo seguendo un'equazione differenziale opportunamente definita. Come mostrerò, questa semplice modifica permette al modello di riprodurre correttamente molti fenomeni osservati sperimentalmente in moltissime situazioni che vanno dalla dinamica di una singola specie (come l'esistenza dei cosiddetti <i>diauxic shifts</i>) a quella di un'intera comunità batterica (come la violazione del <i>principio di esclusione competitiva</i>)."
   room: Aula D
+  slides: PaccianiMori.pdf
+
 - name: Andrea Lo Sasso
   uni: Univ. degli Studi di Bari Aldo Moro
   title: Reti Complesse e Big Data al servizio della Medicina
@@ -89,3 +95,4 @@ Nel mio talk, esporrò le principali caratteristiche e proprietà di queste inte
   title: "Un'introduzione alla cosmologia quantistica: risultati e prospettive"
   abstract: "La cosmologia quantistica è una delle branche più avanzate della fisica teorica. Data la complessità della materia, a volte risulta difficile anche reperire informazioni non specialistiche sull'argomento: le possibilità si riducono a considerazioni qualitative o ad articoli molto avanzati, accessibili solo agli addetti ai lavori. Lo scopo di questa presentazione è di farne una rapida introduzione, evidenziando alcuni concetti basilari e i risultati che ne scaturiscono."
   room: Aula I
+  slides: Sirletti.pdf
