@@ -103,6 +103,10 @@ title: Conferenze e altri interventi
 		<br><br><a href="{{site.url}}/files/Slides/Studenti/{{item2.slides}}" target="_blank" class ="blue-text" > <i class="fa fa-download" aria-hidden="true"></i> Scarica</a> le slides dell'intervento</p>
 	    {% endif %}
 
+		{% if item2.link != nil %}
+		<br><br><a href="{{item2.link}}" target="_blank" class ="blue-text" > <i class="fa fa-link" aria-hidden="true"></i> Collegamento</a> all'articolo da cui è tratto l'intervento</p>
+	    {% endif %}
+
      	  </div>
       	{% endif %}
         </li>
