@@ -40,11 +40,15 @@ content:
   title: "Quantum dot di semiconduttore: generazione di singoli fotoni"
   abstract: Le nanostrutture a semiconduttore, dette <i>quantum dot</i>, rappresentano un tipo di sorgente di fotoni che presenta caratteristiche di antibunching ovvero un comportamento da '<i>singoli fotoni</i>', cioè diverso da quello di fotoni emessi da un laser o da una radiazione di corpo nero. Ciò è descritto da una misura di correlazione tramite interferometro di <i>Hanbury-Brown-Twiss</i>.
   room: Aula C
+  slides: Rinaldi.pdf
+
 - name: Gianvito Chiarella
   uni: LMU Munchen
   title: "Cotto e mangiato: una ricetta per gli stati di Bell"
   abstract: "Oggigiorno si sente parlare sempre più spesso di tecnologie quantistiche e delle loro conseguenze sulla nostra vita. Su quali concetti si fondano? Bhe, sulla meccanica quantistica e sulle sue sostanziali proprietà. Gli stati di Bell sono uno strumento molto utile per la realizzazione di tali nuove tecnologie: vediamo dunque, con l'ausilio di reticoli ottici, sperimentalmente come <i>cucinare, impiattare e mangiare</i> questi stati!"
   room: Aula C
+  slides: Chiarella.pptx
+
 - name: Vincenzo Paduano
   uni: Univ. degli Studi di Torino
   title: IA nel mondo delle Cryptocurrencies
@@ -82,6 +86,8 @@ Una delle conseguenze di dare masse ai neutrini è la possibile esistenza di una
 Tali interazioni possono modificare i parametri di oscillazione e altre osservabili di interesse nei futuri esperimenti sui neutrini quali <i>DUNE</i> e <i>T2HKK</i> e, di conseguenza, modificare la nostra interpretazione dei risultati. 
 Nel mio talk, esporrò le principali caratteristiche e proprietà di queste interazioni, proponendo una possibile parametrizzazione che permetta di valutare il loro effetto complessivo su osservabili di interesse nell'esperimento <i>DUNE</i>."
   room: Aula E
+  slides: Ferranti.pdf
+
 - name: Marco Rocco
   uni: Univ. degli Studi di Milano-Bicocca
   title: Terrific infinities in particle physics and where to hide them
