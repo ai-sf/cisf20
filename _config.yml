@@ -25,4 +25,4 @@ collections:
 
 plugins:
  - jekyll-redirect-from
- - jekyll-sitemap
+# - jekyll-sitemap
