@@ -76,6 +76,7 @@ Nato a Messina, Parrinello consegue la laurea in fisica nel 1968 presso l'Univer
 È stato eletto membro di alcune delle più importanti organizzazioni scientifiche, come l'American Physical Society nel 1991 e la Royal Society nel 2001, e ha ricevuto il Premio Dreyfus nel 2017."
   abstract: "Lo sviluppo travolgente dei computer e di potenti algoritmi di calcolo hanno avuto un profondo impatto nella ricerca contemporanea. Questo ha fatto emergere un nuovo modo di fare scienza e accanto alle tradizionale discipline della fisica teorica e sperimentale è nata la fisica computazionale. In quest'ambito le simulazioni che descrivono la materia a partire dalla sua costituzione atomica giocano un ruolo particolare, avendo raggiunto un livello di accuratezza e capacità predittiva rimarchevole, tanto che si parla di esperimenti computazionali. Questi esperimenti aiutano nella comprensione dei processi fisici, rimpiazzano esperimenti impossibili o troppo costosi, predicono nuovi fenomeni e sono una forma di microscopia virtuale. Dimostreremo il potere di quest'approccio con esempi presi da applicazioni che hanno un grande impatto sulla società. Tuttavia nonostante i molti progressi molto rimane da fare ed illustreremo alcune delle possibili strategie atte a rendere l'impatto di questi metodi sempre più efficaci."
   link:
+  slides: Parrinello.pdf
 
 - nome: "Prof. Patrizia Caraveo"
   id: caraveo
