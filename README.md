@@ -1,4 +1,4 @@
 
-# CISF 2019
+# CISF 2020
 
-Sito ufficiale dell'evento CISF (Conferenza Italiana Studenti di Fisica), edizione 2019, organizzato dai comitati locali di Milano Statale e Milano Bicocca.
+Sito ufficiale dell'evento CISF (Conferenza Italiana Studenti di Fisica), edizione 2020, organizzato dal comitato locale di Pavia
