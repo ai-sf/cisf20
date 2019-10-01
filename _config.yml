@@ -1,8 +1,8 @@
 # Site settings
-title: "CISF 2019"
-description: "Conferenza Italiana degli Studenti di Fisica 2019"
-url: "http://ai-sf.it/cisf19/"
-#url: "http://ai-sf.it/cxmwla3no1/"
+title: "CISF 2020"
+description: "Conferenza Italiana degli Studenti di Fisica 2020"
+#url: "http://ai-sf.it/cisf20/"
+url: "http://ai-sf.it/dLxU36s3Hwxg91VCAwLe/"
 destination: ../site/
 locale: "it"
 
