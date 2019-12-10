@@ -36,7 +36,7 @@ schedule:
         where: ""
         descr: "Tempo Libero"
 
-	- hour: "20:00 - 21:00"
+- hour: "20:00 - 21:00"
         where: "Collegio Cairoli"
         descr: "Welcome Drink"
         tag: sera
@@ -87,7 +87,7 @@ schedule:
   - day: Ven 8
     date: "080620"
     day_ex: Venerdì 8 maggio
-    short_descr: "Visite centri esterni e conferenze, Universit� degli Studi di Milano (UniPv)"
+    short_descr: "Visite centri esterni e conferenze, Università degli Studi di Pavia (UniPv)"
     activity:
       - hour: "10:00 - 13:00"
         where: "Aula Magna, Università Centrale"
@@ -161,6 +161,6 @@ schedule:
         where: ""
         descr: " Check-Out"
 
-	- hour: "9:00 - 11:00"
+- hour: "9:00 - 11:00"
         where: "Oltrepò Pavese"
         descr: "Escursione Didattica"
