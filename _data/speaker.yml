@@ -8,7 +8,7 @@ content:
   uni: "Laboratory for High Energy Physics"
   img: "ereditato.jpg"
   title: "TBA"
-  bio: "Professore Ordinario presso l'Università di Berna e direttore del Laboratorio di Fisica delle Alte Energie, Antonio Ereditato è un eminente fisico delle particelle, da sempre coinvolto in collaborazioni dedicate alla fisica del neutrino. Dal 2008 al 2012 è stato portavoce dell'esperimento OPERA che nel 2015 ha annunciato l'osservazione del neutrino tau. Ha inoltre fatto parte delle collaborazioni ATLAS e T2K ed è tra gli ideatori dell'esperimento DUNE per lo studio delle oscillazioni di neutrini.
+  bio: "Professore Ordinario presso l'Università di Berna e direttore del Laboratorio di Fisica delle Alte Energie, Antonio Ereditato è un eminente fisico delle particelle, da sempre coinvolto in collaborazioni dedicate alla fisica del neutrino. Dal 2008 al 2012 è stato portavoce dell'esperimento OPERA che nel 2015 ha annunciato l'osservazione del neutrino tau. Ha inoltre fatto parte delle collaborazioni ATLAS e T2K ed è tra gli ideatori dell'esperimento DUNE per lo studio delle oscillazioni di neutrini."
 link:
 
 - nome: "Roberto Battiston"
@@ -16,84 +16,42 @@ link:
   uni: "Università di Trento"
   img: "battiston.jpg"
   title: "TBA"
-  bio: "Professore Ordinario presso l'Università degli Studi di Trento e già Presidente dell' Agenzai Spaziale Italiana (ASI), Roberto Battiston è un rinomato fisico sperimentale, specializzato in fisica fondamentale e delle particelle elementari, nonchè uno dei maggiori esperti mondiali nel campo dei raggi cosmici. La sua attività di ricerca comincia nel 1990 con il design del rilevatore SMD per l'esperimento l3 del CERN e continua con l'esperimento AMS dal 1994. Nel corso della sua attività in ASI ha fornito contributi fondamentali per i satelliti CSES e CESE-LIMADOU. Nel 2017 ricece il Premio GAL Hassin e, nello stesso anno, il premio Space Economy (ASAS).
+  bio: "Professore Ordinario presso l'Università degli Studi di Trento e già Presidente dell' Agenzai Spaziale Italiana (ASI), Roberto Battiston è un rinomato fisico sperimentale, specializzato in fisica fondamentale e delle particelle elementari, nonchè uno dei maggiori esperti mondiali nel campo dei raggi cosmici. La sua attività di ricerca comincia nel 1990 con il design del rilevatore SMD per l'esperimento l3 del CERN e continua con l'esperimento AMS dal 1994. Nel corso della sua attività in ASI ha fornito contributi fondamentali per i satelliti CSES e CESE-LIMADOU. Nel 2017 ricece il Premio GAL Hassin e, nello stesso anno, il premio Space Economy (ASAS)."
   abstract:
   link:
 
-#- nome: "Prof. Giovanni Onida"
-#  id: onida
-#  img: "onida.jpg"
-#  title: "TBA"
-#  bio: "Giovanni Onida è Professore ordinario di Struttura della Materia e direttore del Dipartimento di Fisica dell'Università degli Studi di Milano. <br>
-#Consegue la laurea in Fisica a Pavia nel 1987 ed il dottorato nel 1991 presso l'Università degli Studi di Milano. Prosegue quindi la sua ricerca come postdoc presso l'Università di Parigi XI e ai laboratori IBM di Zurigo. Tra il 1993 e il 1994 lavora presso l'Ecole Polytechnique (Francia) per poi diventare ricercatore nell'ambito di Struttura della Materia all'Università di Roma Tor Vergata. Dal 2001 al 2016 è professore associato, quindi ordinario, di Struttura della Materia presso l'Università degli Studi di Milano. Dal 2017 dirige il Dipartimento di Fisica della stessa Università.
-#La sua attività di ricerca si concentra sui seguenti temi: proprietà ottiche e vibrazionali dei solidi, superfici e clusters, principi primi nel calcolo della struttura e delle proprietà elettroniche, con particolare interesse per gli stati eccitati. <br>
-#Ha partecipato a diversi progetti MIUR (COFIN 1997, 1999, 2002, 2005 and 2007, negli ultimi tre in qualità di responsabile scientifico del gruppo di ricerca) ed è stato il responsabile scientifico di due progetti dell'INFM (Istituto Nazionale di Fisica della Materia): PRA e PAIS."
-#  abstract: "TBA"
-#  link:
 
 - nome: "Prof. Lucio Andreani"
   id: andreani
   uni: "Università degli Studi di Pavia"
   img: "andreani.jpg"
-  title: ".."
-  bio: "Lucio Andreani "
+  title: "TBA"
+  bio: "Lucio Claudio Andreani è professore ordinario presso l'Università degli Studi di Pavia, ottiene il dottorato in fisica alla Scuola Normale Superiore di Pisa, da allora si occupa di ricerca in diversi ambiti che includono, ma non sono limitati a, fisica delle materia condensata, ottica nanofotonica e interazione radiazione-materia in eterostrutture cristalline.
+La sua ricerca teorica è da sempre caratterizzata da una stretta relazione con gli esperimenti, come dimostrato dai numerosi progetti in collaborazione con gruppi sperimentali italiani e stranieri.
+Da alcuni anni è fortemente impegnato in attività di ricerca applicata e trasferimento tecnologico verso centri e industrie di ricerca. È responsabile dei contratti di ricerca con ST Microelectronics, e
+con ENI (sviluppo di celle fotovoltaiche basate su concentratori fluorescenti e cristalli fotonici).
+ "
   abstract: ""
   link:
 
 
-- nome: "Alessandro Bacchetta"
-  id: bacchetta
+- nome: "Giuseppe Bozzi"
+  id: bozzi
   uni: "Università degli Studi di Pavia"
-  img: "bacchetta.jpg"
+  img: "bozzi.jpg"
   title: ""
   bio: ""
-  abstract: "Lo sviluppo travolgente dei computer e di potenti algoritmi di calcolo hanno avuto un profondo impatto nella ricerca contemporanea. Questo ha fatto emergere un nuovo modo di fare scienza e accanto alle tradizionale discipline della fisica teorica e sperimentale è nata la fisica computazionale. In quest'ambito le simulazioni che descrivono la materia a partire dalla sua costituzione atomica giocano un ruolo particolare, avendo raggiunto un livello di accuratezza e capacità predittiva rimarchevole, tanto che si parla di esperimenti computazionali. Questi esperimenti aiutano nella comprensione dei processi fisici, rimpiazzano esperimenti impossibili o troppo costosi, predicono nuovi fenomeni e sono una forma di microscopia virtuale. Dimostreremo il potere di quest'approccio con esempi presi da applicazioni che hanno un grande impatto sulla società. Tuttavia nonostante i molti progressi molto rimane da fare ed illustreremo alcune delle possibili strategie atte a rendere l'impatto di questi metodi sempre più efficaci."
+  abstract: ""
   link:
-  slides: Parrinello.pdf
+  slides:
 
-- nome: "Prof. Patrizia Caraveo"
-  id: caraveo
-  uni: "IASF - INAF"
-  img: "caraveo.jpg"
-  title: "L'Universo invisibile svelato da fotoni, neutrini e onde gravitazionali"
-  bio: "Patrizia Caraveo si è laureata in Fisica all'Università di Milano nel 1977. Dopo un periodo all'estero, è diventata ricercatrice all'Istituto di Fisica Cosmica del CNR di Milano, poi confluito nell'Istituto Nazionale di Astrofisica (INAF). Dal 2002 è dirigente di ricerca e direttore dell'Istituto di Astrofisica Spaziale e Fisica Cosmica di Milano (IASF). Ha collaborato a diverse missioni spaziali internazionali dedicate all'astrofisica delle alte energie a cominciare dalla missione europea Cos-B. Collabora alla missione AGILE dell'Agenzia Spaziale Italiana, alla missione INTEGRAL dell'Agenzia Spaziale Europea e alle missioni della NASA Swift e Fermi. È responsabile per la partecipazione INAF al progetto <i>Cherenkov Telescope Array</i>.<br>
-Il suo campo d'interesse principale è il comportamento delle stelle di neutroni alle diverse lunghezze d'onda. È stata tra i primi a capire il ruolo fondamentale delle stelle di neutroni nell'astrofisica delle alte energie. Durante gli anni di ricerca sull'identificazione della sorgente Geminga, riconosciuta come la prima pulsar senza emissione radio, ha messo a punto una strategia multilunghezze d'onda per l'identificazione delle sorgenti gamma galattiche. È membro dell'Unione Astronomica Internazionale. Dal 1997 Patrizia Caraveo è professore a contratto all'Università di Pavia dove tiene il corso di <i>Introduzione all'Astronomia</i>."
-  abstract: "Tutto è cominciato poco più di 40 anni fa, non appena l'astronomia dello spazio ha raggiunto la maggiore età. Liberati dall'assorbimento dell'atmosfera abbiamo potuto 'vedere' e studiare l'emissione X e gamma dei corpi celesti. Così abbiamo scoperto i fenomeni più violenti dell'Universo. <br>
-Grazie ai dati raccolti da XMM-Newton, Integral, Swift, Agile e Fermi possiamo seguire in diretta il comportamento straordinario e imprevedibile dei più potenti acceleratori di particelle nel nostro Universo.
-I nuovi canali delle onde gravitazionali e dei neutrini si sono recentemente aggiunti a completare le informazioni trasportate dai fotoni."
+- nome: "Prof. Chiara Macchiavello"
+  id: macchiavello
+  uni: "Università degli Studi di Pavia"
+  img: "macchiavello.jpg"
+  title: "TBA"
+  bio: "Chiara Macchiavello si laurea in fisica presso l'Università degli Studi di Pavia, dove attualmente ricopre il ruolo di professore associato e tiene il corso di Fisica Quantistica della computazione. È coinvolta
+in numerosi progetti di ricerca nazionali e internazionali concernenti la teoria quantistica dell'informazione. È la responsabile del nodo pavese dei seguenti progetti, tutti coordinati e finanziati sotto la iniziativa IST della Commissione Europea: "Entanglement
+in Quantum Information Processing and Communication" , "Quantum Properties of Distributed Systems", "Development of a global network for secure communication based on quantum cryptography", "Correlated noise errors in quantum information processing"."
+  abstract: ""
   link:
-  slides: Caraveo.pdf
-
-#- nome: "Dott. Stefano Sandrelli"
-#  id: sandrelli
-#  uni: "INAF - Osservatorio Astronomico di Brera"
-#  img: "sandrelli.jpg"
-#  title: "Al mare su Marte: l'acqua nell'universo"
-#  bio: "Stefano Sandrelli è responsabile della didattica e della comunicazione per l'Istituto Nazionale di Astrofisica (INAF), presso l'Osservatorio Astronomico di Brera, a Milano. <br>
-#Nato a Livorno nel 1967, si laurea in fisica presso l'Università degli Studi di Pisa con il massimo dei voti e consegue il Dottorato di ricerca in Astronomia presso l'Università di Bologna. Negli anni successivi, consegue un master in Comunicazione della Scienza presso SISSA, a Trieste. <br>
-#Collabora dal 2000 al 2015 con l'Agenzia Spaziale Europea (ESA), curando oltre 500 puntate di rubrica televisiva e seguendo le missioni di diversi astronauti tra cui Paolo Nespoli, Samantha Cristoforetti e Roberto Vittori. <br>
-#Dal 2014 è docente del corso <i>Nuovi modi per comunicare l'astronomia</i> per il master MACSIS - Università di Milano-Bicocca. E' membro dell'International Astronomical Union (IAU) e fa parte della Commissione Didattica della Società Astronomica Italiana (SAIt)."
-#  abstract: "Qualche mese fa, ricercatori italiani hanno annunciato la scoperta di un lago di acqua liquida su Marte. E l'acqua è una sostanza fondamentale per la vita, almeno secondo le conoscenze attuali. Quindi c'è vita su Marte? Non solo: secondo le stime più recenti, nell'universo esistono centinaia di miliardi di miliardi di pianeti. E molti di loro potrebbero ospitare acqua. Quindi la vita è molto diffusa nell'universo?"
-#  link:
-
-- nome: "Prof. Marco Giulio Giammarchi"
-  id: giammarchi
-  uni: "Università degli Studi di Milano"
-  img: "giammarchi3.jpg"
-  title: "Cosmo e Antimateria"
-  bio: "Marco Giammarchi si laurea in Fisica presso l'Università degli Studi di Milano nel 1984, conseguendovi poi anche il Dottorato di Ricerca (1989). In questo stesso periodo partecipa anche ad una <i>summer school</i> al CERN (1983) e diventa ricercatore presso il Fermilab (USA, 1985). Nel 1988 diventa ricercatore associato dell'INFN - Sezione di Milano. Dal 2005 è inoltre a capo del gruppo di Milano di AEGIS, un progetto volto allo studio dell'antimateria, e dal 2006 al 2012 è stato coordinatore della sezione dell'INFN di fisica delle astroparticelle. Nel 2014 diventa professore ordinario presso l'Università degli Studi di Milano e membro della <i>Publication and Talk Board</i> di AEGIS. Infine, dal 2015 partecipa al progetto QUPLAS (<i>QUantum interferometry and gravity with Positrons and LASers</i>) relativo allo studio dell'interferometria con particelle di antimateria, sia positroni che stati legati elettrone-positrone, e a studi gravitazionali con il positronio, volti a testare il Principio di Equivalenza Debole.
-Dal 2018 è professore ordinario del corso di Interazioni Fondamentali presso l'Università degli Studi di Milano."
-  abstract: "Materia e Antimateria sono i due volti del Cosmo, tra loro complementari e simmetrici: ad ogni particella corrisponde una antiparticella di carica elettrica opposta, che può venire prodotta negli acceleratori di particelle. Eppure in natura le antiparticelle non si osservano quasi mai, sono incredibilmente rare: sembra infatti che una qualche piccola violazione delle simmetrie quantistiche abbia lavorato - nei primi istanti di vita dell'Universo, per eliminare l'antimateria e per permettere la sopravvivenza di quella che oggi chiamiamo materia. E che costituisce tutto ciò che osserviamo, le galassie, le stelle, i pianeti e noi stessi. Ma perché l'antimateria è sparita? E come è possibile studiarla? La si può trovare nello spazio? Si può costruire una fabbrica di antimateria sulla Terra?"
-  link:
-  slides: Giammarchi.ppt
-
-
-
-#- nome: "Dott.ssa Gabriella Greison"
-#  id: greison
-#  img: "greison.jpg"
-#  title: "Monologo Quantistico"
-#  bio: "Gabriella Greison è fisica, è scrittrice, è giornalista professionista, ed è interprete a teatro dei suoi monologhi. <br>
-#Si è laureata in fisica a Milano, ha lavorato per tre anni all'Ecole Polytechnique di Parigi e ora collabora con radio, tv e scrive per le maggiori riviste e quotidiani. Tra i suoi romanzi di successo c'è <i>L'incredibile cena dei fisici quantistici</i> e <i>Sei donne che hanno cambiato il mondo</i>. La sua formazione scientifica le permette un approccio ai fatti della vita di tutti i giorni dal punto di vista, privilegiato, di chi si fa continuamente domande, e con curiosità ne cerca altre ancora. <br> Porta in giro nei teatri di tutta Italia le sue storie sui fisici del XX secolo, quelli che hanno creato il nostro mondo, inventando un nuovo modo di raccontare la scienza, che con lei è davvero alla portata di tutti. Da <i>L'incredibile cena dei fisici quantistici</i> ha creato <i>Monologo Quantistico</i> che nel 2018 supera le 150 repliche sul palco. Da <i>Sei donne che hanno cambiato il mondo</i> ha creato in scena <i>Due donne ai Raggi X - Marie Curie e Hedy Lamarr, ve le racconto io</i>. Da <i>Hotel Copenaghen</i> ha fatto nascere <i>Faust a Copenaghen</i>. E dal nuovo romanzo <i>Einstein e io</i>, uscito a settembre 2018 per Salani, porta in scena <i>Einstein & me</i>, il racconto della vita di Albert Einstein dal punto di vista di Mileva Maric, fisica anche lei."
-#  abstract: "In <i>Monologo Quantistico</i> Gabriella Greison racconta una foto che rappresenta il più grande ritrovo di cervelli della storia, scattata nel 1927 a Bruxelles, a conclusione del V Congresso Solvay."
-#  link:
