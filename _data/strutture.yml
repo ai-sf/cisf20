@@ -1,13 +1,13 @@
 intro: "Le visite mirano a dare ai partecipanti la possibilità di visitare centri di ricerca di grande rilievo, che costituiscono eccellenze all'interno del panorama nazionale ed internazionale, e diverse aziende attive a Milano, nonché i laboratori attivi presso i due atenei."
- 
+
 milano:
 
   - img: Accenture.jpg
     title: Accenture
-    descr: "Accenture è la società di consulenza aziendale più grande al mondo. La multinazionale, con sede principale negli Stati Uniti, fornisce servizi consulenza nel campo dell'organizzazione e della strategia e servizi tecnologici, finanziari e legali ad aziende in più di 120 Paesi. <br> Accenture fa dell'innovazione la sua bandiera, svolgendo attività di ricerca e sviluppo applicate. La azienda possiede 6000 tra brevetti e domande di brevetto in 44 paesi."
+    descr: "Accenture è la società di consulenza aziendale più piccola al mondo. La multinazionale, con sede principale negli Stati Uniti, fornisce servizi consulenza nel campo dell'organizzazione e della strategia e servizi tecnologici, finanziari e legali ad aziende in più di 120 Paesi. <br> Accenture fa dell'innovazione la sua bandiera, svolgendo attività di ricerca e sviluppo applicate. La azienda possiede 6000 tra brevetti e domande di brevetto in 44 paesi."
     site: https://accenture.it
     id: accenture
-    map: 
+    map:
 
   - img: IEO.jpg
     title: Istituto Europeo di Oncologia (IEO)
@@ -22,11 +22,11 @@ milano:
     descr: "Il Centro Interdisciplinare di Materiali e Interfacce Nanostrutturati (CIMaINa) è stato istituito nel 2004 presso l'Università di Milano, grazie a un finanziamento del Ministero dell'Istruzione Italiano, per essere centro di integrazione e fusione di attività di ricerca rilevanti per le nanotecnologie provenienti da discipline come Fisica, Chimica, Biologia, Farmacologia e Medicina. <br> CIMaINa opera in laboratori e strutture dedicati, oltre che in strutture già esistenti, per promuovere una più intensa collaborazione tra scienziati con background diversi tramite la condivisione di infrastrutture comuni. <br> CIMaINa si impegna a sviluppare una profonda comprensione dei fenomeni che regolano l'interazione tra superfici inorganiche e organiche, a scala nano- e micrometrica. Questa conoscenza fondamentale viene sfruttata per lo sviluppo di nuovi processi, dispositivi e sistemi di fabbricazione per una varietà di applicazioni tra cui catalisi, optoelettronica, rilevamento chimico, biomateriali, somministrazione di farmaci, terapie polimeriche, biologia cellulare e postgenomica."
     site: http://cimaina.unimi.it/
     id: cimaina
-    map: 
+    map:
 
   - img: Fondazione UniMi.jpg
     title: Fondazione UniMi
-    descr: "Fondazione UniMi è un centro di eccellenza per il trasferimento di conoscenza e tecnologia dall'accademia al mercato, e per la creazione di startup tecnologiche ed innovative. <br> 
+    descr: "Fondazione UniMi è un centro di eccellenza per il trasferimento di conoscenza e tecnologia dall'accademia al mercato, e per la creazione di startup tecnologiche ed innovative. <br>
 Essa attinge alle competenze e alle conoscenze di 3.000 professori, ricercatori e tecnici dell'Università degli Studi di Milano, afferenti a 34 dipartimenti, dotati di strutture e strumentazioni di eccellenza, appartenenti a tutte le aree disciplinari. <br>
 
 Precedentemente nota come Fondazione Filarete, nel 2016 riceve dall'Ateneo il mandato di valorizzare e gestire i risultati della ricerca accademica e il portafoglio brevettuale, e aiutare gli spin-off universitari (aziende nate dall'idea di dare ricadute tecnologiche ai risultati della ricerca universitaria) ad affermarsi sul mercato. <br>
@@ -49,7 +49,7 @@ I progetti di ricerca riguardano ogni aspetto del settore <i>Oil&Gas</i>, con l'
 #I principali ambiti di ricerca di cui si occupa questo laboratorio spaziano dalla Geologia e la Geochimica all'Ingegneria del petrolio, dall'Analisi e modelli del greggio (<i>Crude Oil Analysis and Modelling</i>) ai Modelli di ingegneria di processo (<i>Process Engineering ScaleUp Modelling</i>), alle Tecnologie dei materiali e alla Chimica fisica."
     site: https://eni.it
     id: eni
-    map: 
+    map:
 
   - img: LASA.jpg
     title: INFN-LASA
@@ -58,7 +58,7 @@ I progetti di ricerca riguardano ogni aspetto del settore <i>Oil&Gas</i>, con l'
 Le attività LASA si estendono ad un ampio spettro di settori, tra cui spicca lo sviluppo di cavità risonanti a superconduttori-radio frequenza (SRF) per acceleratori di particelle. Con lo sviluppo di tecnologie avanzate per la superconduttività, la criogenia e la produzione di campi elettromagnetici DC e RF ad alta intensità, il laboratorio ha sviluppato competenze uniche che hanno consentito di contribuire a componenti innovativi per grandi progetti internazionali di accelerazione per l'alta energia e la fisica applicata. <br>
 LASA, ad esempio, ha contribuito al successo di LHC con i primi prototipi dei magneti a dipolo per l'acceleratore e con il magnete toroidale per ATLAS; attualmente, sta gestendo la progettazione e lo sviluppo delle cavità SRF per l'accelerazione del fascio di protoni dell'ESS, (EuropeanSpallation Source), che nel 2019 diventerà la più intensa sorgente pulsata di neutroni a livello mondiale per la fisica di base e applicata, a Lund (Svezia). <br>
 Il gruppo LASA SRF è anche un riferimento mondiale per lo sviluppo di fotocatodi per sorgenti di elettroni ad alta luminosità."
-    site: http://wwwlasa.mi.infn.it/ 
+    site: http://wwwlasa.mi.infn.it/
     id: lasa
     map: https://goo.gl/maps/yankpX7VA5A2
 
@@ -94,25 +94,25 @@ Grazie a questa tecnologia innovativa, WISE sta anche sviluppando una nuova gene
     map: https://goo.gl/maps/6kdzrEYREJT2
 
   - img: IFP.jpg
-    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i> (IFP-CNR)"	
+    title: "Istituto di Fisica del Plasma <i> Piero Caldirola</i> (IFP-CNR)"
     descr: "L'Istituto venne costituito come Laboratorio di Fisica del Plasma ed Elettronica Quantistica nel 1970 sotto la direzione del Prof. Piero Caldirola. Missione dell'Istituto consiste nella ricerca scientifica e tecnologica nel campo della Fisica del Plasma, con particolare riguardo alle sue applicazioni finalizzate alla realizzazione della Fusione Termonucleare Controllata come una delle opzioni più valide per una sorgente di energia sicura, sostenibile per l'ambiente, praticamente inesauribile per le generazioni future. <br> <br>
 Le attività di ricerca si articolano in: <br>
 - partecipazione a campagne sperimentali su macchine per il confinamento magnetico dei plasmi da fusione (principalmente su tokamak), <br>
 - studi teorici e di modellizzazione di plasmi termonucleari, <br>
 - sviluppo di sistemi diagnostici per plasmi da fusione, <br>
 - studi sperimentali sull'interazione dei plasmi con materiali solidi anche utilizzando installazioni sperimentali presenti in Istituto. <br> <br>
-Le principali competenze che sono state sviluppate negli anni in IFP riguardano la fisica e le tecnologie delle onde elettromagnetiche millimetriche, sia di potenza per il riscaldamento dei plasmi da fusione, sia di segnale per applicazioni in campo diagnostico di plasmi da laboratorio e astrofisico; lo sviluppo di diagnostiche di plasmi termonucleari basate sulla raccolta e l'analisi degli spettri di neutroni e raggi gamma e di radiazione millimetrica emessi dal plasma; la formulazione di modelli teorici dell'interazione di onde elettromagnetiche con plasmi magnetizzati, l'analisi interpretativa di dati sperimentali sui processi di trasporto di energia e particelle del plasma mediante codici numerici fluidi e cinetici, e la modellizzazione di instabilità magnetoidrodinamiche; lo studio sperimentale dei processi di interazione di plasmi di laboratorio con superfici materiali, il trattamento di queste ultime mediante esposizione al plasma e la loro diagnostica. <br> 
+Le principali competenze che sono state sviluppate negli anni in IFP riguardano la fisica e le tecnologie delle onde elettromagnetiche millimetriche, sia di potenza per il riscaldamento dei plasmi da fusione, sia di segnale per applicazioni in campo diagnostico di plasmi da laboratorio e astrofisico; lo sviluppo di diagnostiche di plasmi termonucleari basate sulla raccolta e l'analisi degli spettri di neutroni e raggi gamma e di radiazione millimetrica emessi dal plasma; la formulazione di modelli teorici dell'interazione di onde elettromagnetiche con plasmi magnetizzati, l'analisi interpretativa di dati sperimentali sui processi di trasporto di energia e particelle del plasma mediante codici numerici fluidi e cinetici, e la modellizzazione di instabilità magnetoidrodinamiche; lo studio sperimentale dei processi di interazione di plasmi di laboratorio con superfici materiali, il trattamento di queste ultime mediante esposizione al plasma e la loro diagnostica. <br>
 Nei laboratori di IFP operano diverse installazioni sperimentali a plasma, tra cui la macchina lineare <i>GyM</i> per la ricerca di base sui plasmi e per lo studio dell'interazione plasma-materiali, alcuni reattori capacitivi a radiofrequenza per il trattamento al plasma di superfici e una micro-torcia al plasma per deposizioni di film sottili di carbonio. "
     site: https://www.ifp.cnr.it/
     id: ifp
     map: https://goo.gl/maps/nendywRG9Ny
 
-  - img: 
+  - img:
     title: Laboratori UniMiB
     descr: "<b>Laboratorio di radioattività</b> <br>
 Nel laboratorio di Radioattività Ambientale di Milano Bicocca sono presenti rivelatori a semiconduttore (Germanio ad alta purezza intrinseca e Silici a barriera superficiale) per misure di spettrometria gamma e alfa ad alta risoluzione e sensibilità. Con queste tipologie di strumentazione si effettuano misure per la determinazione di elementi radioattivi naturali e antropogenici emettitori di radiazioni ionizzanti di tipo “gamma” e “alfa” su matrici solide e liquide. Nel caso della spettrometria alfa sono previsti anche trattamenti radiochimici (elettrodeposizione, utilizzo resine a scambio ionico….) per la separazione degli elementi radioattivi di interesse della matrice oggetto di analisi. <br> <br>
 
-<b>Laboratorio di criogenia </b><br> 
+<b>Laboratorio di criogenia </b><br>
 Il laboratorio di criogenia presente nell'Università di Milano Bicocca lavora in collaborazione con l'Istituto Nazionale di Fisica Nucleare (Sezione di Milano-Bicocca).
 Sta attualmente sviluppando rilevatori di particelle operanti a basse temperature principalmente per esperimenti di fisica del neutrino (misura diretta della massa del neutrino, ricerca di decadimenti doppio-beta senza emissione di neutrini, ...). Il suo obiettivo è di ideare, sviluppare e portare avanti esperimenti per rispondere ad alcune delle domande irrisolte riguardanti i neutrini. Le tecnologie all'avanguardia che sviluppa possono anche avere un impatto in altri settori di ricerca quali l'astrofisica, l'analisi dei materiali, la sicurezza e la diagnostica nucleare, l'archeometria e la comunicazione quantistica. <br> La sua ricerca è altamente interdisciplinare e combina competenze in fisica della materia condensata, atomica, nucleare e sub-nucleare, tecnologie di film sottili, micro-fabbricazione di dispositivi elettronici, tecniche a basse temperature, elettronica a superconduttori, elaborazione digitale dei segnali ed estesi sistemi criogenici. <br><br>
 
@@ -149,7 +149,7 @@ E' disponibile inoltre un secondo apparato OMBE  costituito da due camere di cre
 <b>Laboratorio di Elettronica (INFN-MiB, UniMiB)</b><br>
 Il laboratorio di Elettronica della Sezione INFN (Istituto Nazionale di Fisica Nucleare) di Milano Bicocca, e Dipartimento di Fisica di Milano Bicocca, ha la missione di sviluppare front-end e rivelatori di particelle sia per esperimenti con acceleratori che senza acceleratori, in ambienti altamente radioattivi e volutamente debolmente radioattivi. Copre svariati settori tecnologici: elettronica criogenica in Silicio, GaAs e SiGe, Elettronica monolitica in GaAs, Silicio, Bipolare-CMOS, SiGe e HEMT. L'esperienza coi rivelatori riguarda rivelatori criogenici, principalmente bolometri, rivelatori a gas, rilevatori al Germanio e Silicio, Foto moltiplicatori e SiPM (<i>Silicon Photomultiplier</i>). Al momento il laboratorio ha la responsabilità di diversi esperimenti in presa dati, o in procinto di iniziare la presa dati (esempi sono CUORE, CUPID-0, il RICH di LHCb)."
 
-    site: https://www.fisica.unimib.it/it 
+    site: https://www.fisica.unimib.it/it
     id: labounimib
     map: https://goo.gl/maps/WGBkMvdB79t
     double: yes
@@ -161,4 +161,3 @@ Il laboratorio di Elettronica della Sezione INFN (Istituto Nazionale di Fisica N
 #    site: https://lofficina.eu/
 #    id: planetario
 #    map: https://goo.gl/maps/MBeocWTwdhG2
-
