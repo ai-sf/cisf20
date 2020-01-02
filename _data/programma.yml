@@ -8,35 +8,25 @@ schedule:
     day_ex: Mercoledì 6 maggio
     short_descr: "Inaugurazione, Università degli Studi di Pavia (UniPv)"
     activity:
-      - hour: "8:00 - 13:00"
+      - hour: "8:00 - 14:00"
         where: "Accomodation o Università Centrale"
         descr: "Registrazione partecipanti"
         tag: firstlast
-      - hour: "14:00 - 16:00"
-        where: "Università Centrale, Aula TBA"
-        descr: "Cerimonia di apertura <br>
-#<b>Prof. Giovanni Onida</b>, Direttore del Dip. di Fisica<br>
-#<b>Mattia Ivaldi</b>, Presidente AISF <br>
-#<b> Prof.ssa Luisa Cifarelli</b>, Presidente SIF <br>
-#<b>Dott. Stefano Sandrelli</b>, INAF <br>
-#<b>Prof.ssa Ginevra Trinchieri</b>, Presidente SAIt <br>
-#<b>Dott. Luca Solari</b>, Presidente di Fondazione UniMi"
+      - hour: "14:00 - 17:00"
+        where: "Collegio Borromeo"
+        descr: "Cerimonia di apertura"
         tag:
-#      - hour: "16:00 - 17:30"
-#        where: "Dipartimento di Fisica UniMi"
-#        descr: "<b>Dott.ssa Gabriella Greison</b>, <i>Monologo Quantistico</i>"
-#        tag: conf
-#        id: speaker/#greison
+
       - hour: "17:00 - 19:00"
-        where: "Università Centrale, Aula TBA"
-        descr: "<b>Roberto Battiston</b>, <br> <i>La fisica del qualcosa che non so ancora cos'�.</i>"
+        where: "Collegio Borromeo"
+        descr: "<b>Roberto Battiston</b>, <br> <i>La fisica del qualcosa che non so ancora cos'è.</i>"
         tag: conf
         id : speaker/#battiston
         - hour: "19:00 - 20:00"
         where: ""
         descr: "Tempo Libero"
 
-- hour: "20:00 - 21:00"
+      - hour: "20:00 - 21:00"
         where: "Collegio Cairoli"
         descr: "Welcome Drink"
         tag: sera
@@ -53,35 +43,30 @@ schedule:
     day_ex: Giovedì 7 maggio
     short_descr: "Visite e conferenze (UniPv)"
     activity:
-      - hour: "9:00 - 11:00"
+      - hour: "9:00 - 13:00"
         where: "Dipartimento di Fisica UniPv"
-        descr: "Intervento SISFA (Società Italiana degli Storici della Fisica e dell'Astronomia)"
+        descr: "(AGA) Assemblea Generale Annuale"
         tag: firstlast
-      - hour: "11:00 - 13:00"
-        where: "Dipartimento di Fisica UniPv"
-        descr: "Guest Lecture"
-        tag: visit
-        id: strutture/#labounimib
       - hour: "13:00 - 14:00"
         where: "Mensa <i> nave </i>"
         descr: "Pausa pranzo"
         tag: svago
       - hour: "14:00 - 19:00"
-        where: "Dipartimento di Fisica UniPv"
-        descr: "AGA (Assemblea Generale Annuale)"
+        where: "LENA-IEO"
+        descr: "Escursioni Scientifiche"
         tag: conf
       - hour: "19:00 - 20:00"
         where: ""
         descr: "Tempo Libero"
         tag: conf
-      - hour: "20:00 - 21:00"
-        where: ""
-        descr: "Aperitivo (TBC)"
-        tag: svago
-      - hour: "21:00 - 23:00"
-        where: "Collegi Misti"
+      - hour: "20:00 - 22:00"
+        where: "Collegio Borromeo"
         descr: "Stage Show"
-        tag: sera
+        tag: svago
+      - hour: "22:00 - 23:00"
+        where: ""
+        descr: "Tempo Libero"
+        tag: svago
 
 
   - day: Ven 8
@@ -94,19 +79,25 @@ schedule:
         descr: "Presentazione CNAO"
         tag: conf
         id: strutture/#cnao
-      - hour: "13:00 - 14:00"
-        where: "Mensa <i> nave </i>"
-        descr: "Pausa Pranzo"
-        tag: svago
-      - hour: "14:00- 19:00"
+      - hour: "13:00 - 15:00"
         where: ""
-        descr: "Escursioni"
+        descr: "Pranzo Libero"
+        tag: svago
+      - hour: "15:00- 19:00"
+        where: "Dipartimento di Fisica UniPv"
+        descr: "Guest Lecture"
         tag: visit
-     	- hour: "19:00 - 21:00"
+
+     	- hour: "19:00 - 20:00"
+        where: ""
+        descr: "Tempo Libero"
+        tag: svago
+
+     	- hour: "20:00 - 22:00"
         where: "Oratorio del Carmine"
         descr: "Preparazione Regions Party"
 
-      - hour: "21:00 - 23:00"
+      - hour: "22:00 - 24:00"
         where: "Oratorio del Carmine"
         descr: "Regions Party"
 
@@ -125,7 +116,7 @@ schedule:
         tag: conf
       - hour: "11:00 - 13:00"
         where: "Dipartimento di Fisica"
-        descr: "Workshop AISF"
+        descr: "Parallel Session"
         tag: studenti
 
       - hour: "13:00 - 14:00"
@@ -133,22 +124,34 @@ schedule:
         descr: "Pausa pranzo"
         tag: svago
 
+      - hour: "14:00 - 15:00"
+        where: "Dipartimento di Fisica"
+        descr: "Workshop AISF"
+        tag: studenti
+
       - hour: "15:00 - 17:00"
         where: "Dipartimento di Fisica"
+        descr: "Guest Lecture"
+        tag: studenti
+
+
+
+      - hour: "17:00 - 18:00"
+        where: "Dipartimento di Fisica"
         descr: "Cerimonia di Chiusura"
-        tag:
-      - hour:"18:00 - 20:00"
-        where:""
+
+      - hour: "18:00 - 20:00"
+        where: ""
         descr: "Tempo Libero"
         tag: sera
 
-   - hour:"20:00 - 22:00"
-        where:"TBA"
+      - hour: "20:00 - 22:00"
+        where: "L'Abate"
         descr: "Cena Sociale"
         tag: sera
 
-  - hour:"22:00 - XX:XX"
-        where:""
+      - hour: "22:00 - 23:00"
+        where: ""
         descr: "Serata Libera"
         tag: sera
 
@@ -161,6 +164,6 @@ schedule:
         where: ""
         descr: " Check-Out"
 
-- hour: "9:00 - 11:00"
+      - hour: "11:00 - 19:00"
         where: "Oltrepò Pavese"
         descr: "Escursione Didattica"
