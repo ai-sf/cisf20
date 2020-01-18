@@ -40,14 +40,17 @@
   uni: "Università degli Studi di Pavia"
   ruolo: "Supporto attività e fotografo "
 
-- nome: "Alessia Bongallino"
-  img: "alo.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Supporto attività"
 
-- nome: "Martina Bocconi"
-  img: "marti.jpg"
+
+#- nome: "Martina Bocconi"
+#  img: "marti.jpg"
+#  studio: "Laurea Triennale"
+#  uni: "Università degli Studi di Pavia"
+#  ruolo: "Responsabile social"
+
+
+- nome: "Samuele Resmini"
+  img: "samu.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Pavia"
   ruolo: "Responsabile social"
@@ -58,37 +61,39 @@
   uni: "Università degli Studi di Pavia"
   ruolo: "Responsabile programma scientifico"
 
-- nome: "Alessandro Scabini"
-  img: "scabo.jpg"
+- nome: "Alessia Bongallino"
+#  img: "alo.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Pavia"
   ruolo: "Supporto attività"
 
+#- nome: "Alessandro Scabini"
+#  img: "scabo.jpg"
+#  studio: "Laurea Triennale"
+#  uni: "Università degli Studi di Pavia"
+#  ruolo: "Supporto attività"
+
 - nome: "Alessandro Zonato"
-  img: "zona.jpg"
+#  img: "zona.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Pavia"
   ruolo: "Responsabile sito web"
 
-- nome: "Samuele Resmini"
-  img: "samu.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Responsabile social"
+
 
 #in forse
-- nome: "Alessandro Modena"
-  img: "jeez.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Supporto attività"
+#- nome: "Alessandro Modena"
+#  img: "jeez.jpg"
+#  studio: "Laurea Triennale"
+#  uni: "Università degli Studi di Pavia"
+#  ruolo: "Supporto attività"
 
 # questo è in forse, del secondo anno
-- nome: "Marco Candido"
-  img: "marco.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Supporto attività"
+#- nome: "Marco Candido"
+#  img: "marco.jpg"
+#  studio: "Laurea Triennale"
+#  uni: "Università degli Studi di Pavia"
+#  ruolo: "Supporto attività"
 
 #- nome: "Luca Teruzzi Luca Tagliabue Luca Gomez"
 #  img: "luchi.jpg"
