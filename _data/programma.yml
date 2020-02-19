@@ -13,12 +13,12 @@ schedule:
         descr: "Registrazione partecipanti"
         tag: firstlast
       - hour: "14:00 - 17:00"
-        where: "Collegio Borromeo"
+        where: "Almo Collegio Borromeo"
         descr: "Cerimonia di apertura"
         tag:
       - hour: "17:00 - 19:00"
-        where: "Collegio Borromeo"
-        descr: "<b>Roberto Battiston</b>, <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
+        where: "Almo Collegio Borromeo"
+        descr: "Guest Lecture : <b>Roberto Battiston</b>, <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
         tag: conf
         id: speaker/#battiston
       - hour: "19:00 - 20:00"
@@ -31,7 +31,7 @@ schedule:
       - hour: "21:00 - 23:00"
         where: "Collegio Cairoli"
         descr: "Quiz scientifico: Botta di Coulomb"
-        tag: sera
+        tag: attivitaorg
         id: serate/#bdc
 
 
@@ -52,15 +52,15 @@ schedule:
       - hour: "14:00 - 19:00"
         where: "Dipartimento di Fisica UniPv, Aula A102"
         descr: "AGA (Assemblea Generale Annuale)"
-        tag: conf
+        tag: studenti
       - hour: "19:00 - 20:00"
         where: ""
         descr: "Tempo Libero"
-        tag: conf
+        tag: svago
       - hour: "20:00 - 22:00"
         where: "Collegio Borromeo"
         descr: "Stage Show"
-        tag: svago
+        tag: attivitaorg
       - hour: "22:00 - 23:00"
         where: ""
         descr: "Tempo Libero"
@@ -84,15 +84,16 @@ schedule:
         tag: svago
       - hour: "15:00- 16:00"
         where: "Dipartimento di Fisica UniPv, Aula A102"
-        descr: "Guest Lecture: Giuseppe Bozzi"
+        descr: "Guest Lecture: <b>Giuseppe Bozzi</b>"
         tag: conf
       - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica UniPv, Aula A102"
-        descr: "Guest Lecture: Prof.ssa Chiara Macchiavello"
+        descr: "Guest Lecture: <b>Prof.ssa Chiara Macchiavello</b>"
         tag: conf
       - hour: "17:00 - 19:00"
         where : "Dipartimento di Fisica UniPv"
         descr : "Parallel Session"
+        tag: studenti
       - hour: "19:00 - 20:00"
         where: ""
         descr: "Tempo Libero"
@@ -103,8 +104,7 @@ schedule:
       - hour: "22:00 - 24:00"
         where: "Oratorio del Carmine"
         descr: "Regions Party"
-
-
+        tag: attivitaorg
 
   - day: Sab 9
     date: "090620"
@@ -113,7 +113,7 @@ schedule:
     activity:
       - hour: "9:00 - 11:00"
         where: "Dipartimento di Fisica UniPv"
-        descr: "<b>Antonio Ereditato</b>, <i>Problemi aperti della Fisica Subnucleare.</i>"
+        descr: "Guest Lecture : <b>Antonio Ereditato</b>, <i>Problemi aperti della Fisica Subnucleare.</i>"
         id: speaker/#ereditato
         tag: conf
       - hour: "11:00 - 13:00"
@@ -130,8 +130,8 @@ schedule:
         tag: studenti
       - hour: "15:00 - 17:00"
         where: "Dipartimento di Fisica"
-        descr: "Guest Lecture: Prof. Lucio Claudio Andreani"
-        tag: studenti
+        descr: "Guest Lecture:<b>Prof. Lucio Claudio Andreani</b>"
+        tag: conf
       - hour: "17:00 - 18:00"
         where: "Dipartimento di Fisica UniPv"
         descr: "Cerimonia di Chiusura"
@@ -142,7 +142,7 @@ schedule:
       - hour: "20:00 - 22:00"
         where: "L'Abate"
         descr: "Cena Sociale"
-        tag: sera
+        tag: attivitaorg
       - hour: "22:00 - 23:00"
         where: ""
         descr: "Serata Libera"
@@ -162,3 +162,4 @@ schedule:
       - hour: "11:00 - 19:00"
         where: "Oltrepò Pavese"
         descr: "Escursione Didattica"
+        tag: attivitaorg
