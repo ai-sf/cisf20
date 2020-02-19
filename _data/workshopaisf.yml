@@ -1,5 +1,5 @@
 description: "Membri dell'associazione organizzeranno alcuni workshop in cui si discuteranno le migliori pratiche per organizzare attività ed eventi, consigli sulla gestione di un Comitato Locale e si illustreranno alcune iniziative intraprese dall'Associazione."
-
+<!--
 content:
 - name: "Elisa Garabello, Chiara Signorile Signorile"
   #uni: Università degli Studi di Torino
@@ -18,3 +18,4 @@ content:
   title: "Sistemi Di Riferimento"
   abstract: "Come si scrive un articolo? Quali sono i retroscena dietro al lavoro di redazione? In questo simpatico workshop Andrea e Matteo vi spiegheranno come scrivere di scienza senza annoiare il vostro pubblico."
   slides: SdR.pdf
+-->
