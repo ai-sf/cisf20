@@ -18,7 +18,7 @@ schedule:
         tag:
       - hour: "17:00 - 19:00"
         where: "Almo Collegio Borromeo"
-        descr: "Guest Lecture : <b>Roberto Battiston</b>, <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
+        descr: "Guest Lecture : <b>Roberto Battiston</b> <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
         tag: conf
         id: speaker/#battiston
       - hour: "19:00 - 20:00"
@@ -113,7 +113,7 @@ schedule:
     activity:
       - hour: "9:00 - 11:00"
         where: "Dipartimento di Fisica UniPv"
-        descr: "Guest Lecture : <b>Antonio Ereditato</b>, <i>Problemi aperti della Fisica Subnucleare.</i>"
+        descr: "Guest Lecture : <b>Antonio Ereditato</b> <br> <i>Problemi aperti della Fisica Subnucleare.</i>"
         id: speaker/#ereditato
         tag: conf
       - hour: "11:00 - 13:00"
@@ -130,7 +130,7 @@ schedule:
         tag: studenti
       - hour: "15:00 - 17:00"
         where: "Dipartimento di Fisica"
-        descr: "Guest Lecture:<b>Prof. Lucio Claudio Andreani</b>"
+        descr: "Guest Lecture: <b>Prof. Lucio Claudio Andreani</b>"
         tag: conf
       - hour: "17:00 - 18:00"
         where: "Dipartimento di Fisica UniPv"
