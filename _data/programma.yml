@@ -9,7 +9,7 @@ schedule:
     short_descr: "Inaugurazione, Università degli Studi di Pavia (UniPv)"
     activity:
       - hour: "8:00 - 14:00"
-        where: "Accomodation o Università Centrale"
+        where: "Almo Collegio Borromeo"
         descr: "Registrazione partecipanti"
         tag: firstlast
       - hour: "14:00 - 17:00"
@@ -18,7 +18,7 @@ schedule:
         tag:
       - hour: "17:00 - 19:00"
         where: "Collegio Borromeo"
-        descr: "<b>Roberto Battiston</b>, <br> <i>La fisica del qualcosa che non so ancora cos'è.</i>"
+        descr: "<b>Roberto Battiston</b>, <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
         tag: conf
         id: speaker/#battiston
       - hour: "19:00 - 20:00"
@@ -42,16 +42,16 @@ schedule:
     short_descr: "Visite e conferenze (UniPv)"
     activity:
       - hour: "9:00 - 13:00"
-        where: "Dipartimento di Fisica UniPv"
-        descr: "(AGA) Assemblea Generale Annuale"
-        tag: firstlast
+        where: "LENA - IEO - ENI"
+        descr: "Visite didattiche"
+        tag: conf
       - hour: "13:00 - 14:00"
         where: "Mensa <i> nave </i>"
         descr: "Pausa pranzo"
         tag: svago
       - hour: "14:00 - 19:00"
-        where: "LENA-IEO"
-        descr: "Escursioni Scientifiche"
+        where: "Dipartimento di Fisica UniPv, Aula A102"
+        descr: "AGA (Assemblea Generale Annuale)"
         tag: conf
       - hour: "19:00 - 20:00"
         where: ""
@@ -82,10 +82,17 @@ schedule:
         where: ""
         descr: "Pranzo Libero"
         tag: svago
-      - hour: "15:00- 19:00"
-        where: "Dipartimento di Fisica UniPv"
-        descr: "Guest Lecture"
-        tag: visit
+      - hour: "15:00- 16:00"
+        where: "Dipartimento di Fisica UniPv, Aula A102"
+        descr: "Guest Lecture: Giuseppe Bozzi"
+        tag: conf
+      - hour: "16:00 - 17:00"
+        where: "Dipartimento di Fisica UniPv, Aula A102"
+        descr: "Guest Lecture: Prof.ssa Chiara Macchiavello"
+        tag: conf
+      - hour: "17:00 - 19:00"
+        where : "Dipartimento di Fisica UniPv"
+        descr : "Parallel Session"
       - hour: "19:00 - 20:00"
         where: ""
         descr: "Tempo Libero"
@@ -106,11 +113,11 @@ schedule:
     activity:
       - hour: "9:00 - 11:00"
         where: "Dipartimento di Fisica UniPv"
-        descr: "<b>Antonio Ereditato</b>, <i>Argomento che non so</i>"
+        descr: "<b>Antonio Ereditato</b>, <i>Problemi aperti della Fisica Subnucleare.</i>"
         id: speaker/#ereditato
         tag: conf
       - hour: "11:00 - 13:00"
-        where: "Dipartimento di Fisica"
+        where: "Dipartimento di Fisica UniPv"
         descr: "Parallel Session"
         tag: studenti
       - hour: "13:00 - 14:00"
@@ -118,15 +125,15 @@ schedule:
         descr: "Pausa pranzo"
         tag: svago
       - hour: "14:00 - 15:00"
-        where: "Dipartimento di Fisica"
+        where: "Dipartimento di Fisica UniPv"
         descr: "Workshop AISF"
         tag: studenti
       - hour: "15:00 - 17:00"
         where: "Dipartimento di Fisica"
-        descr: "Guest Lecture"
+        descr: "Guest Lecture: Prof. Lucio Claudio Andreani"
         tag: studenti
       - hour: "17:00 - 18:00"
-        where: "Dipartimento di Fisica"
+        where: "Dipartimento di Fisica UniPv"
         descr: "Cerimonia di Chiusura"
       - hour: "18:00 - 20:00"
         where: ""
