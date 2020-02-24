@@ -30,11 +30,6 @@
       fb: https://it-it.facebook.com/shcitaly/
       linkedin:
 
-    - text: Dipartimento di Fisica UniPv
-      img: logo_unipv.png
-      link: https://web.unipv.it/
-      fb: https://it-it.facebook.com/universitapavia/
-      linkedin:
 
     - text: CNAO
       img: logo_CNAO.jpg
@@ -68,3 +63,15 @@
       img: IEO.png
       link: https://www.ieo.it/
       fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
+
+
+    - text: Dipartimento di Fisica UniPV
+      img: logo_unipv.png
+      link: https://web.unipv.it/
+      fb: https://it-it.facebook.com/universitapavia/
+
+
+    - text: Istituto Universitario di Studi Superiori
+      img: IUSS.jpg
+      link: http://www.iusspavia.it/home
+      fb: https://www.facebook.com/ScuolaIussPavia/

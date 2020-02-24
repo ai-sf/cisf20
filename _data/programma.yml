@@ -1,12 +1,12 @@
-info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso il Dipartimento di Fisica dell'Università degli Studi di Pavia, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo, la cena sociale di venerdì sera. L'evento si concluderà nel primo pomeriggio di domenica 10 maggio presso l'Oltrepò pavese."
+info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di venerdì sera. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio della stessa giorno per i partecipanti all'escursione in Oltrepò pavese."
 
-last_update: 03/01/20
+last_update: 24/02/20
 
 schedule:
   - day: Mer 6
     date: "060520"
     day_ex: Mercoledì 6 maggio
-    short_descr: "Inaugurazione, Università degli Studi di Pavia (UniPv)"
+    short_descr: "Inaugurazione, Almo Collegio Borromeo"
     activity:
       - hour: "8:00 - 14:00"
         where: "Almo Collegio Borromeo"
@@ -39,18 +39,18 @@ schedule:
   - day: Gio 7
     date: "070620"
     day_ex: Giovedì 7 maggio
-    short_descr: "Visite e conferenze (UniPv)"
+    short_descr: "Visite e conferenze (UniPV)"
     activity:
       - hour: "9:00 - 13:00"
         where: "LENA - IEO - ENI"
         descr: "Visite didattiche"
         tag: conf
       - hour: "13:00 - 14:00"
-        where: "Mensa <i> nave </i>"
+        where: "Mensa <i> Nave </i>"
         descr: "Pausa pranzo"
         tag: svago
       - hour: "14:00 - 19:00"
-        where: "Dipartimento di Fisica UniPv, Aula A102"
+        where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "AGA (Assemblea Generale Annuale)"
         tag: studenti
       - hour: "19:00 - 20:00"
@@ -71,7 +71,7 @@ schedule:
   - day: Ven 8
     date: "080620"
     day_ex: Venerdì 8 maggio
-    short_descr: "Visite centri esterni e conferenze, Università degli Studi di Pavia (UniPv)"
+    short_descr: "Visite centri esterni e conferenze, Università degli Studi di Pavia (UniPV)"
     activity:
       - hour: "10:00 - 13:00"
         where: "Aula Magna, Università Centrale"
@@ -83,15 +83,15 @@ schedule:
         descr: "Pranzo Libero"
         tag: svago
       - hour: "15:00- 16:00"
-        where: "Dipartimento di Fisica UniPv, Aula A102"
+        where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "Guest Lecture: <b>Giuseppe Bozzi</b>"
         tag: conf
       - hour: "16:00 - 17:00"
-        where: "Dipartimento di Fisica UniPv, Aula A102"
+        where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "Guest Lecture: <b>Prof.ssa Chiara Macchiavello</b>"
         tag: conf
       - hour: "17:00 - 19:00"
-        where : "Dipartimento di Fisica UniPv"
+        where : "Dipartimento di Fisica UniPV"
         descr : "Parallel Session"
         tag: studenti
       - hour: "19:00 - 20:00"
@@ -109,15 +109,15 @@ schedule:
   - day: Sab 9
     date: "090620"
     day_ex: Sabato 9 maggio
-    short_descr: "Talk studenti e conferenze, Università degli Studi di Pavia(UniPv)"
+    short_descr: "Talk studenti e conferenze, Università degli Studi di Pavia(UniPV)"
     activity:
       - hour: "9:00 - 11:00"
-        where: "Dipartimento di Fisica UniPv"
+        where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "Guest Lecture : <b>Antonio Ereditato</b> <br> <i>Problemi aperti della Fisica Subnucleare.</i>"
         id: speaker/#ereditato
         tag: conf
       - hour: "11:00 - 13:00"
-        where: "Dipartimento di Fisica UniPv"
+        where: "Dipartimento di Fisica UniPV"
         descr: "Parallel Session"
         tag: studenti
       - hour: "13:00 - 14:00"
@@ -125,7 +125,7 @@ schedule:
         descr: "Pausa pranzo"
         tag: svago
       - hour: "14:00 - 15:00"
-        where: "Dipartimento di Fisica UniPv"
+        where: "Dipartimento di Fisica UniPV"
         descr: "Workshop AISF"
         tag: studenti
       - hour: "15:00 - 17:00"
@@ -133,7 +133,7 @@ schedule:
         descr: "Guest Lecture: <b>Prof. Lucio Claudio Andreani</b>"
         tag: conf
       - hour: "17:00 - 18:00"
-        where: "Dipartimento di Fisica UniPv"
+        where: "Dipartimento di Fisica UniPV"
         descr: "Cerimonia di Chiusura"
       - hour: "18:00 - 20:00"
         where: ""

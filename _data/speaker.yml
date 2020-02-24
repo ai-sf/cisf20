@@ -2,13 +2,6 @@ description: "Le conferenze si terranno nelle varie sedi dell'Università di Pav
 Gli speaker, scienziati e divulgatori che operano in sedi diverse ed in settori molto vari, sono stati selezionati sulla base dell'impatto del loro lavoro e dei collegamenti con la città e l'università di Pavia. Argomenti dei seminari saranno le attuali frontiere della ricerca in Fisica, spaziando sul maggior numero possibile di ambiti e tematiche."
 
 content:
-- nome: "Antonio Ereditato"
-  id: ereditato
-  uni: "Laboratory for High Energy Physics"
-  img: "ereditato.jpg"
-  title: "TBA"
-  bio: "Professore Ordinario presso l'Università di Berna e direttore del Laboratorio di Fisica delle Alte Energie, Antonio Ereditato è un eminente fisico delle particelle, da sempre coinvolto in collaborazioni dedicate alla fisica del neutrino. Dal 2008 al 2012 è stato portavoce dell'esperimento OPERA che nel 2015 ha annunciato l'osservazione del neutrino tau. Ha inoltre fatto parte delle collaborazioni ATLAS e T2K ed è tra gli ideatori dell'esperimento DUNE per lo studio delle oscillazioni di neutrini."
-  link:
 
 - nome: "Roberto Battiston"
   id: battiston
@@ -18,6 +11,17 @@ content:
   bio: "Professore Ordinario presso l'Università degli Studi di Trento e già Presidente dell' Agenzia Spaziale Italiana (ASI), Roberto Battiston è un rinomato fisico sperimentale, specializzato in fisica fondamentale e delle particelle elementari, nonchè uno dei maggiori esperti mondiali nel campo dei raggi cosmici. La sua attività di ricerca comincia nel 1990 con il design del rilevatore SMD per l'esperimento l3 del CERN e continua con l'esperimento AMS dal 1994. Nel corso della sua attività in ASI ha fornito contributi fondamentali per i satelliti CSES e CESE-LIMADOU. Nel 2017 ricece il Premio GAL Hassin e, nello stesso anno, il premio Space Economy (ASAS)."
   abstract:
   link:
+
+
+- nome: "Antonio Ereditato"
+  id: ereditato
+  uni: "Laboratory for High Energy Physics"
+  img: "ereditato.jpg"
+  title: "TBA"
+  bio: "Professore Ordinario presso l'Università di Berna e direttore del Laboratorio di Fisica delle Alte Energie, Antonio Ereditato è un eminente fisico delle particelle, da sempre coinvolto in collaborazioni dedicate alla fisica del neutrino. Dal 2008 al 2012 è stato portavoce dell'esperimento OPERA che nel 2015 ha annunciato l'osservazione del neutrino tau. Ha inoltre fatto parte delle collaborazioni ATLAS e T2K ed è tra gli ideatori dell'esperimento DUNE per lo studio delle oscillazioni di neutrini."
+  link:
+
+
 
 
 - nome: "Prof. Lucio Andreani"
