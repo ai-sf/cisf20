@@ -24,19 +24,17 @@
       link: http://home.infn.it/it/
       fb: https://www.facebook.com/IstitutoFisicaNucleare/
 
-    - text: Springer
-      img: logo_springer.png
-      link: https://www.springer.com/it
-      fb: https://it-it.facebook.com/shcitaly/
-      linkedin:
-
-
     - text: CNAO
       img: logo_CNAO.jpg
       link: https://www.fondazionecnao.it/it/
       fb: https://it-it.facebook.com/FondazioneCnao/
       linkedin:
 
+    - text: Springer
+      img: logo_springer.png
+      link: https://www.springer.com/it
+      fb: https://it-it.facebook.com/shcitaly/
+      linkedin:
 
     - text: Italmark
       img: logo_italmark.png
@@ -44,6 +42,16 @@
       fb: https://it-it.facebook.com/Italmark/
       linkedin:
 
+    - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
+      img: logo_101caffe.png
+      link: https://www.101caffe.it/
+      fb: https://www.facebook.com/101Caffe/
+      linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
+
+    - text: Istituto Europeo di Oncologia (IEO)
+      img: IEO.png
+      link: https://www.ieo.it/
+      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
 
 
 
@@ -52,24 +60,10 @@
 #- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
-    - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
-      img: logo_101caffe.png
-      link: https://www.101caffe.it/
-      fb: https://www.facebook.com/101Caffe/
-      linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
-#    - text: Civico Planetario <i>Ulrico Hoepli</i> <br> e associazione L'Officina del Planetario
-
-    - text: Istituto Europeo di Oncologia (IEO)
-      img: IEO.png
-      link: https://www.ieo.it/
-      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
-
-
     - text: Dipartimento di Fisica UniPV
       img: logo_unipv.png
       link: https://web.unipv.it/
       fb: https://it-it.facebook.com/universitapavia/
-
 
     - text: Istituto Universitario di Studi Superiori
       img: IUSS.jpg
