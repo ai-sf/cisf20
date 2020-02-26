@@ -69,3 +69,14 @@
       img: IUSS.jpg
       link: http://www.iusspavia.it/home
       fb: https://www.facebook.com/ScuolaIussPavia/
+
+    - text: Almo Collegio Borromeo
+      img: borromeo.png
+      link: http://www.collegioborromeo.it/it/
+      fb: https://it-it.facebook.com/colborromeo/
+
+
+    - text: Collegio Fratelli Cairoli
+      img: cairoli.png
+      link: https://www.collegiocairoli.it/it/
+      fb: https://it-it.facebook.com/Collegio.Cairoli.GGU/
