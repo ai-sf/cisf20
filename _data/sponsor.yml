@@ -17,7 +17,7 @@
     - text: SIF
       img: logo_SIF.jpg
       link: https://www.sif.it/
-      linkedin: https://it-it.facebook.com/societaitalianadifisica/
+      fb: https://it-it.facebook.com/societaitalianadifisica/
 
     - text: Istituto Nazionale di Fisica Nucleare (INFN)
       img: logo_INFN.png
@@ -60,7 +60,7 @@
 #- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
-    - text: Dipartimento di Fisica UniPV
+    - text: Dipartimento di Fisica UniPV <br>
       img: logo_unipv.png
       link: https://web.unipv.it/
       fb: https://it-it.facebook.com/universitapavia/
@@ -70,13 +70,13 @@
       link: http://www.iusspavia.it/home
       fb: https://www.facebook.com/ScuolaIussPavia/
 
-    - text: Almo Collegio Borromeo
+    - text: Almo Collegio Borromeo <br>
       img: borromeo.png
       link: http://www.collegioborromeo.it/it/
       fb: https://it-it.facebook.com/colborromeo/
 
 
-    - text: Collegio Fratelli Cairoli
+    - text: Collegio Fratelli Cairoli <br>
       img: cairoli.png
       link: https://www.collegiocairoli.it/it/
       fb: https://it-it.facebook.com/Collegio.Cairoli.GGU/
