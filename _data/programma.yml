@@ -87,10 +87,12 @@ schedule:
         where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "Guest Lecture: <b>Giuseppe Bozzi</b>"
         tag: conf
+        id: speaker/#bozzi
       - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "Guest Lecture: <b>Prof.ssa Chiara Macchiavello</b>"
         tag: conf
+        id: speaker/#macchiavello
       - hour: "17:00 - 19:00"
         where : "Dipartimento di Fisica UniPV"
         descr : "Parallel Session"
@@ -134,6 +136,7 @@ schedule:
         where: "Dipartimento di Fisica"
         descr: "Guest Lecture: <b>Prof. Lucio Claudio Andreani</b> <br> <i> Luce ed energia.</i>"
         tag: conf
+        id: speaker/#andreani
       - hour: "17:00 - 18:00"
         where: "Dipartimento di Fisica UniPV"
         descr: "Cerimonia di Chiusura"
