@@ -61,6 +61,7 @@ schedule:
         where: "Collegio Borromeo"
         descr: "Stage Show: <b>'Costellazioni' di Nick Payne (2012) </b> <br> Interpreti:<i> Martina Bocconi, Filippo Capobianco. </i> <br> Regia:<i> Francesca Barbaglia. </i>"
         tag: attivitaorg
+        id: serate/#spettacolo
       - hour: "22:00 - 23:00"
         where: ""
         descr: "Tempo Libero"
@@ -105,6 +106,7 @@ schedule:
         where: "Oratorio del Carmine"
         descr: "Regions Party"
         tag: attivitaorg
+        id: serate/#cenadelleregioni
 
   - day: Sab 9
     date: "090620"
@@ -143,6 +145,7 @@ schedule:
         where: "L'Abate"
         descr: "Cena Sociale"
         tag: attivitaorg
+        id: serate/#cenasociale
       - hour: "22:00 - 23:00"
         where: ""
         descr: "Serata Libera"
