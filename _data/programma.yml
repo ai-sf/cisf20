@@ -1,4 +1,4 @@
-info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di venerdì sera. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio della stessa giorno per i partecipanti all'escursione in Oltrepò pavese."
+info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di venerdì sera. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio dello stesso giorno per i partecipanti all'escursione in Oltrepò pavese."
 
 last_update: 24/02/20
 
@@ -59,7 +59,7 @@ schedule:
         tag: svago
       - hour: "20:00 - 22:00"
         where: "Collegio Borromeo"
-        descr: "Stage Show"
+        descr: "Stage Show: <b>'Costellazioni' di Nick Payne (2012) </b> <br> Interpreti:<i> Martina Bocconi, Filippo Capobianco. </i> <br> Regia:<i> Francesca Barbaglia. </i>"
         tag: attivitaorg
       - hour: "22:00 - 23:00"
         where: ""
@@ -130,7 +130,7 @@ schedule:
         tag: studenti
       - hour: "15:00 - 17:00"
         where: "Dipartimento di Fisica"
-        descr: "Guest Lecture: <b>Prof. Lucio Claudio Andreani</b>"
+        descr: "Guest Lecture: <b>Prof. Lucio Claudio Andreani</b> <br> <i> Luce ed energia.</i>"
         tag: conf
       - hour: "17:00 - 18:00"
         where: "Dipartimento di Fisica UniPV"

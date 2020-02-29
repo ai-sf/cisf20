@@ -60,15 +60,19 @@
 #- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
-    - text: Dipartimento di Fisica UniPV <br>
-      img: logo_unipv.png
-      link: https://web.unipv.it/
-      fb: https://it-it.facebook.com/universitapavia/
+
 
     - text: Istituto Universitario di Studi Superiori
       img: IUSS.jpg
       link: http://www.iusspavia.it/home
       fb: https://www.facebook.com/ScuolaIussPavia/
+
+
+    - text: Dipartimento di Fisica UniPV <br>
+      img: logo_unipv.png
+      link: https://web.unipv.it/
+      fb: https://it-it.facebook.com/universitapavia/
+
 
     - text: Almo Collegio Borromeo <br>
       img: borromeo.png

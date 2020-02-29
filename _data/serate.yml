@@ -1,7 +1,25 @@
 #intro:
 
   - img: bdc.jpg
-    title: Quiz scientifico
+    title: Quiz Scientifico
     descr: "Nella serata di apertura dell'evento si terrà l'ormai celebre quiz scientifico interattivo a squadre <i>Botta di Coulomb</i>, ideato e realizzato interamente dal Comitato Locale di Pavia. Il gioco consiste in un quiz con domande di carattere scientifico-tecnologico e risposte a scelta multipla: un'ottima occasione per divertirsi, mettere alla prova il proprio spirito critico e imparare! Le domande verteranno su molteplici argomenti: dalla fisica alla medicina, dalla chimica alla biologia e all'ingegneria."
     id: bdc
     when: Mercoledì 6 maggio, ore 21:00
+
+  - img: spettacolo.jpg
+    title: Stage Show
+    descr: "Se ogni possibile futuro esiste, allora le decisioni che prendiamo o non prendiamo determinano in quale possibile futuro vivremo. Immagina di tirare un dado per seimila volte."
+    id: spettacolo
+    when: Giovedì 7 maggio, ore 20:00
+
+  - img: cenadelleregioni.jpg
+    title: Cena delle Regioni
+    descr: "L'Italia ha una tradizione culinaria unica al mondo: ognuna delle venti regioni italiane possiede una gran varietà di ricette, vini, e ingredienti e prodotti tipici."
+    id: cenadelleregioni
+    when: Venerdì 8 maggio, ore 20:00
+
+  - img: cenasociale.jpg
+    title: Cena Sociale
+    descr: "Perdersi e trovarsi a Pavia. Potrebbe essere il titolo di un romanzo, oppure l'inizio e la fine di una serata in una città come poche. Il miglior modo per scoprirla è a stomaco pieno dopo una soddisfacente cena in compagnia."
+    id: cenasociale
+    when: Sabato 9 maggio, ore 20:00

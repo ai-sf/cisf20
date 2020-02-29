@@ -62,7 +62,7 @@
   ruolo: "Responsabile programma scientifico"
 
 - nome: "Alessia Bongallino"
-#  img: "alo.jpg"
+  img: "bongallino.jpg"
   studio: "Laurea Triennale"
   uni: "Università degli Studi di Pavia"
   ruolo: "Supporto attività"
@@ -72,13 +72,6 @@
 #  studio: "Laurea Triennale"
 #  uni: "Università degli Studi di Pavia"
 #  ruolo: "Supporto attività"
-
-- nome: "Alessandro Zonato"
-#  img: "zona.jpg"
-  studio: "Laurea Triennale"
-  uni: "Università degli Studi di Pavia"
-  ruolo: "Responsabile sito web"
-
 
 
 #in forse
