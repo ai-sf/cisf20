@@ -7,10 +7,10 @@ few_info:
       subpoints:
         - text: "<b>100</b> con alloggio, con quota di <b>100</b> euro;"
         - text: "<b>50</b> senza alloggio, con quota di <b>50</b> euro."
-        - text: "Vi è inoltre la possibilità di partecipare ad una gita alla scoperta dei vini dell'Oltrepò pavese nella mattinata di domenica, al prezzo di <b>35</b> euro." 
+        - text: "Vi è inoltre la possibilità di partecipare ad una gita alla scoperta dei vini dell'Oltrepò pavese nella mattinata di domenica, al prezzo di <b>35</b> euro."
     - text: "Entrambe le quote di partecipazione comprendono:"
       subpoints:
-        - text: "pranzo di giovedì e sabato, aperitivo di benvenuto, cena sociale di sabato e i coffee break;"
+        - text: "pranzo di giovedì, venerdì e sabato, aperitivo di benvenuto, cena sociale di sabato e i coffee break;"
         - text: "trasporti dentro e fuori Pavia nel corso dell'evento;"
         - text: "sacchetto con i gadget dell'evento."
     - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso un ostello per le 4 notti dell'evento, comprensivo di colazioni. Maggiori dettagli sono disponibili alla pagina <a href='../strutture#alloggio'>Strutture</a>."
@@ -24,7 +24,7 @@ few_info:
 deadlines:
   info:
   specs:
-    - text: "Le iscrizioni apriranno giovedì 13 dicembre 2018 alle ore 12:00 e chiuderanno sabato 12 gennaio 2019 alle ore 24:00."
+    - text: "Le iscrizioni apriranno lunedì 9 marzo 2020 alle ore 12:00 e chiuderanno lunedì 12 aprile 2020 alle ore 24:00."
     - text: "La selezione dei partecipanti sarà effettuata dal Comitato Organizzatore della CISF 2020 in collaborazione con il Comitato Esecutivo AISF. La lettera di motivazione, da inserire nel form di registrazione, pur rimanendo facoltativa, sarà un importante elemento di valutazione e la proposta di un contenuto scientifico (talk e/o poster) costituirà titolo preferenziale."
     - text: "Entro 3 giorni dalla chiusura delle registrazioni, i partecipanti selezionati saranno avvisati tramite l'indirizzo e-mail indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre 10 giorni dalla ricezione della e-mail, pena l'esclusione dalla partecipazione all'evento."
     - text: "Una volta definiti i partecipanti all'evento verrà pianificato il calendario delle sezioni talk studenti in base ai contributi pervenuti. Non è garantito che tutti i contributi scientifici (colloqui e poster) potranno essere accettati."

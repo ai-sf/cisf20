@@ -74,6 +74,12 @@
       fb: https://it-it.facebook.com/universitapavia/
 
 
+- title: "Ringraziamenti Speciali"
+#- title: "Con il patrocinio di:"
+  format: "m3"
+  subitems:
+
+
     - text: Almo Collegio Borromeo <br>
       img: borromeo.png
       link: http://www.collegioborromeo.it/it/

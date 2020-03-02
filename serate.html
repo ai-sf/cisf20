@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eventi serali
+title: Attività
 ---
 
 <!-- {{site.data.serate.intro}} -->
@@ -15,14 +15,14 @@ title: Eventi serali
         	<div class="card" id='{{item.id}}'>
          		<div class="card-image">
             			<img src="{{ site.url}}/img/serate/{{ item.img }}">
-    	    				   <span class="card-title"><b>{{ item.title }}</b>  <!-- <small><small><small>Foto di {{ item.photocredit }}	</small></small></small> --></span>  
+    	    				   <span class="card-title"><b>{{ item.title }}</b>  <!-- <small><small><small>Foto di {{ item.photocredit }}	</small></small></small> --></span>
          		</div>
           			<div class="card-content">
 
     	    				   <p style='text-align:justify'>{{ item.descr }}</p>
       					<p style='text-align:right'><b>{{ item.when }}</b></p>
           			</div>
-		</div>      		
+		</div>
 		</div>
     {% if col == 1 %}
 	</div>

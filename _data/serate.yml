@@ -23,3 +23,9 @@
     descr: "Perdersi e trovarsi a Pavia. Potrebbe essere il titolo di un romanzo, oppure l'inizio e la fine di una serata in una città come poche. Il miglior modo per scoprirla è a stomaco pieno dopo una soddisfacente cena in compagnia."
     id: cenasociale
     when: Sabato 9 maggio, ore 20:00
+
+  - img: Oltrepo-Pavese.jpg
+    title: Escursione in Oltrepò
+    descr: "L'Oltrepò Pavese si distingue per un'ampia varietà di ristoranti e agriturismi che offrono prodotti tipici della zona. Sicuramente il prodotto principale è il rinomato vino dell'Oltrepò Pavese."
+    id: oltrepo
+    when: Domenica 10 maggio
