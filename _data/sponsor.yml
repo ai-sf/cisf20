@@ -8,21 +8,21 @@
       fb: https://it-it.facebook.com/rotaryminerva/
       linkedin:
 
-    - text: SISFA
-      img: sisfa_logo.jpg
-      link: http://www.sisfa.org/
-      fb: https://www.facebook.com/sisfa.ita
-      linkedin:
+    # - text: SISFA
+    #   img: sisfa_logo.jpg
+    #   link: http://www.sisfa.org/
+    #   fb: https://www.facebook.com/sisfa.ita
+    #   linkedin:
 
-    - text: SIF
-      img: logo_SIF.jpg
-      link: https://www.sif.it/
-      fb: https://it-it.facebook.com/societaitalianadifisica/
+    # - text: SIF
+    #   img: logo_SIF.jpg
+    #   link: https://www.sif.it/
+    #   fb: https://it-it.facebook.com/societaitalianadifisica/
 
-    - text: Istituto Nazionale di Fisica Nucleare (INFN)
-      img: logo_INFN.png
-      link: http://home.infn.it/it/
-      fb: https://www.facebook.com/IstitutoFisicaNucleare/
+    # - text: Istituto Nazionale di Fisica Nucleare (INFN)
+    #   img: logo_INFN.png
+    #   link: http://home.infn.it/it/
+    #   fb: https://www.facebook.com/IstitutoFisicaNucleare/
 
     - text: CNAO
       img: logo_CNAO.jpg
