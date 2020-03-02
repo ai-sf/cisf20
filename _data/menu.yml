@@ -4,10 +4,10 @@
   url: speaker
 - text: Strutture
   url: strutture
-- text: Eventi serali
+- text: Attività
   url: serate
 - text: <b>Iscrizioni</b>
-  url: iscrizioni	
+  url: iscrizioni
 - text: CO
   url: organizzatori
 - text: Sponsor
