@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+// Color
+@import "components/color-variables";
+@import "components/color-classes";
+
 // Mixins
 @import "components/prefixer";
 @import "components/mixins";
