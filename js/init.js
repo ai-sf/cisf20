@@ -17,6 +17,7 @@
         $('.modal').modal();
         $('.carousel').carousel();
 
+	/*
         $(".row").each(function(){
             maxHeight = 0;
             $(".card .card-content", $(this)).each(function(){
@@ -26,5 +27,7 @@
                 $(this).height(maxHeight);
             });
         });
+	*/
+	
     }); // end of document ready
 })(jQuery); // end of jQuery name space

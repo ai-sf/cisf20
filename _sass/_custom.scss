@@ -46,6 +46,7 @@ ul.dashed > li:before{
     background-color: $color-type2-light !important;
 }*/
 
+/*
 .card-action.text-right{
     text-align: right;
 }
@@ -122,6 +123,7 @@ ul.dashed > li:before{
     width: 100%;
     height: 100%;
 }
+*/
 
 #gradient-nav{
     position:absolute;
@@ -215,6 +217,7 @@ padding: 20px 0 0 0;
     height: 720px;
 }
 
+/*
 .card.customh .card-image{
     height:200px;
     overflow: hidden;
@@ -231,6 +234,7 @@ padding: 20px 0 0 0;
     margin-left: -0.7em;
     display: inline-block;
 }
+*/
 
 #overlay{
     @extend .black;
