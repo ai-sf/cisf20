@@ -241,6 +241,16 @@ padding: 20px 0 0 0;
 }
 */
 
+// Increase image size in collection-item avatar
+.collection .collection-item.avatar:not(.circle-clipper) > .circle {
+    width: 125px;
+    height: 125px;
+    top: 15px;
+}
+.collection .collection-item.avatar {
+    padding-left: 160px;
+}
+
 #overlay{
     @extend .black;
     position:fixed;
