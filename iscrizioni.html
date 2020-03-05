@@ -38,22 +38,12 @@ title: Registrazione all'evento
   <p>{{ site.data.iscrizioni.few_info.info }}<p>
   <ul class="collection">
   {% for item in site.data.iscrizioni.few_info.specs %}
-    <li
-      {% if item.url contains "http://" %}
-         href="{{ item.url }}"
-      {% else %}
-         href="{{ site.url }}/{{ item.url }}"
-      {% endif %}
-      class="collection-item black-text">
+    <li class="collection-item black-text">
       {{ item.text }}
-      {% if item.url != "#!" %}
-        <span class="badge custom1 white-text">{{ item.button }}</span>
-      {% endif %}
     </li>
     {% for item2 in item.subpoints %}
       <li class="collection-item black-text custom1 lighten-5">
         {{ item2.text }}
-
       </li>
     {% endfor %}
   {% endfor %}
