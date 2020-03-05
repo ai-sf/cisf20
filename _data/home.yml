@@ -1,4 +1,6 @@
-logo: "img/banner.png"
+
+logo: "img/b_noback.png"
+#logo: "img/banner.png"
 longname: "Conferenza Italiana Studenti di Fisica"
 
 who: "<b>150</b> studenti dei corsi di laurea <b>Triennale</b> o <b>Magistrale</b> o del <b>Dottorato di ricerca</b> in Fisica che siano regolarmente iscritti all'AISF per l'anno accademico 2019/2020."

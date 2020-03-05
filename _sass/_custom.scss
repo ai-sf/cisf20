@@ -157,15 +157,15 @@ ul.dashed > li:before{
      justify-content: center;
      align-items: center;
      color:white;
-     text-transform: uppercase;
+     //text-transform: uppercase;
      font-weight: 300;
-     font-size: 16pt;
+     font-size: 22pt;
 }
 
 
 #banner-description img{
     margin-bottom: 1em;
-    height: 250px;
+    height: 400px;
 }
 
 #banner-description div{
@@ -259,4 +259,4 @@ padding: 20px 0 0 0;
 
 #foto-eventi { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
 
-#index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+//#index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
