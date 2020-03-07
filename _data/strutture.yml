@@ -15,3 +15,27 @@ pavia:
     site: http://lena.unipv.it/
     id: lena
     map:
+
+  - img: hpc5.jpg
+    title: ENI Hpc5
+    descr: "Il nuovo supercalcolatore Hpc5 affianca il sistema precedente (Hpc4) triplicandone la potenza di calcolo da 18 a 52 PetaFlop/s, vale a dire 52 milioni di miliardi di operazioni matematiche svolte in un secondo, permettendo all’ecosistema di supercalcolo Eni di raggiungere una potenza di picco totale pari a 70 PetaFlop/s. Hpc5 è anche di fatto l’infrastruttura di supercalcolo dedicata al supporto di attività industriali più potente al mondo e porta l’azienda a superare un altro traguardo nel processo di digitalizzazione."
+    site: https://www.eni.com/en-IT/operations/green-data-center-hpc5.html
+    id: eni
+    map:
+
+
+  - img: eni.jpg
+    title: ENI Laboratori Bolgiano
+    descr: "Il Centro di Ricerche di Bolgiano, cuore della ricerca Eni in ambito di qualità, efficienza e sostenibilità, è il luogo dove le idee possono trasformarsi in tecnologie innovative. Il lavoro dei ricercatori del centro spazia dallo studio dei campioni di roccia fino ad arrivare alla generazione di energia dai rifiuti e dalle onde del mare. Eni apre le porte dei propri siti italiani per raccontare le proprie attività, mostrando come queste siano improntate al rispetto per l'ambiente e alla sicurezza, e per una parte sempre più importante all'economia circolare."
+    site: https://www.eni.com/it-IT/video/centrale-enipower-bolgiano.html
+    id: eni
+    map:
+
+
+  - img: eucentre.jpg
+    title: Eucentre
+    descr: "Eucentre è una Fondazione di diritto privato senza scopo di lucro che persegue una missione di ricerca, formazione e erogazione di servizi nel settore dell’ingegneria sismica e, più in generale, dell’ingegneria della sicurezza.
+Nata nel 2005 come evoluzione del Centro Europeo di Formazione e Ricerca in Ingegneria Sismica già attivo a Pavia dal 2003, è stata costituita dai Fondatori, l’Università degli Studi di Pavia, la Scuola Universitaria Superiore IUSS di Pavia, il Dipartimento della Protezione Civile della Presidenza del Consiglio dei Ministri, l’Istituto Nazionale di Geofisica e Vulcanologia, per sviluppare ulteriormente le competenze scientifiche, di ricerca e di alta formazione nel settore presenti a Pavia."
+    site: https://www.eucentre.it/
+    id: eni
+    map:

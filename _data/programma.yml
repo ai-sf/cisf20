@@ -1,4 +1,4 @@
-info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di venerdì sera. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio dello stesso giorno per i partecipanti all'escursione in Oltrepò pavese."
+info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di sabato. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio dello stesso giorno per i partecipanti all'escursione in Oltrepò pavese."
 
 last_update: 24/02/20
 
@@ -22,12 +22,13 @@ schedule:
         tag: conf
         id: speaker/#battiston
       - hour: "19:00 - 20:00"
-        where: ""
-        descr: "Tempo Libero"
-      - hour: "20:00 - 21:00"
         where: "Collegio Cairoli"
         descr: "Welcome Drink"
         tag: sera
+      - hour: "20:00 - 21:00"
+        where: ""
+        descr: "Tempo Libero"
+        tag: svago
       - hour: "21:00 - 23:00"
         where: "Collegio Cairoli"
         descr: "Quiz scientifico: Botta di Coulomb"
@@ -41,11 +42,11 @@ schedule:
     day_ex: Giovedì 7 maggio
     short_descr: "Visite e conferenze (UniPV)"
     activity:
-      - hour: "9:00 - 13:00"
-        where: "LENA - IEO - ENI"
+      - hour: "9:00 - 12:00"
+        where: "LENA - EUCENTRE - ENI"
         descr: "Visite didattiche"
         tag: conf
-      - hour: "13:00 - 14:00"
+      - hour: "12:00 - 14:00"
         where: "Mensa <i> Nave </i>"
         descr: "Pausa pranzo"
         tag: svago
@@ -53,11 +54,11 @@ schedule:
         where: "Dipartimento di Fisica UniPV, Aula A102"
         descr: "AGA (Assemblea Generale Annuale)"
         tag: studenti
-      - hour: "19:00 - 20:00"
+      - hour: "19:00 - 21:00"
         where: ""
         descr: "Tempo Libero"
         tag: svago
-      - hour: "20:00 - 22:00"
+      - hour: "21:00 - 22:00"
         where: "Collegio Borromeo"
         descr: "Stage Show: <b>'Costellazioni' di Nick Payne (2012) </b> <br> Interpreti:<i> Martina Bocconi, Filippo Capobianco. </i> <br> Regia:<i> Francesca Barbaglia. </i>"
         tag: attivitaorg
@@ -74,14 +75,18 @@ schedule:
     day_ex: Venerdì 8 maggio
     short_descr: "Visite centri esterni e conferenze, Università degli Studi di Pavia (UniPV)"
     activity:
-      - hour: "10:00 - 13:00"
+      - hour: "10:00 - 11:30"
         where: "Aula Magna, Università Centrale"
         descr: "Presentazione CNAO"
         tag: conf
         id: strutture/#cnao
+      - hour: "11:30 - 13:00"
+        where: "Istituto Universitario di Studi Superiori di Pavia"
+        descr: "Presentazione IUSS: <b> Prof. Andrea Tiengo, Dott. Paolo Esposito </b> <br> <i>Il cielo a raggi X: l'universo furioso.</i>"
+        tag: conf
       - hour: "13:00 - 15:00"
-        where: ""
-        descr: "Pranzo Libero"
+        where: "Istituto Universitario di Studi Superiori di Pavia"
+        descr: "Rinfresco"
         tag: svago
       - hour: "15:00- 16:00"
         where: "Dipartimento di Fisica UniPV, Aula A102"
@@ -94,8 +99,8 @@ schedule:
         tag: conf
         id: speaker/#macchiavello
       - hour: "17:00 - 19:00"
-        where : "Dipartimento di Fisica UniPV"
-        descr : "Parallel Session"
+        where : "Dipartimento di Fisica UniPV, Aula A101/102/103/109"
+        descr : "Incontro Aziende"
         tag: studenti
       - hour: "19:00 - 20:00"
         where: ""
@@ -117,7 +122,7 @@ schedule:
     activity:
       - hour: "9:00 - 11:00"
         where: "Dipartimento di Fisica UniPV, Aula A102"
-        descr: "Guest Lecture : <b>Antonio Ereditato</b> <br> <i>Problemi aperti della Fisica Subnucleare.</i>"
+        descr: "Guest Lecture : <b>Antonio Ereditato</b> <br> <i>Neutrini massivi: una finestra sull'ignoto.</i>"
         id: speaker/#ereditato
         tag: conf
       - hour: "11:00 - 13:00"
@@ -167,6 +172,6 @@ schedule:
 
       - hour: "11:00 - 19:00"
         where: "Oltrepò Pavese"
-        descr: "Escursione Didattica"
+        descr: "Escursione"
         tag: attivitaorg
         id: serate/#oltrepo
