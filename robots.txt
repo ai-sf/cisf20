@@ -1,2 +1,8 @@
+# Disallow crawling of the entire website
+# User-agent: * 
+# Disallow: /
+
+# Allow crawling of the entire website
+# (full access is the assumption)
 User-agent: * 
-Disallow: /
+Allow: /
