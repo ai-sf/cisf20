@@ -18,7 +18,7 @@ schedule:
         tag:
       - hour: "17:00 - 19:00"
         where: "Almo Collegio Borromeo"
-        descr: "Guest Lecture : <b>Roberto Battiston</b> <br> <i>La fisica del cosmo e le nuove tecnologie dell'esplorazione spaziale.</i>"
+        descr: "Guest Lecture : <b>Roberto Battiston</b> <br>"
         tag: conf
         id: speaker/#battiston
       - hour: "19:00 - 20:00"
