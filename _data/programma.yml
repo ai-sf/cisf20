@@ -90,7 +90,7 @@ schedule:
         tag: svago
       - hour: "15:00- 16:00"
         where: "Dipartimento di Fisica UniPV, Aula A102"
-        descr: "Guest Lecture: <b>Giuseppe Bozzi</b>"
+        descr: "Guest Lecture: <b>Giuseppe Bozzi</b> <br> <i> I  falsi miti della divulgazione scientifica: come una bugia ripetuta cento volte rischia di diventare una verità. </i>"
         tag: conf
         id: speaker/#bozzi
       - hour: "16:00 - 17:00"
