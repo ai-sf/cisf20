@@ -173,6 +173,7 @@ schedule:
       - hour: "10:00 - 12:30"
         where: "Pavia e Oltrepò"
         descr: "Tour De GustiBUS"
+        tag: attivitaorg
         id : serate/#oltrepo
 
       - hour: "12:30 - 16:00"
