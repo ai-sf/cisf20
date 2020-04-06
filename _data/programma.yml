@@ -1,11 +1,11 @@
-info: "L'evento si terrà da mercoledì 6 maggio a domenica 10 maggio 2020 a Pavia. La registrazione partecipanti comincerà nella mattina di mercoledì 6 maggio presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione e all'Assemblea Generale Annuale, sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di sabato. L'evento si concluderà la mattina della domenica 10 maggio oppure il pomeriggio dello stesso giorno per i partecipanti all'escursione in Oltrepò pavese."
+info: "L'evento avrà una durata di 5 giorni e si svolgerà a Pavia. La registrazione partecipanti comincerà la mattina del primo giorno presso l'Almo Collegio Borromeo, seguita dalla cerimonia di apertura e da prime conferenze. <br> Oltre alle conferenze e alle visite, ai workshop dell'Associazione sono organizzati anche alcuni momenti di svago, come il quiz scientifico 'Botta di Coulomb' di mercoledì  sera, la serata con spettacolo e la cena sociale di sabato. L'evento si concluderà la mattina dell'ultimo giorno oppure il pomeriggio dello stesso giorno per i partecipanti all'escursione in Oltrepò pavese."
 
 last_update: 24/02/20
 
 schedule:
-  - day: Mer 6
+  - day: Primo Giorno
     date: "060520"
-    day_ex: Mercoledì 6 maggio
+    day_ex: Primo Giorno
     short_descr: "Inaugurazione, Almo Collegio Borromeo"
     activity:
       - hour: "8:00 - 14:00"
@@ -37,9 +37,9 @@ schedule:
 
 
 
-  - day: Gio 7
+  - day: Secondo Giorno
     date: "070620"
-    day_ex: Giovedì 7 maggio
+    day_ex: Secondo Giorno
     short_descr: "Visite e conferenze (UniPV)"
     activity:
       - hour: "9:00 - 12:00"
@@ -70,9 +70,9 @@ schedule:
 
 
 
-  - day: Ven 8
+  - day: Terzo Giorno
     date: "080620"
-    day_ex: Venerdì 8 maggio
+    day_ex: Terzo Giorno
     short_descr: "Visite centri esterni e conferenze, Università degli Studi di Pavia (UniPV)"
     activity:
       - hour: "10:00 - 11:30"
@@ -115,9 +115,9 @@ schedule:
         tag: attivitaorg
         id: serate/#cenadelleregioni
 
-  - day: Sab 9
+  - day: Quarto Giorno
     date: "090620"
-    day_ex: Sabato 9 maggio
+    day_ex: Quarto Giorno
     short_descr: "Talk studenti e conferenze, Università degli Studi di Pavia(UniPV)"
     activity:
       - hour: "9:00 - 11:00"
@@ -161,9 +161,9 @@ schedule:
 
 
 
-  - day: Dom 10
+  - day: Quinto Giorno
     date: "100620"
-    day_ex: Domenica 10 maggio
+    day_ex: Quinto Giorno
     short_descr: "Escursione Oltrepò Pavese"
     activity:
       - hour: "9:00 - 10:00"
